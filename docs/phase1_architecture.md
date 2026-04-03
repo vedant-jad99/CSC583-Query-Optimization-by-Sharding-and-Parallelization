@@ -13,17 +13,17 @@ Phase 1 is a static, Boolean query engine. The Python pipeline runs once at buil
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                     BUILD TIME (Python)                     │
-│                                                             │
-│   Raw Documents → Pipeline → index.bin                      │
+│                     BUILD TIME (Python)                   │
+│                                                           │
+│   Raw Documents → Pipeline → index.bin                    │
 └─────────────────────────────┬───────────────────────────────┘
                               │
                          index.bin
                               │
 ┌─────────────────────────────▼───────────────────────────────┐
-│                   QUERY TIME (C++)                          │
-│                                                             │
-│   index.bin → BooleanEngine → query results                 │
+│                   QUERY TIME (C++)                        │
+│                                                           │
+│   index.bin → BooleanEngine → query results               │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -312,48 +312,48 @@ auto results = engine.query("information AND retrieval NOT theory");
 
 ```
 ╔═════════════════════════════════════════════════════════════════════════════════════╗
-║                          PHASE 1 — COMPLETE ARCHITECTURE                            ║
+║                          PHASE 1 — COMPLETE ARCHITECTURE                          ║
 ╚═════════════════════════════════════════════════════════════════════════════════════╝
 
   BUILD TIME
  ┌─────────────────────────────────────────────────────────────────────────────────┐
- │  PYTHON INDEXING PIPELINE                                                       │
- │                                                                                 │
+ │  PYTHON INDEXING PIPELINE                                                     │
+ │                                                                               │
  │  ┌──────────────────────────────────────────────────────────────────────────┐   │
- │  │  Pipeline                                                                │   │
- │  │                                                                          │   │
+ │  │  Pipeline                                                              │   │
+ │  │                                                                        │   │
  │  │  ┌───────────────────────────────────────┐  ┌──────────────────────┐     │   │
- │  │  │  IndexCreator                         │  │  MakeBinFile         │     │   │
- │  │  │                                       │  │                      │     │   │
- │  │  │  ┌───────────┐                        │  │  ┌───────────────┐   │     │   │
- │  │  │  │ FileReader│                        │  │  │  VBEncoder    │   │     │   │
- │  │  │  │           │ (doc_id, raw_text)     │  │  │               │   │     │   │
- │  │  │  │ corpus/ ──┼──────────────────┐     │  │  │ delta encode  │   │     │   │
- │  │  │  └───────────┘                  │     │  │  │ VByte encode  │   │     │   │
- │  │  │                                 ▼     │  │  └───────┬───────┘   │     │   │
- │  │  │  ┌───────────┐           ┌──────────┐ │  │          │           │     │   │
- │  │  │  │ Tokenizer │──────────►│Normalizer│ │  │  ┌───────▼───────┐   │     │   │
- │  │  │  └───────────┘  tokens   │          │ │  │  │   BinWriter   │   │     │   │
- │  │  │                          │CaseFolder│ │  │  │               │   │     │   │
- │  │  │                          │PunctRem. │ │  │  │ magic+version │   │     │   │
- │  │  │                          │StopWords │ │  │  │ num_terms     │   │     │   │
- │  │  │                          │Stemmer   │ │  │  │ per term:     │   │     │   │
- │  │  │                          └────┬─────┘ │  │  │  term_len     │   │     │   │
- │  │  │                               │       │  │  │  doc_cnt      │   │     │   │
- │  │  │                    norm tokens▼       │  │  │  term str     │   │     │   │
- │  │  │  ┌──────────────┐                     │  │  │  VB doc IDs   │   │     │   │
- │  │  │  │ IndexBuilder │                     │  │  └───────────────┘   │     │   │
- │  │  │  │              │                     │  │                      │     │   │
- │  │  │  │ dict[str,    │                     │  └──────────────────────┘     │   │
- │  │  │  │ list[int]]   │                     │             │                 │   │
- │  │  │  └──────────────┘                     │             │                 │   │
- │  │  └───────────────────────────────────────┘             │                 │   │
- │  │                │                                       │                 │   │
- │  │                │   inverted index                      │                 │   │
- │  │                └───────────────────────────────────────┘                 │   │
+ │  │  │  IndexCreator                        │  │  MakeBinFile         │    │   │
+ │  │  │                                      │  │                      │    │   │
+ │  │  │  ┌───────────┐                       │  │  ┌───────────────┐    │    │   │
+ │  │  │  │ FileReader│                       │  │  │  VBEncoder    │   │    │   │
+ │  │  │  │           │ (doc_id, raw_text)    │  │  │               │   │    │   │
+ │  │  │  │ corpus/ ──┼──────────────────┐    │  │  │ delta encode  │    │    │   │
+ │  │  │  └───────────┘                  │    │  │  │ VByte encode  │    │    │   │
+ │  │  │                                      │  │  └───────┬───────┘    │    │   │
+ │  │  │  ┌───────────┐           ┌──────────┐ │  │          │           │    │   │
+ │  │  │  │ Tokenizer │──────────►│Normalizer│ │  │  ┌───────▼───────┐   │    │   │
+ │  │  │  └───────────┘  tokens   │          │ │  │  │   BinWriter   │   │    │   │
+ │  │  │                          │CaseFolder│ │  │  │               │   │    │   │
+ │  │  │                          │PunctRem. │ │  │  │ magic+version │   │    │   │
+ │  │  │                          │StopWords │ │  │  │ num_terms     │   │    │   │
+ │  │  │                          │Stemmer   │ │  │  │ per term:     │   │    │   │
+ │  │  │                          └────┬─────┘ │  │  │  term_len     │   │    │   │
+ │  │  │                               │       │  │  │  doc_cnt      │   │    │   │
+ │  │  │                    norm tokens▼       │  │  │  term str     │   │    │   │
+ │  │  │  ┌──────────────┐                     │  │  │  VB doc IDs   │   │    │   │
+ │  │  │  │ IndexBuilder │                     │  │  └───────────────┘   │    │   │
+ │  │  │  │              │                     │  │                      │   │   │
+ │  │  │  │ dict[str,    │                     │  └──────────────────────┘    │   │
+ │  │  │  │ list[int]]   │                     │             │               │   │
+ │  │  │  └──────────────┘                     │             │               │   │
+ │  │  └───────────────────────────────────────┘             │                │   │
+ │  │                │                                       │               │   │
+ │  │                │   inverted index                      │               │   │
+ │  │                └───────────────────────────────────────┘                │   │
  │  └──────────────────────────────────────────────────────────────────────────┘   │
- │                                          │                                      │
- │               Makefile: python3 pipeline.py --corpus ./docs --out index.bin     │
+ │                                          │                                    │
+ │               Makefile: python3 pipeline.py --corpus ./docs --out index.bin   │
  └──────────────────────────────────────────┼──────────────────────────────────────┘
                                             │
                                             ▼
@@ -374,67 +374,67 @@ auto results = engine.query("information AND retrieval NOT theory");
                                             │  mmap
   QUERY TIME                                │
  ┌──────────────────────────────────────────┼──────────────────────────────────────┐
- │  C++ QUERY ENGINE                        │                                      │
- │                                          ▼                                      │
+ │  C++ QUERY ENGINE                        │                                    │
+ │                                          ▼                                    │
  │  ┌──────────────────────────────────────────────────────────────────────────┐   │
- │  │  main.cpp                                                                │   │
- │  │  BooleanEngine engine;                                                   │   │
- │  │  engine.init("index.bin");    engine.query("X AND Y NOT Z");             │   │
+ │  │  main.cpp                                                              │   │
+ │  │  BooleanEngine engine;                                                 │   │
+ │  │  engine.init("index.bin");    engine.query("X AND Y NOT Z");           │   │
  │  └─────────────────────────────────────┬────────────────────────────────────┘   │
- │                                        │                                        │
- │                                        ▼                                        │
+ │                                        │                                      │
+ │                                        ▼                                      │
  │  ┌──────────────────────────────────────────────────────────────────────────┐   │
- │  │  BooleanEngine                                                           │   │
- │  │                                                                          │   │
- │  │  init(path):                                                             │   │
- │  │    decompressor.load(path)                                               │   │
- │  │    queryRunner.init(std::move(index), std::move(docIDs))                 │   │
- │  │                                                                          │   │
- │  │  ┌──────────────────────────┐      ┌──────────────────────────────────┐  │   │
- │  │  │  Decompressor            │      │  QueryRunner                     │  │   │
- │  │  │  decompressor.hpp/.cpp   │      │                                  │  │   │
- │  │  │                          │      │  ┌────────────────────────────┐  │  │   │
- │  │  │  load(path):             │      │  │  Preprocessor              │  │  │   │
- │  │  │    mmap bin file         │      │  │                            │  │  │   │
- │  │  │    validate magic        │      │  │  tokenize()                │  │  │   │
- │  │  │    walk pointer          │      │  │  casefold()     mirrors    │  │  │   │
- │  │  │    VByte decode          │      │  │  punct_remove() Python     │  │  │   │
- │  │  │    delta expand          │      │  │  stopword()     pipeline   │  │  │   │
- │  │  │    build index           │      │  │  stem()                    │  │  │   │
- │  │  │    build docID set       │      │  └────────────────────────────┘  │  │   │
- │  │  │    munmap                │      │                                  │  │   │
- │  │  │                          │      │  ┌────────────────────────────┐  │  │   │
- │  │  │  getIndex()  ─────────── ┼─move─┼─►│  IRSubsystem               │  │  │   │
- │  │  │  getDocIDs() ─────────── ┼─move─┼─►│                            │  │  │   │
- │  │  │                          │      │  │  const unordered_map       │  │  │   │
- │  │  └──────────────────────────┘      │  │  <string,vector<uint32_t>> │  │  │   │
- │  │                                    │  │                            │  │  │   │
- │  │                                    │  │  const set<uint32_t>       │  │  │   │
- │  │                                    │  │                            │  │  │   │
- │  │                                    │  │  ┌──────────────────────┐  │  │  │   │
- │  │                                    │  │  │  OpHandler           │  │  │  │   │
- │  │                                    │  │  │                      │  │  │  │   │
- │  │                                    │  │  │  AND → linear merge  │  │  │  │   │
- │  │                                    │  │  │  OR  → linear merge  │  │  │  │   │
- │  │                                    │  │  │  NOT → set diff      │  │  │  │   │
- │  │                                    │  │  │        vs univ set   │  │  │  │   │
- │  │                                    │  │  └──────────────────────┘  │  │  │   │
- │  │                                    │  └────────────────────────────┘  │  │   │
- │  │                                    └──────────────────────────────────┘  │   │
+ │  │  BooleanEngine                                                          │  │
+ │  │                                                                         │  │
+ │  │  init(path):                                                            │  │
+ │  │    decompressor.load(path)                                              │  │
+ │  │    queryRunner.init(std::move(index), std::move(docIDs))                │  │
+ │  │                                                                         │  │
+ │  │  ┌──────────────────────────┐      ┌──────────────────────────────────┐   │  │
+ │  │  │  Decompressor            │      │  QueryRunner                    │  │  │
+ │  │  │  decompressor.hpp/.cpp   │      │                                 │  │  │
+ │  │  │                          │      │  ┌────────────────────────────┐  │  │  │
+ │  │  │  load(path):             │      │  │  Preprocessor              │ │  │  │
+ │  │  │    mmap bin file         │      │  │                            │ │  │  │
+ │  │  │    validate magic        │      │  │  tokenize()                │ │  │  │
+ │  │  │    walk pointer          │      │  │  casefold()     mirrors    │ │  │  │
+ │  │  │    VByte decode          │      │  │  punct_remove() Python     │ │  │  │
+ │  │  │    delta expand          │      │  │  stopword()     pipeline   │ │  │  │
+ │  │  │    build index           │      │  │  stem()                    │ │  │  │
+ │  │  │    build docID set       │      │  └────────────────────────────┘  │  │  │
+ │  │  │    munmap                │      │                                 │  │  │
+ │  │  │                          │      │  ┌────────────────────────────┐  │  │  │
+ │  │  │  getIndex()  ─────────── ┼─move─┼─►│  IRSubsystem               │  │  │  │
+ │  │  │  getDocIDs() ─────────── ┼─move─┼─►│                            │  │  │  │
+ │  │  │                          │      │  │  const unordered_map       │  │ │  │
+ │  │  └──────────────────────────┘       │  │  <string,vector<uint32_t>> │  │ │  │
+ │  │                                    │  │                            │  │ │  │
+ │  │                                    │  │  const set<uint32_t>       │  │ │  │
+ │  │                                    │  │                            │  │ │  │
+ │  │                                    │  │  ┌──────────────────────┐   │  │ │  │
+ │  │                                    │  │  │  OpHandler           │  │  │ │  │
+ │  │                                    │  │  │                      │  │  │ │  │
+ │  │                                    │  │  │  AND → linear merge  │  │  │ │  │
+ │  │                                    │  │  │  OR  → linear merge  │  │  │ │  │
+ │  │                                    │  │  │  NOT → set diff      │  │  │ │  │
+ │  │                                    │  │  │        vs univ set   │  │  │ │  │
+ │  │                                    │  │  └──────────────────────┘  │  │ │   │
+ │  │                                    │  └────────────────────────────┘  │ │   │
+ │  │                                    └──────────────────────────────────┘ │   │
  │  └──────────────────────────────────────────────────────────────────────────┘   │
- │                                        │                                        │
- │                                        ▼                                        │
- │                           const vector<uint32_t>&                               │
- │                               result doc IDs                                    │
+ │                                        │                                      │
+ │                                        ▼                                      │
+ │                           const vector<uint32_t>&                             │
+ │                               result doc IDs                                  │
  └─────────────────────────────────────────────────────────────────────────────────┘
 
  CONST CORRECTNESS CONTRACT
  ┌─────────────────────────────────────────────────────────────┐
- │  inverted index in IRSubsystem  →  const unordered_map      │
- │  universal doc ID set           →  const set<uint32_t>      │
- │  posting list lookups           →  const vector<uint32_t>&  │
- │  OpHandler inputs               →  const vector<uint32_t>&  │
- │  query results                  →  const vector<uint32_t>&  │
+ │  inverted index in IRSubsystem  →  const unordered_map    │
+ │  universal doc ID set           →  const set<uint32_t>    │
+ │  posting list lookups           →  const vector<uint32_t>&│
+ │  OpHandler inputs               →  const vector<uint32_t>&│
+ │  query results                  →  const vector<uint32_t>&│
  └─────────────────────────────────────────────────────────────┘
 ```
 

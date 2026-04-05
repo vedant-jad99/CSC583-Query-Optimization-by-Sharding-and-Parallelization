@@ -7,6 +7,8 @@ int test_counter = 0;
 int run_tests() {
 	int test_tally_counter = 0;
 	test_tally_counter += test_bin_reader();
+	test_tally_counter += test_vb_decoder();
+	test_tally_counter += test_decompressor();
 
 	return test_tally_counter;
 }

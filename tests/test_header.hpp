@@ -14,5 +14,7 @@ extern int test_counter;
 
 // Add all the test function prototypes here
 int test_bin_reader();
+int test_vb_decoder();
+int test_decompressor();
 
 #endif /* TEST_HEADER_HPP */

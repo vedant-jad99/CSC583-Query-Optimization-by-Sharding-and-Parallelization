@@ -39,11 +39,31 @@ static int test_bin_reader_parse(std::string filepath, int index) {
 	return 0;
 }
 
+static int test_bin_reader_parse_getCompressedIndex_fail(std::string filepath, int index) {
+	BinReader reader(filepath);
+	int ret = reader.parse();
+
+	if (ret != -1) {
+		if (reader.getSize() != test_files_sizes[index]) {
+			return 0;
+		}
+		const auto compressed_index = reader.getCompressedIndex();
+		try {
+			const auto retry_index = reader.getCompressedIndex();
+			return 0;
+		} catch (const std::runtime_error &e) {
+			std::cerr << "Test: BinReader: Exception expected : " << e.what() << "\n";
+		}
+	}
+
+	return 1;
+}
+
 static int test_bin_reader_parse_correct(std::string filepath, int index) {
 	BinReader reader(filepath);
 	int ret = reader.parse();
 	if (ret != -1) {
-		if ((size_t)ret == test_files_sizes[index]) {
+		if (reader.getSize() == test_files_sizes[index]) {
 			const auto compressed_index = reader.getCompressedIndex();
 			for (auto const &m : maps) {
 				for (auto const &it : m) {
@@ -57,9 +77,13 @@ static int test_bin_reader_parse_correct(std::string filepath, int index) {
 								return 0;
 							}
 						}
+					} else {
+						return 0;
 					}
 				}
 			}
+		} else {
+			return 0;
 		}
 	}
 
@@ -81,6 +105,16 @@ int test_bin_reader() {
 	counter = 0; int index = 0;
 	for (std::string const &file : test_files) {
 		counter += test_bin_reader_parse(file, index++);
+	}
+	retval = (counter == index);
+	if (!retval) {
+		// TODO: Add test failure message.
+		return 0;
+	}
+
+	counter = 0; index = 0;
+	for (std::string const &file : test_files) {
+		counter += test_bin_reader_parse_getCompressedIndex_fail(file, index++);
 	}
 	retval = (counter == index);
 	if (!retval) {

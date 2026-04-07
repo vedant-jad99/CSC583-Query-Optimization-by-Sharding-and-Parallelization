@@ -2,6 +2,11 @@ import argparse
 import os
 import sys
 
+# Add the pipeline directory to sys.path so pipeline modules are importable
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "pipeline"))
+
+from pipeline import Pipeline, presort_corpus
+
 # ── Entry point ───────────────────────────────────────────────────────── #
 
 def main() -> None:

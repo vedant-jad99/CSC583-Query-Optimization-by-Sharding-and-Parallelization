@@ -8,7 +8,7 @@ Binary format (little-endian throughout):
 ─────────────────────────────────────────────────────────────────────────
  Offset  Size    Field
 ─────────────────────────────────────────────────────────────────────────
- 0       8 B     Magic + version:  b"INVI_\\x01\\x00\\x00"
+ 0       8 B     Magic + version:  b"INVI_100"
  8       4 B     Number of terms   (uint32 LE)
  ── repeated for every term ──────────────────────────────────────────────
          2 B     Term length M     (uint16 LE)
@@ -40,7 +40,7 @@ from vb_encoder import VBEncoder
 
 
 # 8-byte magic: 5 ASCII chars + 3-byte version tag (major=1, minor=0, patch=0)
-_MAGIC: bytes = b"INVI_\x01\x00\x00"
+_MAGIC: bytes = b"INVI_100"
 
 
 class BinWriter:

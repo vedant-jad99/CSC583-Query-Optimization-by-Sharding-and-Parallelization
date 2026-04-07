@@ -17,7 +17,7 @@ Pipeline = _mod.Pipeline
 presort_corpus = _mod.presort_corpus
 
 
-_MAGIC = b"INVI_\x01\x00\x00"
+_MAGIC = b"INVI_100"
 
 
 def _write(path, text):

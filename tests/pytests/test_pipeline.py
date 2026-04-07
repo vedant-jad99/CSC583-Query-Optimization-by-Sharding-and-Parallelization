@@ -9,7 +9,7 @@ import sys
 # Force-load the module file directly.
 _spec = importlib.util.spec_from_file_location(
     "pipeline_module",
-    os.path.join(os.path.dirname(__file__), "..", "pipeline", "pipeline.py"),
+    os.path.join(os.path.dirname(__file__), "..", "..", "scripts", "pipeline", "pipeline.py"),
 )
 _mod = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(_mod)
@@ -17,7 +17,7 @@ Pipeline = _mod.Pipeline
 presort_corpus = _mod.presort_corpus
 
 
-_MAGIC = b"QEIDX\x00\x01\x00"
+_MAGIC = b"INVI_\x01\x00\x00"
 
 
 def _write(path, text):

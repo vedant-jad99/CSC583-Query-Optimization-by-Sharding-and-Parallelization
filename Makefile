@@ -12,8 +12,10 @@ CXXFLAGS=-Wall -Wextra -std=c++17 $(INC_FLAGS)
 
 SRCS=src
 OBJS=obj
+EXE=run_engine
 TESTS=tests
-OBJ_FILES=$(patsubst $(SRCS)/%.cpp, $(OBJS)/%.o, $(wildcard $(SRCS)/*.cpp))
+SRC_FILES=$(filter-out $(SRCS)/main.cpp, $(wildcard $(SRCS)/*.cpp))
+OBJ_FILES=$(patsubst $(SRCS)/%.cpp, $(OBJS)/%.o, $(SRC_FILES))
 TEST_SRCS=$(TESTS)/*.cpp
 TEST_EXE=run_test
 
@@ -23,7 +25,7 @@ PYTHON=$(VENV)/bin/python
 REQS=scripts/requirements.txt
 
 
-all: index-builder cmple tests
+all: index-builder cmple engine tests
 
 
 #==============================================================================
@@ -47,6 +49,13 @@ mk_objs:
 cmple: mk_objs $(OBJ_FILES)
 
 
+engine: $(EXE)
+
+
+$(EXE): $(OBJ_FILES)
+	$(CC) $(CXXFLAGS) $(SRCS)/main.cpp $^ -o $@
+
+
 $(OBJS)/%.o: $(SRCS)/%.cpp
 	$(CC) $(CXXFLAGS) $^ -c -o $@
 
@@ -58,12 +67,12 @@ $(TEST_EXE): $(TEST_SRCS) $(OBJ_FILES)
 	$(CC) $(CXXFLAGS) $^ -o $@
 
 
-clean:
-	rm -rf $(OBJS) run_tests
-
-
 clean-venv:
 	rm -rf $(VENV)
 
 
-.PHONY: all index-builder clean-venv clean tests cmple mk_objs
+clean:
+	rm -rf $(OBJS) $(TEST_EXE) $(EXE)
+
+
+.PHONY: all index-builder clean-venv clean tests cmple mk_objs engine

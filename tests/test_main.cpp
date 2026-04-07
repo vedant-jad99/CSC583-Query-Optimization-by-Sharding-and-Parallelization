@@ -9,11 +9,12 @@ int run_tests() {
 	test_tally_counter += test_bin_reader();
 	test_tally_counter += test_vb_decoder();
 	test_tally_counter += test_decompressor();
+	test_tally_counter += test_boolean_engine();
 
 	return test_tally_counter;
 }
 
-int main(int argc, char **argv) {
+int main() {
 	int total_passed_tests = run_tests();
 	std::cout<< total_passed_tests << " out of " << test_counter << " passed\n";
 

@@ -19,5 +19,6 @@ int test_bin_reader();
 int test_vb_decoder();
 int test_decompressor();
 int test_boolean_engine();
+int test_preprocessor();
 
 #endif /* TEST_HEADER_HPP */

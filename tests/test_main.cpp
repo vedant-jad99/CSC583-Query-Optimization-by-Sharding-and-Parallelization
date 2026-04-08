@@ -10,6 +10,7 @@ int run_tests() {
 	test_tally_counter += test_vb_decoder();
 	test_tally_counter += test_decompressor();
 	test_tally_counter += test_boolean_engine();
+	test_tally_counter += test_preprocessor();
 
 	return test_tally_counter;
 }

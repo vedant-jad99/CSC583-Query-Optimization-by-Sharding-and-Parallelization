@@ -1,0 +1,53 @@
+Stephani, H.; Kramer, D.; MacCallum, M.; Hoenselaers, C.; Herlt, E. (2003), Exact Solutions of
+Einstein's Field Equations (2 ed.), Cambridge University Press, ISBN 978-0-521-46136-8
+Synge, J. L. (1972), Relativity: The Special Theory, North-Holland Publishing Company, ISBN 978-
+0-7204-0064-9
+Szabados, László B. (2004), "Quasi-Local Energy–Momentum and Angular Momentum in GR",
+Living Reviews in Relativity, 7 (1): 4, Bibcode:2004LRR.....7....4S (https://ui.adsabs.harvard.edu/a
+bs/2004LRR.....7....4S), doi:10.12942/lrr-2004-4 (https://doi.org/10.12942%2Flrr-2004-4),
+PMC 5255888 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5255888), PMID 28179865 (https://
+pubmed.ncbi.nlm.nih.gov/28179865)
+Taylor, Joseph H. (1994), "Binary pulsars and relativistic gravity" (https://cds.cern.ch/record/19742
+20), Rev. Mod. Phys., 66 (3): 711–719, Bibcode:1994RvMP...66..711T (https://ui.adsabs.harvard.e
+du/abs/1994RvMP...66..711T), doi:10.1103/RevModPhys.66.711 (https://doi.org/10.1103%2FRevM
+odPhys.66.711), S2CID 120534048 (https://api.semanticscholar.org/CorpusID:120534048)
+Thiemann, Thomas (2007), "Loop Quantum Gravity: An Inside View", Approaches to Fundamental
+Physics, Lecture Notes in Physics, vol. 721, pp. 185–263, arXiv:hep-th/0608210 (https://arxiv.org/a
+bs/hep-th/0608210), Bibcode:2007LNP...721..185T (https://ui.adsabs.harvard.edu/abs/2007LNP...
+721..185T), doi:10.1007/978-3-540-71117-9_10 (https://doi.org/10.1007%2F978-3-540-71117-9_1
+0), ISBN 978-3-540-71115-5, S2CID 119572847 (https://api.semanticscholar.org/CorpusID:119572
+847)
+Thiemann, Thomas (2003). "Lectures on Loop Quantum Gravity". In Domenico J.W. Giulini; Claus
+Kiefer; Claus Lämmerzahl (eds.). Quantum Gravity: From Theory to Experimental Search. Lecture
+Notes in Physics. Vol. 631. pp. 41–135. arXiv:gr-qc/0210094 (https://arxiv.org/abs/gr-qc/0210094).
+Bibcode:2003LNP...631...41T (https://ui.adsabs.harvard.edu/abs/2003LNP...631...41T).
+doi:10.1007/978-3-540-45230-0_3 (https://doi.org/10.1007%2F978-3-540-45230-0_3). ISBN 978-
+3-540-40810-9. S2CID 119151491 (https://api.semanticscholar.org/CorpusID:119151491).
+'t Hooft, Gerard; Veltman, Martinus (1974), "One Loop Divergencies in the Theory of Gravitation",
+Annales de l'Institut Henri Poincaré A, 20 (1): 69, Bibcode:1974AIHPA..20...69T (https://ui.adsabs.
+harvard.edu/abs/1974AIHPA..20...69T)
+Thorne, Kip S. (1972), "Nonspherical Gravitational Collapse—A Short Review", in Klauder, J. (ed.),
+Magic without Magic, W. H. Freeman, pp. 231–258
+Thorne, Kip S. (1994), Black Holes and Time Warps: Einstein's Outrageous Legacy, W W Norton
+& Company, ISBN 978-0-393-31276-8
+Thorne, Kip S. (1995), "Gravitational radiation", Particle and Nuclear Astrophysics and Cosmology
+in the Next Millennium: 160, arXiv:gr-qc/9506086 (https://arxiv.org/abs/gr-qc/9506086),
+Bibcode:1995pnac.conf..160T (https://ui.adsabs.harvard.edu/abs/1995pnac.conf..160T),
+ISBN 978-0-521-36853-7
+Thorne, Kip (2003). "Warping spacetime". In G.W. Gibbons; E.P.S. Shellard; S.J. Rankin (eds.).
+The future of theoretical physics and cosmology: celebrating Stephen Hawking's 60th birthday (htt
+ps://books.google.com/books?id=yLy4b61rfPwC). Cambridge University Press. ISBN 978-0-521-
+82081-3.
+Townsend, Paul K. (1997). "Black Holes (Lecture notes)". arXiv:gr-qc/9707012 (https://arxiv.org/ab
+s/gr-qc/9707012).
+Townsend, Paul K. (1996). "Four Lectures on M-Theory". High Energy Physics and Cosmology.
+13: 385. arXiv:hep-th/9612121 (https://arxiv.org/abs/hep-th/9612121).
+Bibcode:1997hepcbconf..385T (https://ui.adsabs.harvard.edu/abs/1997hepcbconf..385T).
+Traschen, Jennie (2000), Bytsenko, A.; Williams, F. (eds.), "An Introduction to Black Hole
+Evaporation", Mathematical Methods of Physics (Proceedings of the 1999 Londrina Winter
+School), World Scientific: 180, arXiv:gr-qc/0010055 (https://arxiv.org/abs/gr-qc/0010055),
+Bibcode:2000mmp..conf..180T (https://ui.adsabs.harvard.edu/abs/2000mmp..conf..180T)
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+49/55

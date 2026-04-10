@@ -1,0 +1,42 @@
+Even though the predictions of both quantum theory and general relativity have been supported by
+rigorous and repeated empirical evidence, their abstract formalisms contradict each other and they
+have proven extremely difficult to incorporate into one consistent, cohesive model. Gravity is
+negligible in many areas of particle physics, so that unification between general relativity and
+quantum mechanics is not an urgent issue in those particular applications. However, the lack of a
+correct theory of quantum gravity is an important issue in physical cosmology and the search by
+physicists for an elegant "Theory of Everything" (TOE). Consequently, resolving the inconsistencies
+between both theories has been a major goal of 20th- and 21st-century physics. This TOE would
+combine not only the models of subatomic physics but also derive the four fundamental forces of
+nature from a single force or phenomenon.[48]
+One proposal for doing so is string theory, which posits that the point-like particles of particle physics
+are replaced by one-dimensional objects called strings. String theory describes how these strings
+propagate through space and interact with each other. On distance scales larger than the string scale,
+a string looks just like an ordinary particle, with its mass, charge, and other properties determined by
+the vibrational state of the string. In string theory, one of the many vibrational states of the string
+corresponds to the graviton, a quantum mechanical particle that carries gravitational force.[49][50]
+Another popular theory is loop quantum gravity (LQG), which describes quantum properties of
+gravity and is thus a theory of quantum spacetime. LQG is an attempt to merge and adapt standard
+quantum mechanics and standard general relativity. This theory describes space as an extremely fine
+fabric "woven" of finite loops called spin networks. The evolution of a spin network over time is called
+a spin foam. The characteristic length scale of a spin foam is the Planck length, approximately
+1.616×10−35 m, and so lengths shorter than the Planck length are not physically meaningful in
+LQG.[51]
+Since its inception, the many counter-intuitive aspects and results of quantum mechanics have
+provoked strong philosophical debates and many interpretations. The arguments centre on the
+probabilistic nature of quantum mechanics, the difficulties with wavefunction collapse and the related
+measurement problem, and quantum nonlocality. Perhaps the only consensus that exists about these
+issues is that there is no consensus. Richard Feynman once said, "I think I can safely say that nobody
+understands quantum mechanics."[52] According to Steven Weinberg, "There is now in my opinion no
+entirely satisfactory interpretation of quantum mechanics."[53]
+The views of Niels Bohr, Werner Heisenberg and other physicists are often grouped together as the
+"Copenhagen interpretation".[54][55] According to these views, the probabilistic nature of quantum
+mechanics is not a temporary feature which will eventually be replaced by a deterministic theory, but
+is instead a final renunciation of the classical idea of "causality". Bohr in particular emphasized that
+any well-defined application of the quantum mechanical formalism must always make reference to the
+experimental arrangement, due to the complementary nature of evidence obtained under different
+Relation to general relativity
+Philosophical implications
+4/10/26, 3:51 PM
+Quantum mechanics - Wikipedia
+https://en.wikipedia.org/wiki/Quantum_mechanics
+14/28

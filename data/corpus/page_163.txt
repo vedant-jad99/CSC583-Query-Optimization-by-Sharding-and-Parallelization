@@ -1,0 +1,45 @@
+Bra–ket notation
+Einstein's thought experiments
+List of textbooks on classical mechanics and quantum mechanics
+Macroscopic quantum phenomena
+Phase-space formulation
+Regularization (physics)
+Two-state quantum system
+1. A momentum eigenstate would be a perfectly monochromatic wave of infinite extent, which is not
+square-integrable. Likewise, a position eigenstate would be a Dirac delta distribution, not square-
+integrable and technically not a function at all. Consequently, neither can belong to the particle's
+Hilbert space. Physicists sometimes introduce fictitious "bases" for a Hilbert space comprising
+elements outside that space. These are invented for calculational convenience and do not
+represent physical states.[26]: 100–105 
+2. See, for example, the Feynman Lectures on Physics for some of the technological applications
+which use quantum mechanics, e.g., transistors (vol III, pp. 14–11 ff), integrated circuits, which are
+follow-on technology in solid-state physics (vol II, pp. 8–6), and lasers (vol III, pp. 9–13).
+3. See Macroscopic quantum phenomena, Bose–Einstein condensate, and Quantum machine
+4. The published form of the EPR argument was due to Podolsky, and Einstein himself was not
+satisfied with it. In his own publications and correspondence, Einstein used a different argument to
+insist that quantum mechanics is an incomplete theory.[61][62][63][64]
+1. Born, M. (1926). "Zur Quantenmechanik der Stoßvorgänge" [On the Quantum Mechanics of
+Collision Processes]. Zeitschrift für Physik (in German). 37 (12): 863–867.
+Bibcode:1926ZPhy...37..863B (https://ui.adsabs.harvard.edu/abs/1926ZPhy...37..863B).
+doi:10.1007/BF01397477 (https://doi.org/10.1007%2FBF01397477). ISSN 1434-6001 (https://sear
+ch.worldcat.org/issn/1434-6001). S2CID 119896026 (https://api.semanticscholar.org/CorpusID:119
+896026).
+2. Feynman, Richard; Leighton, Robert; Sands, Matthew (1964). The Feynman Lectures on Physics
+(https://feynmanlectures.caltech.edu/III_01.html). Vol. 3. California Institute of Technology.
+Retrieved 19 December 2020. Reprinted, Addison-Wesley, 1989, ISBN 978-0-201-50064-6
+3. Jaeger, Gregg (September 2014). "What in the (quantum) world is macroscopic?". American
+Journal of Physics. 82 (9): 896–905. Bibcode:2014AmJPh..82..896J (https://ui.adsabs.harvard.ed
+u/abs/2014AmJPh..82..896J). doi:10.1119/1.4878358 (https://doi.org/10.1119%2F1.4878358).
+4. Fein, Yaakov Y.; Geyer, Philipp; Zwick, Patrick; Kiałka, Filip; Pedalino, Sebastian; Mayor, Marcel;
+Gerlich, Stefan; Arndt, Markus (September 2019). "Quantum superposition of molecules beyond
+25 kDa". Nature Physics. 15 (12): 1242–1245. Bibcode:2019NatPh..15.1242F (https://ui.adsabs.h
+arvard.edu/abs/2019NatPh..15.1242F). doi:10.1038/s41567-019-0663-9 (https://doi.org/10.1038%
+2Fs41567-019-0663-9). S2CID 203638258 (https://api.semanticscholar.org/CorpusID:20363825
+8).
+See also
+Explanatory notes
+References
+4/10/26, 3:51 PM
+Quantum mechanics - Wikipedia
+https://en.wikipedia.org/wiki/Quantum_mechanics
+18/28

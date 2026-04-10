@@ -1,0 +1,54 @@
+The 1927 Solvay Conference in Brussels was the fifth
+world physics conference.
+about radiation into a model of the hydrogen atom that successfully predicted the spectral lines of
+hydrogen.[86] Einstein further developed this idea to show that an electromagnetic wave such as light
+could also be described as a particle (later called the photon), with a discrete amount of energy that
+depends on its frequency.[87] In his paper "On the Quantum Theory of Radiation", Einstein expanded
+on the interaction between energy and matter to explain the absorption and emission of energy by
+atoms. Although overshadowed at the time by his general theory of relativity, this paper articulated
+the mechanism underlying the stimulated emission of radiation,[88] which became the basis of the
+laser.[89]
+This phase is known as the old quantum theory.
+Never complete or self-consistent, the old
+quantum theory was rather a set of heuristic
+corrections to classical mechanics.[90][91] The
+theory is now understood as a semi-classical
+approximation 
+to 
+modern 
+quantum
+mechanics.[92][93] Notable results from this
+period include, in addition to the work of
+Planck, Einstein and Bohr mentioned above,
+Einstein and Peter Debye's work on the specific
+heat of solids, Bohr and Hendrika Johanna van
+Leeuwen's proof that classical physics cannot
+account 
+for 
+diamagnetism, 
+and 
+Arnold
+Sommerfeld's extension of the Bohr model to
+include special-relativistic effects.[90][94]
+In the mid-1920s quantum mechanics was developed to become the standard formulation for atomic
+physics. In 1923, the French physicist Louis de Broglie put forward his theory of matter waves by
+stating that particles can exhibit wave characteristics and vice versa. Building on de Broglie's
+approach, modern quantum mechanics was born in 1925, when the German physicists Werner
+Heisenberg, Max Born, and Pascual Jordan[95][96] developed matrix mechanics and the Austrian
+physicist Erwin Schrödinger invented wave mechanics. Born introduced the probabilistic
+interpretation of Schrödinger's wave function in July 1926.[97] Thus, the entire field of quantum
+physics emerged, leading to its wider acceptance at the Fifth Solvay Conference in 1927.[98]
+By 1930, quantum mechanics had been further unified and formalized by David Hilbert, Paul Dirac
+and John von Neumann[99] with greater emphasis on measurement, the statistical nature of our
+knowledge of reality, and philosophical speculation about the 'observer'. It has since permeated many
+disciplines, including quantum chemistry, quantum electronics, quantum optics, and quantum
+information science. It also provides a useful framework for many features of the modern periodic
+table of elements, and describes the behaviors of atoms during chemical bonding and the flow of
+electrons in computer semiconductors, and therefore plays a crucial role in many modern
+technologies. While quantum mechanics was constructed to describe the world of the very small, it is
+also needed to explain some macroscopic phenomena such as superconductors[100] and
+superfluids.[101]
+4/10/26, 3:51 PM
+Quantum mechanics - Wikipedia
+https://en.wikipedia.org/wiki/Quantum_mechanics
+17/28

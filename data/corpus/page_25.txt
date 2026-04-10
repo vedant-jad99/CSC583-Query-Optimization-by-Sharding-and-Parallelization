@@ -1,0 +1,44 @@
+Einstein at his office, University
+of Berlin, 1920
+In order to incorporate spinning point particles into general relativity,
+the affine connection needed to be generalized to include an
+antisymmetric part, called the torsion. This modification was made by
+Einstein and Cartan in the 1920s.
+In general relativity, gravitational force is reimagined as curvature of
+spacetime. A curved path like an orbit is not the result of a force
+deflecting a body from an ideal straight-line path, but rather the body's
+attempt to fall freely through a background that is itself curved by the
+presence of other masses. A remark by John Archibald Wheeler that
+has become proverbial among physicists summarizes the theory:
+"Spacetime tells matter how to move; matter tells spacetime how to
+curve."[279][280] The Einstein field equations cover the latter aspect of
+the theory, relating the curvature of spacetime to the distribution of
+matter and energy. The geodesic equation covers the former aspect,
+stating that freely falling bodies follow lines that are as straight as possible in a curved spacetime.
+Einstein regarded this as an "independent fundamental assumption" that had to be postulated in
+addition to the field equations in order to complete the theory. Believing this to be a shortcoming in
+how general relativity was originally presented, he wished to derive it from the field equations
+themselves. Since the equations of general relativity are non-linear, a lump of energy made out of pure
+gravitational fields, like a black hole, would move on a trajectory which is determined by the Einstein
+field equations themselves, not by a new law. Accordingly, Einstein proposed that the field equations
+would determine the path of a singular solution, like a black hole, to be a geodesic. Both physicists and
+philosophers have often repeated the assertion that the geodesic equation can be obtained from
+applying the field equations to the motion of a gravitational singularity, but this claim remains
+disputed.[281][282]
+In a 1905 paper,[229] Einstein postulated that light itself consists of localized particles (quanta).
+Einstein's light quanta were nearly universally rejected by all physicists, including Max Planck and
+Niels Bohr. This idea only became universally accepted in 1919, with Robert Millikan's detailed
+experiments on the photoelectric effect, and with the measurement of Compton scattering.
+Einstein concluded that each wave of frequency f is associated with a collection of photons with energy
+hf each, where h is the Planck constant. He did not say much more, because he was not sure how the
+particles were related to the wave. But he did suggest that this idea would explain certain
+experimental results, notably the photoelectric effect.[229] Light quanta were dubbed photons by
+Gilbert N. Lewis in 1926.[283]
+Einstein–Cartan theory
+Equations of motion
+Old quantum theory
+Photons and energy quanta
+4/10/26, 3:50 PM
+Albert Einstein - Wikipedia
+https://en.wikipedia.org/wiki/Albert_Einstein
+25/61

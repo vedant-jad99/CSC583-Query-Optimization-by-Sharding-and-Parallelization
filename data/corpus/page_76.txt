@@ -1,0 +1,51 @@
+This blue horseshoe is a distant galaxy
+that has been magnified and warped into
+a nearly complete ring by the strong
+gravitational pull of the massive
+foreground luminous red galaxy.
+Astronomically, the most important property of compact objects is that they provide a supremely
+efficient mechanism for converting gravitational energy into electromagnetic radiation.[125] Accretion,
+the falling of dust or gaseous matter onto stellar or supermassive black holes, is thought to be
+responsible for some spectacularly luminous astronomical objects, especially diverse kinds of active
+galactic nuclei on galactic scales and stellar-size objects such as microquasars.[126] In particular,
+accretion can lead to relativistic jets, focused beams of highly energetic particles that are being flung
+into space at almost light speed.[127] General relativity plays a central role in modelling all these
+phenomena,[128] and observations provide strong evidence for the existence of black holes with the
+properties predicted by the theory.[129]
+Black holes are also sought-after targets in the search for gravitational waves (cf. section
+§  Gravitational waves, above). Merging black hole binaries should lead to some of the strongest
+gravitational wave signals reaching detectors on Earth, and the phase directly before the merger
+("chirp") could be used as a "standard candle" to deduce the distance to the merger events–and hence
+serve as a probe of cosmic expansion at large distances.[130] The gravitational waves produced as a
+stellar black hole plunges into a supermassive one should provide direct information about the
+supermassive black hole's geometry.[131]
+The existing models of cosmology are based on Einstein's field
+equations, which include the cosmological constant 
+ since it
+has important influence on the large-scale dynamics of the
+cosmos,
+where 
+ is the spacetime metric.[132] Isotropic and
+homogeneous solutions of these enhanced equations, the
+Friedmann–Lemaître–Robertson–Walker 
+solutions,[133]
+allow physicists to model a universe that has evolved over the
+past 14  billion  years from a hot, early Big Bang phase.[134]
+Once a small number of parameters (for example the
+universe's mean matter density) have been fixed by
+astronomical observation,[135] further observational data can
+be used to put the models to the test.[136] Predictions, all
+successful, include the initial abundance of chemical elements formed in a period of primordial
+nucleosynthesis,[137] the large-scale structure of the universe,[138] and the existence and properties of
+a "thermal echo" from the early cosmos, the cosmic background radiation.[139]
+Astronomical observations of the cosmological expansion rate allow the total amount of matter in the
+universe to be estimated, although the nature of that matter remains mysterious in part. About 90% of
+all matter appears to be dark matter, which has mass (or, equivalently, gravitational influence), but
+does not interact electromagnetically and, hence, cannot be observed directly.[140] There is no
+generally accepted description of this new kind of matter, within the framework of known particle
+physics[141] or otherwise.[142] Observational evidence from redshift surveys of distant supernovae and
+Cosmology
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+15/55

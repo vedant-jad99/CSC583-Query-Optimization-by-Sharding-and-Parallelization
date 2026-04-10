@@ -1,2 +1,5 @@
 obj
 run_test
+run_engine
+*__pycache__*
+.DS_Store

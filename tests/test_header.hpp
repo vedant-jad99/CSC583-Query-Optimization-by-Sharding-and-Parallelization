@@ -10,11 +10,15 @@
 #ifndef TEST_HEADER_HPP
 #define TEST_HEADER_HPP
 
+#include <iostream>
+
 extern int test_counter;
 
 // Add all the test function prototypes here
 int test_bin_reader();
 int test_vb_decoder();
 int test_decompressor();
+int test_boolean_engine();
+int test_preprocessor();
 
 #endif /* TEST_HEADER_HPP */

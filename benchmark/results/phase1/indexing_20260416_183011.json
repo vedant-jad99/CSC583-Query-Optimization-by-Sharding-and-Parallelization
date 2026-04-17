@@ -1,0 +1,29 @@
+{
+  "phase": 1,
+  "timestamp": "2026-04-16T18:30:11.858707",
+  "corpus": "data/corpus",
+  "pipeline": "scripts/main.py",
+  "output": "bench.bin",
+  "runs": 5,
+  "wall_time_s": {
+    "mean": 0.8801,
+    "median": 0.8647,
+    "p95": 0.9348,
+    "p99": 0.9485,
+    "min": 0.858,
+    "max": 0.9519
+  },
+  "raw_times_s": [
+    0.9519,
+    0.8662,
+    0.8647,
+    0.858,
+    0.8599
+  ],
+  "index_size_kb": 194.58,
+  "index_size_mb": 0.19,
+  "peak_rss_kb": {
+    "mean": 63760,
+    "max": 63872
+  }
+}

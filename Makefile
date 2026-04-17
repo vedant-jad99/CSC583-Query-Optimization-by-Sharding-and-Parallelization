@@ -38,6 +38,7 @@ $(VENV):
 
 # The main index builder script
 index-builder: $(VENV)
+	$(PYTHON) scripts/main.py --corpus data/corpus --out index.bin
 	echo "Python build here"
 #==============================================================================
 
@@ -60,6 +61,52 @@ $(OBJS)/%.o: $(SRCS)/%.cpp
 	$(CC) $(CXXFLAGS) $^ -c -o $@
 
 
+BENCH_PHASE ?= 1
+
+bench-indexing:
+	$(PYTHON) benchmark/bench_indexing.py \
+		--corpus     data/corpus \
+		--pipeline   scripts/main.py \
+		--output     bench.bin \
+		--runs       5 \
+		--phase      $(BENCH_PHASE) \
+		--output-dir benchmark/results \
+		--python     $(PYTHON)
+
+bench-init:
+	$(PYTHON) benchmark/bench_init.py \
+		--engine ./run_engine \
+		--index  index.bin \
+		--runs   20 \
+		--phase  $(BENCH_PHASE) \
+		--output-dir benchmark/results
+
+bench-query:
+	$(PYTHON) benchmark/bench_query.py \
+		--engine     ./run_engine \
+		--index      index.bin \
+		--queries    benchmark/queries \
+		--warmup     10 \
+		--runs       50 \
+		--phase      $(BENCH_PHASE) \
+		--output-dir benchmark/results
+
+bench-memory:
+	bash benchmark/bench_memory.sh \
+		./run_engine index.bin \
+		benchmark/results/phase$(BENCH_PHASE)/memory.jsonl \
+		$(BENCH_PHASE)
+
+bench-report:
+	$(PYTHON) benchmark/report.py \
+		--results-dir benchmark/results \
+		--phases      $(BENCH_PHASE) \
+		--output-dir  benchmark/results/plots
+
+
+bench: bench-indexing bench-init bench-query bench-memory bench-report
+
+
 tests: $(TEST_EXE)
 
 
@@ -72,7 +119,7 @@ clean-venv:
 
 
 clean:
-	rm -rf $(OBJS) $(TEST_EXE) $(EXE)
+	rm -rf $(OBJS) $(TEST_EXE) $(EXE) index.bin
 
 
-.PHONY: all index-builder clean-venv clean tests cmple mk_objs engine
+.PHONY: all index-builder clean-venv clean tests cmple mk_objs engine bench bench-init bench-query bench-memory bench-report

@@ -4,3 +4,4 @@ run_engine
 *__pycache__*
 .DS_Store
 index.bin
+bench.bin

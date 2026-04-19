@@ -162,4 +162,5 @@ class Normalizer:
         tokens = self._punctuation_remover.remove(tokens)
         tokens = self._stop_word_filter.filter(tokens)
         tokens = self._stemmer.stem(tokens)
+        tokens = self._stop_word_filter.filter(tokens)
         return tokens

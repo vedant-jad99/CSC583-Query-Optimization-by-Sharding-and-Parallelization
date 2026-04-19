@@ -1,0 +1,46 @@
+Penrose–Carter diagram of an infinite
+Minkowski universe
+metric is asymptotically flat, making no a priori assumptions about the nature of the asymptotic
+symmetry group—not even the assumption that such a group exists. Then after designing what they
+considered to be the most sensible boundary conditions, they investigated the nature of the resulting
+asymptotic symmetry transformations that leave invariant the form of the boundary conditions
+appropriate for asymptotically flat gravitational fields. What they found was that the asymptotic
+symmetry transformations actually do form a group and the structure of this group does not depend
+on the particular gravitational field that happens to be present. This means that, as expected, one can
+separate the kinematics of spacetime from the dynamics of the gravitational field at least at spatial
+infinity. The puzzling surprise in 1962 was their discovery of a rich infinite-dimensional group (the so-
+called BMS group) as the asymptotic symmetry group, instead of the finite-dimensional Poincaré
+group, which is a subgroup of the BMS group. Not only are the Lorentz transformations asymptotic
+symmetry transformations, there are also additional transformations that are not Lorentz
+transformations but are asymptotic symmetry transformations. In fact, they found an additional
+infinity of transformation generators known as supertranslations. This implies the conclusion that
+General Relativity (GR) does not reduce to special relativity in the case of weak fields at long
+distances. It turns out that the BMS symmetry, suitably modified, could be seen as a restatement of
+the universal soft graviton theorem in quantum field theory (QFT), which relates universal infrared
+(soft) QFT with GR asymptotic spacetime symmetries.[153]
+In general relativity, no material body can catch up with or
+overtake a light pulse. No influence from an event A can reach
+any other location X before light sent out at A to X. In
+consequence, an exploration of all light worldlines (null
+geodesics) yields key information about the spacetime's causal
+structure. This structure can be displayed using Penrose–
+Carter diagrams in which infinitely large regions of space and
+infinite time intervals are shrunk ("compactified") so as to fit
+onto a finite map, while light still travels along diagonals as in
+standard spacetime diagrams.[154]
+Aware of the importance of causal structure, Roger Penrose
+and others developed what is known as global geometry. In
+global geometry, the object of study is not one particular
+solution (or family of solutions) to Einstein's equations.
+Rather, relations that hold true for all geodesics, such as the Raychaudhuri equation, and additional
+non-specific assumptions about the nature of matter (usually in the form of energy conditions) are
+used to derive general results.[155]
+Using global geometry, some spacetimes can be shown to contain boundaries called horizons, which
+demarcate one region from the rest of spacetime. The best-known examples are black holes: if mass is
+compressed into a sufficiently compact region of space (as specified in the hoop conjecture, the
+Causal structure and global geometry
+Event horizons
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+17/55

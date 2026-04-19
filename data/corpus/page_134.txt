@@ -1,0 +1,41 @@
+Penrose–Hawking singularity theorems
+The Penrose–Hawking singularity theorems (after Roger Penrose and Stephen Hawking) are a
+set of results in general relativity that attempt to answer the question of when gravitation produces
+singularities. The Penrose singularity theorem is a theorem in semi-Riemannian geometry and its
+general relativistic interpretation predicts a gravitational singularity in black hole formation. The
+Hawking singularity theorem is based on the Penrose theorem and it is interpreted as a
+gravitational singularity in the Big Bang situation. Penrose shared half of the Nobel Prize in Physics in
+2020 "for the discovery that black hole formation is a robust prediction of the general theory of
+relativity".[1]
+A singularity in solutions of the Einstein field equations is one of three things:
+Spacelike singularities: The singularity lies in the future or past of all events within a certain region.
+The Big Bang singularity and the typical singularity inside a non-rotating, uncharged
+Schwarzschild black hole are spacelike.
+Timelike singularities: These are singularities that can be avoided by an observer because they
+are not necessarily in the future of all events. An observer might be able to move around a timelike
+singularity. These are less common in known solutions of the Einstein field equations.
+Null singularities: These singularities occur on light-like or null surfaces. An example might be
+found in certain types of black hole interiors, such as the Cauchy horizon of a charged (Reissner–
+Nordström) or rotating (Kerr) black hole.
+A singularity can be either strong or weak:
+Weak singularities: A weak singularity is one where the tidal forces (which are responsible for the
+spaghettification in black holes) are not necessarily infinite. An observer falling into a weak
+singularity might not be torn apart before reaching the singularity, although the laws of physics
+would still break down there. The Cauchy horizon inside a charged or rotating black hole might be
+an example of a weak singularity.
+Strong singularities: A strong singularity is one where tidal forces become infinite. In a strong
+singularity, any object would be destroyed by infinite tidal forces as it approaches the singularity.
+The singularity at the center of a Schwarzschild black hole is an example of a strong singularity.
+Space-like singularities are a feature of non-rotating uncharged black holes as described by the
+Schwarzschild metric, while time-like singularities are those that occur in charged or rotating black
+hole exact solutions. Both of them have the property of geodesic incompleteness, in which either some
+light-path or some particle-path cannot be extended beyond a certain proper time or affine parameter
+(affine parameter being the null analog of proper time).
+The Penrose theorem guarantees that some sort of geodesic incompleteness occurs inside any black
+hole whenever matter satisfies reasonable energy conditions. The energy condition required for the
+black-hole singularity theorem is weak: it says that light rays are always focused together by gravity,
+Singularity
+4/10/26, 3:48 PM
+Penrose–Hawking singularity theorems - Wikipedia
+https://en.wikipedia.org/wiki/Penrose–Hawking_singularity_theorems
+1/7

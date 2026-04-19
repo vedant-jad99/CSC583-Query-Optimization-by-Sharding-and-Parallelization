@@ -1,0 +1,41 @@
+The notion of evolution equations is intimately tied in with another aspect of general relativistic
+physics. In Einstein's theory, it turns out to be impossible to find a general definition for a seemingly
+simple property such as a system's total mass (or energy). The main reason is that the gravitational
+field—like any physical field—must be ascribed a certain energy, but that it proves to be fundamentally
+impossible to localize that energy.[177]
+Nevertheless, there are possibilities to define a system's total mass, either using a hypothetical
+"infinitely distant observer" (ADM mass)[178] or suitable symmetries (Komar mass).[179] If one
+excludes from the system's total mass the energy being carried away to infinity by gravitational waves,
+the result is the Bondi mass at null infinity.[180] Just as in classical physics, it can be shown that these
+masses are positive.[181] Corresponding global definitions exist for momentum and angular
+momentum.[182] There have also been a number of attempts to define quasi-local quantities, such as
+the mass of an isolated system formulated using only quantities defined within a finite region of space
+containing that system. The hope is to obtain a quantity useful for general statements about isolated
+systems, such as a more precise formulation of the hoop conjecture.[183]
+If general relativity were considered to be one of the two pillars of modern physics, then quantum
+theory, the basis of understanding matter from elementary particles to solid-state physics, would be
+the other.[184] However, how to reconcile quantum theory with general relativity is still an open
+question.
+Ordinary quantum field theories, which form the basis of modern elementary particle physics, are
+defined in flat Minkowski space, which is an excellent approximation when it comes to describing the
+behavior of microscopic particles in weak gravitational fields like those found on Earth.[185] In order
+to describe situations in which gravity is strong enough to influence (quantum) matter, yet not strong
+enough to require quantization itself, physicists have formulated quantum field theories in curved
+spacetime. These theories rely on general relativity to describe a curved background spacetime, and
+define a generalized quantum field theory to describe the behavior of quantum matter within that
+spacetime.[186] Using this formalism, it can be shown that black holes emit a blackbody spectrum of
+particles known as Hawking radiation leading to the possibility that they evaporate over time.[187] As
+briefly mentioned above, this radiation plays an important role for the thermodynamics of black
+holes.[188]
+The demand for consistency between a quantum description of matter and a geometric description of
+spacetime,[189] as well as the appearance of singularities (where curvature length scales become
+microscopic), indicate the need for a full theory of quantum gravity: for an adequate description of the
+interior of black holes, and of the very early universe, a theory is required in which gravity and the
+Global and quasi-local quantities
+Relationship with quantum theory
+Quantum field theory in curved spacetime
+Quantum gravity
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+20/55

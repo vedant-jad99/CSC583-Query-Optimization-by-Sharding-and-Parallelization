@@ -1,0 +1,270 @@
+{
+  "phase": 1,
+  "timestamp": "2026-04-16T18:30:12.833062",
+  "engine": "./run_engine",
+  "index": "index.bin",
+  "category": "complex",
+  "warmup_queries": 10,
+  "runs_per_query": 50,
+  "query_count": 31,
+  "total_queries": 1550,
+  "latency_ms": {
+    "mean": 0.0438,
+    "median": 0.043,
+    "p95": 0.0654,
+    "p99": 0.0854,
+    "min": 0.0164,
+    "max": 0.1557
+  },
+  "throughput_qps": 20998.44,
+  "per_query": [
+    {
+      "query": "einstein quantum \\and relativity \\and",
+      "mean_ms": 0.0399,
+      "median_ms": 0.0389,
+      "p99_ms": 0.0632,
+      "min_ms": 0.0353,
+      "max_ms": 0.0705
+    },
+    {
+      "query": "physics gravity \\and radiation \\and",
+      "mean_ms": 0.0322,
+      "median_ms": 0.0319,
+      "p99_ms": 0.0448,
+      "min_ms": 0.0283,
+      "max_ms": 0.0495
+    },
+    {
+      "query": "berlin zurich \\and princeton \\and",
+      "mean_ms": 0.0196,
+      "median_ms": 0.0191,
+      "p99_ms": 0.0256,
+      "min_ms": 0.0189,
+      "max_ms": 0.0279
+    },
+    {
+      "query": "spacetime curvature \\and geodesic \\and",
+      "mean_ms": 0.0219,
+      "median_ms": 0.0215,
+      "p99_ms": 0.0241,
+      "min_ms": 0.0211,
+      "max_ms": 0.0247
+    },
+    {
+      "query": "nuclear radiation \\and manhattan \\and",
+      "mean_ms": 0.0226,
+      "median_ms": 0.0213,
+      "p99_ms": 0.0418,
+      "min_ms": 0.0191,
+      "max_ms": 0.0466
+    },
+    {
+      "query": "einstein quantum \\or relativity \\or",
+      "mean_ms": 0.0645,
+      "median_ms": 0.0646,
+      "p99_ms": 0.0746,
+      "min_ms": 0.0598,
+      "max_ms": 0.0795
+    },
+    {
+      "query": "physics gravity \\or radiation \\or",
+      "mean_ms": 0.0656,
+      "median_ms": 0.0628,
+      "p99_ms": 0.096,
+      "min_ms": 0.0573,
+      "max_ms": 0.0964
+    },
+    {
+      "query": "berlin zurich \\or princeton \\or",
+      "mean_ms": 0.0364,
+      "median_ms": 0.0344,
+      "p99_ms": 0.0541,
+      "min_ms": 0.0305,
+      "max_ms": 0.0606
+    },
+    {
+      "query": "singularity spacetime \\or curvature \\or",
+      "mean_ms": 0.0441,
+      "median_ms": 0.0431,
+      "p99_ms": 0.0627,
+      "min_ms": 0.0357,
+      "max_ms": 0.0664
+    },
+    {
+      "query": "electromagnetic radiation \\or wavelength \\or",
+      "mean_ms": 0.0391,
+      "median_ms": 0.0375,
+      "p99_ms": 0.0544,
+      "min_ms": 0.0359,
+      "max_ms": 0.0551
+    },
+    {
+      "query": "einstein quantum \\and relativity \\or",
+      "mean_ms": 0.0515,
+      "median_ms": 0.0494,
+      "p99_ms": 0.0721,
+      "min_ms": 0.0465,
+      "max_ms": 0.0756
+    },
+    {
+      "query": "physics gravity \\and radiation \\or",
+      "mean_ms": 0.042,
+      "median_ms": 0.0405,
+      "p99_ms": 0.0574,
+      "min_ms": 0.0387,
+      "max_ms": 0.0637
+    },
+    {
+      "query": "berlin princeton \\and zurich \\or",
+      "mean_ms": 0.0266,
+      "median_ms": 0.0256,
+      "p99_ms": 0.0327,
+      "min_ms": 0.0233,
+      "max_ms": 0.0345
+    },
+    {
+      "query": "spacetime singularity \\and curvature \\or",
+      "mean_ms": 0.0305,
+      "median_ms": 0.0298,
+      "p99_ms": 0.0363,
+      "min_ms": 0.0274,
+      "max_ms": 0.0368
+    },
+    {
+      "query": "nuclear manhattan \\and radiation \\or",
+      "mean_ms": 0.0312,
+      "median_ms": 0.0304,
+      "p99_ms": 0.046,
+      "min_ms": 0.0302,
+      "max_ms": 0.0534
+    },
+    {
+      "query": "einstein quantum \\or relativity \\and",
+      "mean_ms": 0.0539,
+      "median_ms": 0.0511,
+      "p99_ms": 0.1072,
+      "min_ms": 0.048,
+      "max_ms": 0.1452
+    },
+    {
+      "query": "physics gravity \\or radiation \\and",
+      "mean_ms": 0.0435,
+      "median_ms": 0.0427,
+      "p99_ms": 0.0595,
+      "min_ms": 0.0375,
+      "max_ms": 0.0643
+    },
+    {
+      "query": "berlin princeton \\or zurich \\and",
+      "mean_ms": 0.0264,
+      "median_ms": 0.0261,
+      "p99_ms": 0.0333,
+      "min_ms": 0.0164,
+      "max_ms": 0.0338
+    },
+    {
+      "query": "spacetime singularity \\or curvature \\and",
+      "mean_ms": 0.0333,
+      "median_ms": 0.0326,
+      "p99_ms": 0.041,
+      "min_ms": 0.0272,
+      "max_ms": 0.041
+    },
+    {
+      "query": "einstein quantum \\and \\not",
+      "mean_ms": 0.059,
+      "median_ms": 0.0545,
+      "p99_ms": 0.0915,
+      "min_ms": 0.0509,
+      "max_ms": 0.0958
+    },
+    {
+      "query": "relativity physics \\and \\not",
+      "mean_ms": 0.0508,
+      "median_ms": 0.049,
+      "p99_ms": 0.0748,
+      "min_ms": 0.0487,
+      "max_ms": 0.0922
+    },
+    {
+      "query": "berlin zurich \\and \\not",
+      "mean_ms": 0.055,
+      "median_ms": 0.0541,
+      "p99_ms": 0.0613,
+      "min_ms": 0.0522,
+      "max_ms": 0.0626
+    },
+    {
+      "query": "spacetime curvature \\and \\not",
+      "mean_ms": 0.0563,
+      "median_ms": 0.0546,
+      "p99_ms": 0.0786,
+      "min_ms": 0.053,
+      "max_ms": 0.092
+    },
+    {
+      "query": "einstein quantum \\and relativity \\and physics \\or",
+      "mean_ms": 0.0607,
+      "median_ms": 0.0597,
+      "p99_ms": 0.0755,
+      "min_ms": 0.0593,
+      "max_ms": 0.081
+    },
+    {
+      "query": "berlin zurich \\and princeton \\and germany \\or",
+      "mean_ms": 0.0336,
+      "median_ms": 0.033,
+      "p99_ms": 0.04,
+      "min_ms": 0.03,
+      "max_ms": 0.0401
+    },
+    {
+      "query": "radiation nuclear \\and manhattan \\and quantum \\or",
+      "mean_ms": 0.0445,
+      "median_ms": 0.0439,
+      "p99_ms": 0.0499,
+      "min_ms": 0.0418,
+      "max_ms": 0.0516
+    },
+    {
+      "query": "spacetime curvature \\and singularity \\and geodesic \\or",
+      "mean_ms": 0.0364,
+      "median_ms": 0.0359,
+      "p99_ms": 0.0458,
+      "min_ms": 0.0334,
+      "max_ms": 0.0495
+    },
+    {
+      "query": "einstein relativity \\and quantum \\or berlin \\not",
+      "mean_ms": 0.063,
+      "median_ms": 0.0613,
+      "p99_ms": 0.0882,
+      "min_ms": 0.0572,
+      "max_ms": 0.0892
+    },
+    {
+      "query": "physics gravity \\and radiation \\or nuclear \\not",
+      "mean_ms": 0.0605,
+      "median_ms": 0.056,
+      "p99_ms": 0.1294,
+      "min_ms": 0.0521,
+      "max_ms": 0.1557
+    },
+    {
+      "query": "zurich berlin \\and princeton \\or germany \\not",
+      "mean_ms": 0.0552,
+      "median_ms": 0.0525,
+      "p99_ms": 0.0893,
+      "min_ms": 0.0473,
+      "max_ms": 0.0956
+    },
+    {
+      "query": "spacetime curvature \\and singularity \\or geodesic \\not",
+      "mean_ms": 0.0584,
+      "median_ms": 0.0523,
+      "p99_ms": 0.0908,
+      "min_ms": 0.0499,
+      "max_ms": 0.0977
+    }
+  ]
+}

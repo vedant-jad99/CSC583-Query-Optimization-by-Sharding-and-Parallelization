@@ -1,0 +1,45 @@
+A simplified diagram of quantum tunneling, a
+phenomenon by which a particle may move
+through a barrier which would be impossible
+under classical mechanics
+interference pattern if one detects which slit they pass through. This behavior is known as wave–
+particle duality. In addition to light, electrons, atoms, and molecules are all found to exhibit the same
+dual behavior when fired towards a double slit.[2]
+Another non-classical phenomenon predicted by
+quantum mechanics is quantum tunnelling: a particle
+that goes up against a potential barrier can cross it,
+even if its kinetic energy is smaller than the maximum
+of the potential.[11] In classical mechanics this particle
+would be trapped. Quantum tunnelling has several
+important consequences, enabling radioactive decay,
+nuclear fusion in stars, and applications such as
+scanning tunnelling microscopy, tunnel diode and
+tunnel field-effect transistor.[12][13]
+When quantum systems interact, the result can be the
+creation of quantum entanglement: their properties
+become so intertwined that a description of the whole
+solely in terms of the individual parts is no longer
+possible. Erwin Schrödinger called entanglement "...the
+characteristic trait of quantum mechanics, the one that
+enforces its entire departure from classical lines of
+thought".[14] Quantum entanglement enables quantum computing and is part of quantum
+communication protocols, such as quantum key distribution and superdense coding.[15] Contrary to
+popular misconception, entanglement does not allow sending signals faster than light, as
+demonstrated by the no-communication theorem.[15]
+Another possibility opened by entanglement is testing for "hidden variables", hypothetical properties
+more fundamental than the quantities addressed in quantum theory itself, knowledge of which would
+allow more exact predictions than quantum theory provides. A collection of results, most significantly
+Bell's theorem, have demonstrated that broad classes of such hidden-variable theories are in fact
+incompatible with quantum physics. According to Bell's theorem, if nature actually operates in accord
+with any theory of local hidden variables, then the results of a Bell test will be constrained in a
+particular, quantifiable way. Many Bell tests have been performed and they have shown results
+incompatible with the constraints imposed by local hidden variables.[16][17]
+It is not possible to present these concepts in more than a superficial way without introducing the
+mathematics involved; understanding quantum mechanics requires not only manipulating complex
+numbers, but also linear algebra, differential equations, group theory, and other more advanced
+subjects.[18][19] Accordingly, this article will present a mathematical formulation of quantum
+mechanics and survey its application to some useful and oft-studied examples.
+4/10/26, 3:51 PM
+Quantum mechanics - Wikipedia
+https://en.wikipedia.org/wiki/Quantum_mechanics
+3/28

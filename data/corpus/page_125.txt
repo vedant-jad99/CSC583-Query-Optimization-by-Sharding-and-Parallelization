@@ -1,0 +1,36 @@
+In June 2008, NASA launched the Fermi space telescope, which is searching for the terminal gamma-
+ray flashes expected from evaporating primordial black holes.[41] As of Jan 1st, 2024, none have been
+detected.
+Neutrino detector KM3NeT observed a 120  PeV event labeled KM3-230213A in 2023; one of the
+proposed explanations is evaporation of a primordial black hole.[42] A broad range of measurements
+at KM3NeT and IceCube are consistent with primordial black hole evaporation assuming such
+primordial black holes account for a significant fraction of dark matter.[43]
+If speculative large extra dimension theories are correct, then CERN's Large Hadron Collider may be
+able to create micro black holes and observe their evaporation. No such micro black hole has been
+observed at CERN.[44][45][46][47]
+Under experimentally achievable conditions for gravitational systems, this effect is too small to be
+observed directly. It was predicted that Hawking radiation could be studied by analogy using sonic
+black holes, in which sound perturbations are analogous to light in a gravitational black hole and the
+flow of an approximately perfect fluid is analogous to gravity (see Analog models of gravity).[48]
+Observations of Hawking radiation were reported in sonic black holes employing Bose–Einstein
+condensates.[49][50][51]
+In September 2010 an experimental set-up created a laboratory "white hole event horizon" that the
+experimenters claimed was shown to radiate an optical analog to Hawking radiation.[52] However, the
+results remain unverified and debatable,[53][54] and its status as a genuine confirmation remains in
+doubt.[55]
+Black hole information paradox
+Black hole thermodynamics
+Black hole starship
+Blandford–Znajek process and Penrose process, other extractions of black-hole energy
+Gibbons–Hawking effect
+Thorne–Hawking–Preskill bet
+Unruh effect
+Experimental observation
+Astronomical search
+Heavy-ion collider physics
+Experimental
+See also
+4/10/26, 3:47 PM
+Hawking radiation - Wikipedia
+https://en.wikipedia.org/wiki/Hawking_radiation
+9/17

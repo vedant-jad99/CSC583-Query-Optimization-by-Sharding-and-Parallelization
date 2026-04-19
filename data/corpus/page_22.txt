@@ -1,0 +1,43 @@
+Eddington's photo of a solar
+eclipse
+This paper predicted that, when measured in the frame of a relatively moving observer, a clock carried
+by a moving body would appear to slow down, and the body itself would contract in its direction of
+motion. This paper also argued that the idea of a luminiferous aether—one of the leading theoretical
+entities in physics at the time—was superfluous.[note 4]
+In his paper on mass–energy equivalence, Einstein produced E = mc2 as a consequence of his special
+relativity equations.[238] Einstein's 1905 work on relativity remained controversial for many years, but
+was accepted by leading physicists, starting with Max Planck.[note 5][239]
+Einstein originally framed special relativity in terms of kinematics (the study of moving bodies). In
+1908, Hermann Minkowski reinterpreted special relativity in geometric terms as a theory of
+spacetime. Einstein adopted Minkowski's formalism in his 1915 general theory of relativity.[240]
+General relativity (GR) is a theory of gravitation that was developed by
+Einstein between 1907 and 1915. According to it, the observed
+gravitational attraction between masses results from the warping of
+spacetime by those masses. General relativity has developed into an
+essential tool in modern astrophysics; it provides the foundation for
+the current understanding of black holes, regions of space where
+gravitational attraction is so strong that not even light can escape.[241]
+As Einstein later said, the reason for the development of general
+relativity was that the preference of inertial motions within special
+relativity was unsatisfactory, while a theory which from the outset
+prefers no state of motion (even accelerated ones) should appear more
+satisfactory.[242] Consequently, in 1907 he published an article on
+acceleration under special relativity. In that article titled "On the
+Relativity Principle and the Conclusions Drawn from It", he argued that free fall is really inertial
+motion, and that for a free-falling observer the rules of special relativity must apply. This argument is
+called the equivalence principle. In the same article, Einstein also predicted the phenomena of
+gravitational time dilation, gravitational redshift and gravitational lensing.[243][244]
+In 1911, Einstein published another article "On the Influence of Gravitation on the Propagation of
+Light" expanding on the 1907 article, in which he estimated the amount of deflection of light by
+massive bodies. Thus, the theoretical prediction of general relativity could for the first time be tested
+experimentally.[245]
+In 1916, Einstein predicted gravitational waves,[246][247] ripples in the curvature of spacetime which
+propagate as waves, traveling outward from the source, transporting energy as gravitational radiation.
+The existence of gravitational waves is possible under general relativity due to its Lorentz invariance
+General relativity
+General relativity and the equivalence principle
+Gravitational waves
+4/10/26, 3:50 PM
+Albert Einstein - Wikipedia
+https://en.wikipedia.org/wiki/Albert_Einstein
+22/61

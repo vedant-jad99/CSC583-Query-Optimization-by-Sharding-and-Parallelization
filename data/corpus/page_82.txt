@@ -1,0 +1,57 @@
+Projection of a Calabi–Yau
+manifold, one of the ways of
+compactifying the extra
+dimensions posited by string
+theory
+Simple spin network of the type
+used in loop quantum gravity
+associated geometry of spacetime are described in the language of
+quantum physics.[190] Despite major efforts, no complete and
+consistent theory of quantum gravity is currently known, even though
+a number of candidates exist.[191][192]
+Attempts to generalize ordinary quantum field theories, used in
+elementary particle physics to describe fundamental interactions, so as
+to include gravity have led to serious problems.[193] Some have argued
+that at low energies, this approach proves successful, in that it results
+in an acceptable effective (quantum) field theory of gravity.[194] At very
+high energies, however, the perturbative results are badly divergent
+and lead to models devoid of predictive power ("perturbative non-
+renormalizability").[195]
+One 
+attempt 
+to 
+overcome 
+these
+limitations is string theory, a quantum
+theory not of point particles, but of
+minute one-dimensional extended objects.[196] The theory promises to
+be a unified description of all particles and interactions, including
+gravity;[197] the price to pay is unusual features such as six extra
+dimensions of space in addition to the usual three.[198] In what is
+called the second superstring revolution, it was conjectured that both
+string theory and a unification of general relativity and supersymmetry
+known as supergravity[199] form part of a hypothesized eleven-
+dimensional model known as M-theory, which would constitute a
+uniquely defined and consistent theory of quantum gravity.[200]
+Another approach starts with the canonical quantization procedures of
+quantum theory. Using the initial-value-formulation of general
+relativity (cf. evolution equations above), the result is the Wheeler–
+deWitt equation (an analogue of the Schrödinger equation) which
+turns out to be ill-defined without a proper ultraviolet (lattice) cutoff.[201] However, with the
+introduction of what are now known as Ashtekar variables,[202] this leads to a model known as loop
+quantum gravity. Space is represented by a web-like structure called a spin network, evolving over
+time in discrete steps.[203]
+Depending on which features of general relativity and quantum theory are accepted unchanged, and
+on what level changes are introduced,[204] there are numerous other attempts to arrive at a viable
+theory of quantum gravity, some examples being the lattice theory of gravity based on the Feynman
+Path Integral approach and Regge calculus,[191] dynamical triangulations,[205] causal sets,[206] twistor
+models[207] or the path integral based models of quantum cosmology.[208]
+All candidate theories still have major formal and conceptual problems to overcome. They also face
+the common problem that, as yet, there is no way to put quantum gravity predictions to experimental
+tests (and thus to decide between the candidates where their predictions vary), although there is hope
+for this to change as future data from cosmological observations and particle physics experiments
+becomes available.[209]
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+21/55

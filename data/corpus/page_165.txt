@@ -1,0 +1,53 @@
+19. Sagan, Carl (1996). The Demon-Haunted World: Science as a Candle in the Dark. Ballantine
+Books. p. 249. ISBN 0-345-40946-9. " "For most physics students, (the "mathematical
+underpinning" of quantum mechanics) might occupy them from, say, third grade to early graduate
+school – roughly 15 years. ... The job of the popularizer of science, trying to get across some idea
+of quantum mechanics to a general audience that has not gone through these initiation rites, is
+daunting. Indeed, there are no successful popularizations of quantum mechanics in my opinion –
+partly for this reason."
+20. Holevo, Alexander S. (2001). Statistical Structure of Quantum Theory. Lecture Notes in Physics.
+Springer. ISBN 3-540-42082-7. OCLC 318268606 (https://search.worldcat.org/oclc/318268606).
+21. Hall, Brian C. (2013). Quantum Theory for Mathematicians. Graduate Texts in Mathematics.
+Vol. 267. Springer. p. 125. ISBN 978-1-4614-7115-8.
+22. Weinberg, Steven (2010). Dreams Of A Final Theory: The Search for The Fundamental Laws of
+Nature (https://books.google.com/books?id=OLrZkgPsZR0C). Random House. p. 82 (https://book
+s.google.com/books?id=OLrZkgPsZR0C&pg=PT82). ISBN 978-1-4070-6396-6.
+23. Zhang, Ruiqin; Deng, Conghao (1993). "Exact solutions of the Schrödinger equation for some
+quantum-mechanical many-body systems". Physical Review A. 47 (1): 71–77.
+Bibcode:1993PhRvA..47...71Z (https://ui.adsabs.harvard.edu/abs/1993PhRvA..47...71Z).
+doi:10.1103/PhysRevA.47.71 (https://doi.org/10.1103%2FPhysRevA.47.71). ISSN 1050-2947 (http
+s://search.worldcat.org/issn/1050-2947). PMID 9908895 (https://pubmed.ncbi.nlm.nih.gov/990889
+5).
+24. Li, Jing; Drummond, N. D.; Schuck, Peter; Olevano, Valerio (2019-04-01). "Comparing many-body
+approaches against the helium atom exact solution" (https://doi.org/10.21468%2FSciPostPhys.6.
+4.040). SciPost Physics. 6 (4): 40. arXiv:1801.09977 (https://arxiv.org/abs/1801.09977).
+Bibcode:2019ScPP....6...40L (https://ui.adsabs.harvard.edu/abs/2019ScPP....6...40L).
+doi:10.21468/SciPostPhys.6.4.040 (https://doi.org/10.21468%2FSciPostPhys.6.4.040).
+ISSN 2542-4653 (https://search.worldcat.org/issn/2542-4653).
+25. Drake, Gordon W. F. (2023). "High Precision Calculations for Helium". In Drake, Gordon W. F.
+(ed.). Springer Handbook of Atomic, Molecular, and Optical Physics. Springer Handbooks. Cham:
+Springer International Publishing. pp. 199–216. doi:10.1007/978-3-030-73893-8_12 (https://doi.or
+g/10.1007%2F978-3-030-73893-8_12). ISBN 978-3-030-73892-1.
+26. Cohen-Tannoudji, Claude; Diu, Bernard; Laloë, Franck (2005). Quantum Mechanics. Translated by
+Hemley, Susan Reid; Ostrowsky, Nicole; Ostrowsky, Dan. John Wiley & Sons. ISBN 0-471-16433-
+X.
+27. Landau, Lev D.; Lifschitz, Evgeny M. (1977). Quantum Mechanics: Non-Relativistic Theory (http
+s://archive.org/details/QuantumMechanics_104). Vol. 3 (3rd ed.). Pergamon Press. ISBN 978-0-
+08-020940-1. OCLC 2284121 (https://search.worldcat.org/oclc/2284121).
+28. Section 3.2 of Ballentine, Leslie E. (1970), "The Statistical Interpretation of Quantum Mechanics",
+Reviews of Modern Physics, 42 (4): 358–381, Bibcode:1970RvMP...42..358B (https://ui.adsabs.ha
+rvard.edu/abs/1970RvMP...42..358B), doi:10.1103/RevModPhys.42.358 (https://doi.org/10.1103%
+2FRevModPhys.42.358), S2CID 120024263 (https://api.semanticscholar.org/CorpusID:12002426
+3). This fact is experimentally well-known for example in quantum optics; see e.g. chap. 2 and Fig.
+2.1 Leonhardt, Ulf (1997), Measuring the Quantum State of Light (https://archive.org/details/meas
+uringquantum0000leon), Cambridge: Cambridge University Press, Bibcode:1997mqsl.book.....L (h
+ttps://ui.adsabs.harvard.edu/abs/1997mqsl.book.....L), ISBN 0-521-49730-2.
+29. Nielsen, Michael A.; Chuang, Isaac L. (2010). Quantum Computation and Quantum Information
+(2nd ed.). Cambridge University Press. ISBN 978-1-107-00217-3. OCLC 844974180 (https://searc
+h.worldcat.org/oclc/844974180).
+30. Rieffel, Eleanor G.; Polak, Wolfgang H. (2011). Quantum Computing: A Gentle Introduction. MIT
+Press. ISBN 978-0-262-01506-6.
+4/10/26, 3:51 PM
+Quantum mechanics - Wikipedia
+https://en.wikipedia.org/wiki/Quantum_mechanics
+20/28

@@ -1,0 +1,50 @@
+Schematic representation of the
+gravitational redshift of a light wave
+escaping from the surface of a massive
+body
+Deflection of light (sent out
+from the location shown in
+blue) near a compact body
+(shown in gray)
+provided by the observation of binary pulsars.[69] All results
+are in agreement with general relativity.[70] However, at the
+existing level of accuracy, these observations cannot
+distinguish between general relativity and other theories in
+which the equivalence principle is valid.[71]
+In the vicinity of a non-rotating sphere, the time dilation due
+to gravity, derived from the Schwarzschild metric, is
+where
+ is the proper time between two events for an observer
+close to the massive sphere, i.e. deep within the
+gravitational field
+ is the coordinate time between the events for an observer at an arbitrarily large distance from
+the massive object (this assumes the far-away observer is using Schwarzschild coordinates, a
+coordinate system where a clock at infinite distance from the massive sphere would tick at one
+second per second of coordinate time, while closer clocks would tick at less than that rate),
+ is the gravitational constant,
+ is the mass of the object creating the gravitational field,
+ is the radial coordinate of the observer within the gravitational field (this coordinate is analogous
+to the classical distance from the center of the object, but is actually a Schwarzschild coordinate;
+the equation in this form has real solutions for 
+),
+ is the speed of light.
+General relativity predicts that the path of light will follow the
+curvature of spacetime as it passes near a massive object. This effect
+was initially confirmed by observing the light of stars or distant
+quasars being deflected as it passes the Sun.[72]
+This and related predictions follow from the fact that light follows what
+is called a light-like or null geodesic—a generalization of the straight
+lines along which light travels in classical physics. Such geodesics are
+the generalization of the invariance of lightspeed in special
+relativity.[73] As one examines suitable model spacetimes (either the
+exterior Schwarzschild solution or, for more than a single mass, the
+post-Newtonian expansion),[74] several effects of gravity on light
+propagation emerge. Although the bending of light can also be derived
+by extending the universality of free fall to light,[75] the angle of
+deflection resulting from such calculations is only half the value given
+by general relativity.[76]
+Light deflection and gravitational time delay
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+10/55

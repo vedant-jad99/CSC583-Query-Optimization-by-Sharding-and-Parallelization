@@ -1,0 +1,42 @@
+It is interesting to consider what would happen if the photon were definitely in either the "lower" or
+"upper" paths between the beam splitters. This can be accomplished by blocking one of the paths, or
+equivalently by removing the first beam splitter (and feeding the photon from the left or the bottom,
+as desired). In both cases, there will be no interference between the paths anymore, and the
+probabilities are given by 
+, independently of the phase 
+. From this we can
+conclude that the photon does not take one path or another after the first beam splitter, but rather
+that it is in a genuine quantum superposition of the two paths.[38]
+Quantum mechanics has had enormous success in explaining many of the features of our universe,
+with regard to small-scale and discrete quantities and interactions which cannot be explained by
+classical methods.[note 2] Quantum mechanics is often the only theory that can reveal the individual
+behaviors of the subatomic particles that make up all forms of matter (electrons, protons, neutrons,
+photons, and others). Solid-state physics and materials science are dependent upon quantum
+mechanics.[39]
+In many aspects, modern technology operates at a scale where quantum effects are significant.
+Important applications of quantum theory include quantum chemistry, quantum optics, quantum
+computing, superconducting magnets, light-emitting diodes, the optical amplifier and the laser, the
+transistor and semiconductors such as the microprocessor, medical and research imaging such as
+magnetic resonance imaging and electron microscopy.[40] Explanations for many biological and
+physical phenomena are rooted in the nature of the chemical bond, most notably the macro-molecule
+DNA.
+The rules of quantum mechanics assert that the state space of a system is a Hilbert space and that
+observables of the system are Hermitian operators acting on vectors in that space – although they do
+not tell us which Hilbert space or which operators. These can be chosen appropriately in order to
+obtain a quantitative description of a quantum system, a necessary step in making physical
+predictions. An important guide for making these choices is the correspondence principle, a heuristic
+which states that the predictions of quantum mechanics reduce to those of classical mechanics in the
+regime of large quantum numbers.[41] One can also start from an established classical model of a
+particular system, and then try to guess the underlying quantum model that would give rise to the
+classical model in the correspondence limit. This approach is known as quantization.[42]: 299 [43]
+When quantum mechanics was originally formulated, it was applied to models whose correspondence
+limit was non-relativistic classical mechanics. For instance, the well-known model of the quantum
+harmonic oscillator uses an explicitly non-relativistic expression for the kinetic energy of the
+oscillator, and is thus a quantum version of the classical harmonic oscillator.[7]: 234 
+Applications
+Relation to other scientific theories
+Classical mechanics
+4/10/26, 3:51 PM
+Quantum mechanics - Wikipedia
+https://en.wikipedia.org/wiki/Quantum_mechanics
+12/28

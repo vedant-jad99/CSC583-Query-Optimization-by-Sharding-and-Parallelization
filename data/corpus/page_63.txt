@@ -1,0 +1,44 @@
+phenomenon. Other predictions include the existence of gravitational waves, which have been
+observed directly by the physics collaboration LIGO and other observatories. In addition, general
+relativity has provided the basis for cosmological models of an expanding universe.
+Widely acknowledged as a theory of extraordinary mathematical beauty, general relativity has often
+been described as the most beautiful of all existing physical theories.[2]
+Henri Poincaré's 1905 theory of the dynamics of the electron was a relativistic theory which he applied
+to all forces, including gravity. While others thought that gravity was instantaneous or of
+electromagnetic origin, he suggested that relativity was "something due to our methods of
+measurement". In his theory, he showed that gravitational waves propagate at the speed of light.[3]
+Soon afterwards, Einstein started thinking about how to incorporate gravity into his relativistic
+framework. In 1907, beginning with a simple thought experiment involving an observer in free fall
+(FFO), he embarked on what would be an eight-year search for a relativistic theory of gravity. After
+numerous detours and false starts, his work culminated in the presentation to the Prussian Academy
+of Science in November 1915 of what are known as the Einstein field equations, which form the core of
+Einstein's general theory of relativity.[4] These equations specify how the geometry of space and time
+is influenced by whatever matter and radiation are present.[5] A version of non-Euclidean geometry,
+called Riemannian geometry, enabled Einstein to develop general relativity by providing the key
+mathematical framework on which he fit his physical ideas of gravity.[6] This idea was pointed out by
+mathematician Marcel Grossmann and published by Grossmann and Einstein in 1913.[7]
+The Einstein field equations are nonlinear and are considered difficult to solve. Einstein used
+approximation methods in working out initial predictions of the theory. But in 1916, the astrophysicist
+Karl Schwarzschild found the first non-trivial exact solution to the Einstein field equations, the
+Schwarzschild metric. This solution laid the groundwork for the description of the final stages of
+gravitational collapse, and the objects known today as black holes. In the same year, the first steps
+towards generalizing Schwarzschild's solution to electrically charged objects were taken, eventually
+resulting in the Reissner–Nordström solution, which is associated with electrically charged black
+holes.[8] In 1917, Einstein applied his theory to the universe as a whole, initiating the field of
+relativistic cosmology. In line with contemporary thinking, he assumed a static universe, adding a new
+parameter to his original field equations—the cosmological constant—to match that observational
+presumption.[9] By 1929, however, the work of Hubble and others had shown that the universe is
+expanding. This is readily described by the expanding cosmological solutions found by Friedmann in
+1922, which do not require a cosmological constant. Lemaître used these solutions to formulate the
+earliest version of the Big Bang models, in which the universe has evolved from an extremely hot and
+dense earlier state.[10] Einstein later declared the cosmological constant the biggest blunder of his
+life.[11]
+During that period, general relativity remained something of a curiosity among physical theories. It
+was clearly superior to Newtonian gravity, being consistent with special relativity and accounting for
+several effects unexplained by the Newtonian theory. Einstein showed in 1915 how his theory
+explained the anomalous perihelion advance of the planet Mercury without any arbitrary parameters
+History
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+2/55

@@ -1,0 +1,48 @@
+97. Bernstein, Jeremy (November 2005). "Max Born and the quantum theory" (https://doi.org/10.111
+9%2F1.2060717). American Journal of Physics. 73 (11): 999–1008.
+Bibcode:2005AmJPh..73..999B (https://ui.adsabs.harvard.edu/abs/2005AmJPh..73..999B).
+doi:10.1119/1.2060717 (https://doi.org/10.1119%2F1.2060717). ISSN 0002-9505 (https://search.w
+orldcat.org/issn/0002-9505).
+98. Pais, Abraham (1997). A Tale of Two Continents: A Physicist's Life in a Turbulent World (https://arc
+hive.org/details/taleoftwocontine00pais). Princeton, New Jersey: Princeton University Press.
+ISBN 0-691-01243-1.
+99. Van Hove, Leon (1958). "Von Neumann's contributions to quantum mechanics" (https://www.ams.
+org/journals/bull/1958-64-03/S0002-9904-1958-10206-2/S0002-9904-1958-10206-2.pdf) (PDF).
+Bulletin of the American Mathematical Society. 64 (3): Part 2:95–99. doi:10.1090/s0002-9904-
+1958-10206-2 (https://doi.org/10.1090%2Fs0002-9904-1958-10206-2). Archived (https://web.archi
+ve.org/web/20240120073106/https://www.ams.org/journals/bull/1958-64-03/S0002-9904-1958-10
+206-2/S0002-9904-1958-10206-2.pdf) (PDF) from the original on Jan 20, 2024.
+100. Feynman, Richard. "The Feynman Lectures on Physics Vol. III Ch. 21: The Schrödinger Equation
+in a Classical Context: A Seminar on Superconductivity, 21-4" (https://feynmanlectures.caltech.ed
+u/III_21.html#Ch21-S5). California Institute of Technology. Retrieved 24 November 2015. "...it was
+long believed that the wave function of the Schrödinger equation would never have a macroscopic
+representation analogous to the macroscopic representation of the amplitude for photons. On the
+other hand, it is now realized that the phenomena of superconductivity presents us with just this
+situation."
+101. Packard, Richard (2006). "Berkeley Experiments on Superfluid Macroscopic Quantum Effects" (htt
+ps://web.archive.org/web/20151125112132/http://research.physics.berkeley.edu/packard/publicati
+ons/Articles/LT24_Berk_expts_on_macro_sup_effects.pdf) (PDF). Physics Department, University
+of California, Berkeley. Archived from the original (http://physics.berkeley.edu/sites/default/files/_/lt
+24_berk_expts_on_macro_sup_effects.pdf) (PDF) on 25 November 2015. Retrieved 24 November
+2015.
+The following titles, all by working physicists, attempt to communicate quantum theory to lay people,
+using a minimum of technical apparatus:
+Chester, Marvin (1987). Primer of Quantum Mechanics. John Wiley. ISBN 0-486-42878-8
+Cox, Brian; Forshaw, Jeff (2011). The Quantum Universe: Everything That Can Happen Does
+Happen. Allen Lane. ISBN 978-1-84614-432-5.
+Richard Feynman, 1985. QED: The Strange Theory of Light and Matter, Princeton University
+Press. ISBN 0-691-08388-6. Four elementary lectures on quantum electrodynamics and quantum
+field theory, yet containing many insights for the expert.
+Ghirardi, GianCarlo, 2004. Sneaking a Look at God's Cards, Gerald Malsbary, trans. Princeton
+Univ. Press. The most technical of the works cited here. Passages using algebra, trigonometry,
+and bra–ket notation can be passed over on a first reading.
+N. David Mermin, 1990, "Spooky actions at a distance: mysteries of the QT" in his Boojums All the
+Way Through. Cambridge University Press: 110–76.
+Victor Stenger, 2000. Timeless Reality: Symmetry, Simplicity, and Multiple Universes. Buffalo, New
+York: Prometheus Books. Chpts. 5–8. Includes cosmological and philosophical considerations.
+More technical:
+Further reading
+4/10/26, 3:51 PM
+Quantum mechanics - Wikipedia
+https://en.wikipedia.org/wiki/Quantum_mechanics
+26/28

@@ -1,0 +1,49 @@
+Einstein and Niels Bohr, 1925
+Einstein never fully accepted quantum mechanics. While he recognized
+that it made correct predictions, he believed a more fundamental
+description of nature must be possible. Over the years he presented
+multiple arguments to this effect, but the one he preferred most dated
+to a debate with Bohr in 1930. Einstein suggested a thought
+experiment in which two objects are allowed to interact and then
+moved apart a great distance from each other. The quantum-
+mechanical description of the two objects is a mathematical entity
+known as a wavefunction. If the wavefunction that describes the two
+objects before their interaction is given, then the Schrödinger equation provides the wavefunction that
+describes them after their interaction. But because of what would later be called quantum
+entanglement, measuring one object would lead to an instantaneous change of the wavefunction
+describing the other object, no matter how far away it is. Moreover, the choice of which measurement
+to perform upon the first object would affect what wavefunction could result for the second object.
+Einstein reasoned that no influence could propagate from the first object to the second
+instantaneously fast. Indeed, he argued, physics depends on being able to tell one thing apart from
+another, and such instantaneous influences would call that into question. Because the true "physical
+condition" of the second object could not be immediately altered by an action done to the first,
+Einstein concluded, the wavefunction could not be that true physical condition, only an incomplete
+description of it.[298][299]
+A more famous version of this argument came in 1935, when Einstein published a paper with Boris
+Podolsky and Nathan Rosen that laid out what would become known as the EPR paradox.[300] In this
+thought experiment, two particles interact in such a way that the wavefunction describing them is
+entangled. Then, no matter how far the two particles were separated, a precise position measurement
+on one particle would imply the ability to predict, perfectly, the result of measuring the position of the
+other particle. Likewise, a precise momentum measurement of one particle would result in an equally
+precise prediction for of the momentum of the other particle, without needing to disturb the other
+particle in any way. They argued that no action taken on the first particle could instantaneously affect
+the other, since this would involve information being transmitted faster than light, which is forbidden
+by the theory of relativity. They invoked a principle, later known as the "EPR criterion of reality",
+positing that: "If, without in any way disturbing a system, we can predict with certainty (i.e., with
+probability equal to unity) the value of a physical quantity, then there exists an element of reality
+corresponding to that quantity." From this, they inferred that the second particle must have a definite
+value of both position and of momentum prior to either quantity being measured. But quantum
+mechanics considers these two observables incompatible and thus does not associate simultaneous
+values for both to any system. Einstein, Podolsky, and Rosen therefore concluded that quantum
+theory does not provide a complete description of reality.[301]
+In 1964, John Stewart Bell carried the analysis of quantum entanglement much further. He deduced
+that if measurements are performed independently on the two separated particles of an entangled
+pair, then the assumption that the outcomes depend upon hidden variables within each half implies a
+mathematical constraint on how the outcomes on the two measurements are correlated. This
+constraint would later be called a Bell inequality. Bell then showed that quantum physics predicts
+correlations that violate this inequality. Consequently, the only way that hidden variables could
+Einstein–Podolsky–Rosen paradox
+4/10/26, 3:50 PM
+Albert Einstein - Wikipedia
+https://en.wikipedia.org/wiki/Albert_Einstein
+28/61

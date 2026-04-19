@@ -1,0 +1,27 @@
+# Medium queries — two terms, one Boolean operator (postfix notation)
+# Format: term1 term2 \op
+# Operator AFTER operands — postfix / RPN form required by the engine.
+einstein quantum \and
+einstein berlin \and
+relativity quantum \and
+physics gravity \and
+einstein princeton \and
+radiation nuclear \and
+university berlin \and
+spacetime curvature \and
+einstein quantum \or
+relativity physics \or
+einstein berlin \or
+gravity radiation \or
+university quantum \or
+princeton zurich \or
+singularity spacetime \or
+electromagnetic radiation \or
+einstein quantum \not
+relativity berlin \not
+physics radiation \not
+gravity quantum \not
+princeton berlin \not
+spacetime singularity \not
+nuclear radiation \not
+citizenship persecution \not

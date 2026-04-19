@@ -1,0 +1,56 @@
+Picture of space falling into a
+Schwarzschild black hole at the
+Newtonian escape speed. Outside the
+horizon (red), the infalling speed is less
+than the speed of light; inside it is
+greater. At the event horizon, the infalling
+speed equals the speed of light.[6] Credit:
+Andrew Hamilton, JILA
+Diagram by Jacob Bekenstein of the
+entropy on a black hole’s event horizon.
+In 1971 Soviet scientists Yakov Zeldovich and Alexei
+Starobinsky proposed that rotating black holes ought to create
+and emit particles, reasoning by analogy with electromagnetic
+spinning metal spheres. In 1972, Jacob Bekenstein developed
+a theory and reported that the black holes should have an
+entropy proportional to their surface area.[8] Initially Stephen
+Hawking argued against Bekenstein's theory, viewing black
+holes as a simple object with no entropy.[9]: 425  After meeting
+Zeldovich in Moscow in 1973, Hawking put these two ideas
+together using his mixture of quantum field theory and
+general relativity.[9]: 435 
+In his 1974 paper Hawking showed that in theory, black holes
+radiate particles as if it were a blackbody. Particles escaping
+effectively drain energy from the black hole. In Hawking's
+prediction, black holes emit small amounts of thermal
+radiation at a temperature of 
+, where 
+ is the
+reduced Planck constant,  is the speed of light, 
+ is the
+gravitational constant, 
+ is the mass of the black hole and 
+is the Boltzmann constant.[10] By applying quantum field
+theory to black holes, Hawking determined that a black hole
+should continuously emit thermal blackbody radiation. This
+effect has become known as Hawking radiation. This theory
+was supported by previous work by Jacob Bekenstein, who
+theorized that black holes should have a finite entropy
+proportional to their surface area, and therefore should also
+have a temperature.[11] Due to Bekenstein's contribution to
+black hole entropy,[12] it is also known as Bekenstein–
+Hawking radiation.[13] Since Hawking's publication, many
+others have mathematically verified the result through different approaches.[11]
+Hawking radiation derives from vacuum fluctuations. A quantum fluctuation in the electromagnetic
+field can result in a photon outside of the black hole horizon paired with one on the inside. The
+horizon allows one to escape in each direction.[9]: 439 
+Hawking radiation is dependent on the Unruh effect and the equivalence principle applied to black-
+hole horizons. Close to the event horizon of a black hole, a local observer must accelerate to keep from
+falling in. An accelerating observer sees a thermal bath of particles that pop out of the local
+acceleration horizon, turn around, and free-fall back in. The condition of local thermal equilibrium
+Discovery
+Emission process
+4/10/26, 3:47 PM
+Hawking radiation - Wikipedia
+https://en.wikipedia.org/wiki/Hawking_radiation
+2/17

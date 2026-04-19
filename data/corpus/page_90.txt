@@ -1,0 +1,53 @@
+146. Spergel et al. 2007, sec. 5,6
+147. More concretely, the potential function that is crucial to determining the dynamics of the inflaton is
+simply postulated, but not derived from an underlying physical theory
+148. Brandenberger 2008, sec. 2
+149. Gödel 1949
+150. Finazzi, Stefano; Liberati, Stefano; Barceló, Carlos (15 June 2009). "Semiclassical instability of
+dynamical warp drives". Physical Review D. 79 (12) 124017. arXiv:0904.0141 (https://arxiv.org/ab
+s/0904.0141). Bibcode:2009PhRvD..79l4017F (https://ui.adsabs.harvard.edu/abs/2009PhRvD..79l
+4017F). doi:10.1103/PhysRevD.79.124017 (https://doi.org/10.1103%2FPhysRevD.79.124017).
+S2CID 59575856 (https://api.semanticscholar.org/CorpusID:59575856).
+151. Bondi, H.; Van der Burg, M.G.J.; Metzner, A. (1962). "Gravitational waves in general relativity: VII.
+Waves from axisymmetric isolated systems". Proceedings of the Royal Society of London. Series
+A. Mathematical and Physical Sciences. 269 (1336): 21–52. Bibcode:1962RSPSA.269...21B (http
+s://ui.adsabs.harvard.edu/abs/1962RSPSA.269...21B). doi:10.1098/rspa.1962.0161 (https://doi.or
+g/10.1098%2Frspa.1962.0161). S2CID 120125096 (https://api.semanticscholar.org/CorpusID:120
+125096).
+152. Sachs, R. (1962). "Asymptotic symmetries in gravitational theory". Physical Review. 128 (6):
+2851–2864. Bibcode:1962PhRv..128.2851S (https://ui.adsabs.harvard.edu/abs/1962PhRv..128.28
+51S). doi:10.1103/PhysRev.128.2851 (https://doi.org/10.1103%2FPhysRev.128.2851).
+153. Strominger, Andrew (2017). "Lectures on the Infrared Structure of Gravity and Gauge Theory".
+arXiv:1703.05448 (https://arxiv.org/abs/1703.05448) [hep-th (https://arxiv.org/archive/hep-th)].
+"...redacted transcript of a course given by the author at Harvard in spring semester 2016. It
+contains a pedagogical overview of recent developments connecting the subjects of soft
+theorems, the memory effect and asymptotic symmetries in four-dimensional QED, nonabelian
+gauge theory and gravity with applications to black holes. To be published Princeton University
+Press, 158 pages."
+154. Frauendiener 2004, Wald 1984, sec. 11.1, Hawking & Ellis 1973, sec. 6.8, 6.9
+155. Wald 1984, sec. 9.2–9.4 and Hawking & Ellis 1973, ch. 6
+156. Thorne 1972; for more recent numerical studies, see Berger 2002, sec. 2.1
+157. Israel 1987. A more exact mathematical description distinguishes several kinds of horizon, notably
+event horizons and apparent horizons cf. Hawking & Ellis 1973, pp. 312–320 or Wald 1984, sec.
+12.2; there are also more intuitive definitions for isolated systems that do not require knowledge of
+spacetime properties at infinity, cf. Ashtekar & Krishnan 2004
+158. For first steps, cf. Israel 1971; see Hawking & Ellis 1973, sec. 9.3 or Heusler 1996, ch. 9 and 10
+for a derivation, and Heusler 1998 as well as Beig & Chruściel 2006 as overviews of more recent
+results
+159. The laws of black hole mechanics were first described in Bardeen, Carter & Hawking 1973; a
+more pedagogical presentation can be found in Carter 1979; for a more recent review, see Wald
+2001, ch. 2. A thorough, book-length introduction including an introduction to the necessary
+mathematics Poisson 2004. For the Penrose process, see Penrose 1969
+160. Bekenstein 1973, Bekenstein 1974
+161. The fact that black holes radiate, quantum mechanically, was first derived in Hawking 1975; a
+more thorough derivation can be found in Wald 1975. A review is given in Wald 2001, ch. 3
+162. Narlikar 1993, sec. 4.4.4, 4.4.5
+163. Horizons: cf. Rindler 2001, sec. 12.4. Unruh effect: Unruh 1976, cf. Wald 2001, ch. 3
+164. Hawking & Ellis 1973, sec. 8.1, Wald 1984, sec. 9.1
+165. Townsend 1997, ch. 2; a more extensive treatment of this solution can be found in Chandrasekhar
+1983, ch. 3
+166. Townsend 1997, ch. 4; for a more extensive treatment, cf. Chandrasekhar 1983, ch. 6
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+29/55

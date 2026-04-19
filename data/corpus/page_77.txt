@@ -1,0 +1,41 @@
+measurements of the cosmic background radiation also show that the evolution of the universe is
+significantly influenced by a cosmological constant resulting in an acceleration of cosmic expansion
+or, equivalently, by a form of energy with an unusual equation of state, known as dark energy, the
+nature of which remains unclear.[143]
+An inflationary phase,[144] an additional phase of strongly accelerated expansion at cosmic times of
+around 10−33 seconds, was hypothesized in 1980 to account for several puzzling observations that
+were unexplained by classical cosmological models, such as the nearly perfect homogeneity of the
+cosmic background radiation.[145] Recent measurements of the cosmic background radiation have
+resulted in the first evidence for this scenario.[146] However, there are a bewildering variety of possible
+inflationary scenarios, which cannot be restricted by existing observations.[147] An even larger
+question is the physics of the earliest universe, prior to the inflationary phase and close to where the
+classical models predict the big bang singularity. An authoritative answer would require a complete
+theory of quantum gravity, which has not yet been developed[148] (cf. the section on quantum gravity,
+below).
+Kurt Gödel showed[149] that solutions to Einstein's equations exist that contain closed timelike curves
+(CTCs), which allow for loops in time. The solutions require extreme physical conditions unlikely ever
+to occur in practice, and it remains an open question whether further laws of physics will eliminate
+them completely. Since then, other—similarly impractical—GR solutions containing CTCs have been
+found, such as the Tipler cylinder and traversable wormholes. Stephen Hawking introduced
+chronology protection conjecture, which is an assumption beyond those of standard general relativity
+to prevent time travel.
+Some exact solutions in general relativity such as Alcubierre drive offer examples of warp drive but
+these solutions require exotic matter distribution, and generally suffer from semiclassical instability.
+[150]
+The spacetime symmetry group for special relativity is the Poincaré group, which is a ten-dimensional
+group of three Lorentz boosts, three rotations, and four spacetime translations. It is logical to ask what
+symmetries, if any, might apply in General Relativity. A tractable case might be to consider the
+symmetries of spacetime as seen by observers located far away from all sources of the gravitational
+field. The naive expectation for asymptotically flat spacetime symmetries might be simply to extend
+and reproduce the symmetries of flat spacetime of special relativity, viz., the Poincaré group.
+In 1962 Hermann Bondi, M. G. van der Burg, A. W. Metzner[151] and Rainer K. Sachs[152] addressed
+this asymptotic symmetry problem in order to investigate the flow of energy at infinity due to
+propagating gravitational waves. Their first step was to decide on some physically sensible boundary
+conditions to place on the gravitational field at light-like infinity to characterize what it means to say a
+Exotic solutions: time travel, warp drives
+Advanced concepts
+Asymptotic symmetries
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+16/55

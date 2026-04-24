@@ -30,7 +30,7 @@ int BooleanEngine::init(const std::string &bin_path) {
     return 0;
 }
 
-std::vector<uint32_t> BooleanEngine::query(const std::string &raw_query) {
+const std::vector<uint32_t> &BooleanEngine::query(const std::string &raw_query) {
     std::vector<std::string> normalized = preprocessor.process(raw_query);
     return queryRunner.runQuery(normalized);
 }

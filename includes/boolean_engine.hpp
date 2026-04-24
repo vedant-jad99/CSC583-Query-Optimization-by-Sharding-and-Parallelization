@@ -30,7 +30,7 @@ public:
 
     int init(const std::string &bin_path);
 
-    std::vector<uint32_t> query(const std::string &raw_query);
+    const std::vector<uint32_t> &query(const std::string &raw_query);
 };
 
 #endif /* BOOLEAN_ENGINE_HPP */

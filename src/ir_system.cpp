@@ -89,6 +89,7 @@ int QueryRunner::initIRSystem( std::unordered_map<std::string, std::vector<uint3
     return 0;
 }
 
-std::vector<uint32_t> QueryRunner::runQuery(const std::vector<std::string> &normalized_terms) {
-    return irs->processQuery(normalized_terms);
+const std::vector<uint32_t> &QueryRunner::runQuery(const std::vector<std::string> &normalized_terms) {
+	q_result = irs->processQuery(normalized_terms);
+    return q_result;
 }

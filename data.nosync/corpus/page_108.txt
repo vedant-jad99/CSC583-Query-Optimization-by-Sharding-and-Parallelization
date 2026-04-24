@@ -1,0 +1,54 @@
+Rindler, Wolfgang (1991), Introduction to Special Relativity (https://archive.org/details/introductiont
+osp0000rind), Clarendon Press, Oxford, ISBN 978-0-19-853952-0
+Robson, Ian (1996), Active galactic nuclei, John Wiley, ISBN 978-0-471-95853-6
+Roulet, E.; Mollerach, S. (1997), "Microlensing", Physics Reports, 279 (2): 67–118, arXiv:astro-
+ph/9603119 (https://arxiv.org/abs/astro-ph/9603119), Bibcode:1997PhR...279...67R (https://ui.adsa
+bs.harvard.edu/abs/1997PhR...279...67R), doi:10.1016/S0370-1573(96)00020-8 (https://doi.org/1
+0.1016%2FS0370-1573%2896%2900020-8), S2CID 262685723 (https://api.semanticscholar.org/
+CorpusID:262685723)
+Rovelli, Carlo, ed. (2015), General Relativity: The most beautiful of theories (de Gruyter Studies in
+Mathematical Physics), Boston: Walter de Gruyter GmbH, ISBN 978-3-11-034042-6
+Rovelli, Carlo (2000). "Notes for a brief history of quantum gravity". arXiv:gr-qc/0006061 (https://ar
+xiv.org/abs/gr-qc/0006061).
+Rovelli, Carlo (1998), "Loop Quantum Gravity", Living Reviews in Relativity, 1 (1) 1, arXiv:gr-
+qc/9710008 (https://arxiv.org/abs/gr-qc/9710008), Bibcode:1998LRR.....1....1R (https://ui.adsabs.h
+arvard.edu/abs/1998LRR.....1....1R), CiteSeerX 10.1.1.90.7036 (https://citeseerx.ist.psu.edu/viewd
+oc/summary?doi=10.1.1.90.7036), doi:10.12942/lrr-1998-1 (https://doi.org/10.12942%2Flrr-1998-
+1), PMC 5567241 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5567241), PMID 28937180 (http
+s://pubmed.ncbi.nlm.nih.gov/28937180)
+Schäfer, Gerhard (2004), "Gravitomagnetic Effects", General Relativity and Gravitation, 36 (10):
+2223–2235, arXiv:gr-qc/0407116 (https://arxiv.org/abs/gr-qc/0407116),
+Bibcode:2004GReGr..36.2223S (https://ui.adsabs.harvard.edu/abs/2004GReGr..36.2223S),
+doi:10.1023/B:GERG.0000046180.97877.32 (https://doi.org/10.1023%2FB%3AGERG.000004618
+0.97877.32), S2CID 14255129 (https://api.semanticscholar.org/CorpusID:14255129)
+Schödel, R.; Ott, T.; Genzel, R.; Eckart, A.; Mouawad, N.; Alexander, T. (2003), "Stellar Dynamics
+in the Central Arcsecond of Our Galaxy", Astrophysical Journal, 596 (2): 1015–1034, arXiv:astro-
+ph/0306214 (https://arxiv.org/abs/astro-ph/0306214), Bibcode:2003ApJ...596.1015S (https://ui.ads
+abs.harvard.edu/abs/2003ApJ...596.1015S), doi:10.1086/378122 (https://doi.org/10.1086%2F378
+122), S2CID 17719367 (https://api.semanticscholar.org/CorpusID:17719367)
+Schutz, Bernard F. (1985), A first course in general relativity, Cambridge University Press,
+ISBN 978-0-521-27703-7
+Schutz, Bernard F. (2003), Gravity from the ground up, Cambridge University Press,
+Bibcode:2003ggu..book.....S (https://ui.adsabs.harvard.edu/abs/2003ggu..book.....S), ISBN 978-0-
+521-45506-0
+Schwarz, John H. (2007), "String Theory: Progress and Problems", Progress of Theoretical
+Physics Supplement, 170: 214–226, arXiv:hep-th/0702219 (https://arxiv.org/abs/hep-th/0702219),
+Bibcode:2007PThPS.170..214S (https://ui.adsabs.harvard.edu/abs/2007PThPS.170..214S),
+doi:10.1143/PTPS.170.214 (https://doi.org/10.1143%2FPTPS.170.214), S2CID 16762545 (https://
+api.semanticscholar.org/CorpusID:16762545)
+Schwarzschild, Karl (1916a), "Über das Gravitationsfeld eines Massenpunktes nach der
+Einsteinschen Theorie", Sitzungsber. Preuss. Akad. D. Wiss.: 189–196,
+Bibcode:1916SPAW.......189S (https://ui.adsabs.harvard.edu/abs/1916SPAW.......189S)
+Schwarzschild, Karl (1916b), "Über das Gravitationsfeld einer Kugel aus inkompressibler
+Flüssigkeit nach der Einsteinschen Theorie", Sitzungsber. Preuss. Akad. D. Wiss.: 424–434,
+Bibcode:1916skpa.conf..424S (https://ui.adsabs.harvard.edu/abs/1916skpa.conf..424S)
+Seidel, Edward (1998), "Numerical Relativity: Towards Simulations of 3D Black Hole
+Coalescence", in Narlikar, J. V.; Dadhich, N. (eds.), Gravitation and Relativity: At the turn of the
+millennium (Proceedings of the GR-15 Conference, held at IUCAA, Pune, India, December 16–21,
+1997), IUCAA, p. 6088, arXiv:gr-qc/9806088 (https://arxiv.org/abs/gr-qc/9806088),
+Bibcode:1998gr.qc.....6088S (https://ui.adsabs.harvard.edu/abs/1998gr.qc.....6088S), ISBN 978-
+81-900378-3-9
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+47/55

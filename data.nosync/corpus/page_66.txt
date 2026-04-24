@@ -1,0 +1,47 @@
+Light cone of event A
+classical mechanics. (The defining symmetry of special relativity is the
+Poincaré group, which includes translations, rotations, boosts and
+reflections.) The differences between the two become significant when
+dealing with speeds approaching the speed of light, and with high-
+energy phenomena.[33]
+With Lorentz symmetry, additional structures come into play. They are
+defined by the set of light cones (see image). The light-cones define a
+causal structure: for each event A, there is a set of events that can, in
+principle, either influence or be influenced by A via signals or
+interactions that do not need to travel faster than light (such as event
+B in the image), and a set of events for which such an influence is
+impossible (such as event C in the image). These sets are observer-
+independent.[34] In conjunction with the world-lines of freely falling
+particles, the light-cones can be used to reconstruct the spacetime's
+semi-Riemannian metric, at least up to a positive scalar factor. In
+mathematical terms, this defines a conformal structure[35] or
+conformal geometry.
+Special relativity is defined in the absence of gravity. For practical applications, it is a suitable model
+whenever gravity can be neglected. Bringing gravity into play, and assuming the universality of free
+fall motion, an analogous reasoning as in the previous section applies: there are no global inertial
+frames. Instead there are approximate inertial frames moving alongside freely falling particles.
+Translated into the language of spacetime: the straight time-like lines that define a gravity-free
+inertial frame are deformed to lines that are curved relative to each other, suggesting that the
+inclusion of gravity necessitates a change in spacetime geometry.[36]
+A priori, it is not clear whether the new local frames in free fall coincide with the reference frames in
+which the laws of special relativity hold—that theory is based on the propagation of light, and thus on
+electromagnetism, which could have a different set of preferred frames. But using different
+assumptions about the special-relativistic frames (such as their being earth-fixed, or in free fall), one
+can derive different predictions for the gravitational redshift, that is, the way in which the frequency of
+light shifts as the light propagates through a gravitational field (cf. below). The actual measurements
+show that free-falling frames are the ones in which light propagates as it does in special relativity.[37]
+The generalization of this statement, namely that the laws of special relativity hold to good
+approximation in freely falling (and non-rotating) reference frames, is known as the Einstein
+equivalence principle, a crucial guiding principle for generalizing special-relativistic physics to include
+gravity.[38]
+The same experimental data shows that time as measured by clocks in a gravitational field—proper
+time, to give the technical term—does not follow the rules of special relativity. In the language of
+spacetime geometry, it is not measured by the Minkowski metric. As in the Newtonian case, this is
+suggestive of a more general geometry. At small scales, all reference frames that are in free fall are
+equivalent, and approximately Minkowskian. Consequently, we are dealing with a curved
+generalization of Minkowski space. The metric tensor that defines the geometry—in particular, how
+lengths and angles are measured—is not the Minkowski metric of special relativity, it is a
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+5/55

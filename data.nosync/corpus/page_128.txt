@@ -1,0 +1,53 @@
+26. Helfer, Adam D. (2003). "Do black holes radiate?". Reports on Progress in Physics. 66 (6): 943–
+1008. arXiv:gr-qc/0304042 (https://arxiv.org/abs/gr-qc/0304042). Bibcode:2003RPPh...66..943H (h
+ttps://ui.adsabs.harvard.edu/abs/2003RPPh...66..943H). doi:10.1088/0034-4885/66/6/202 (https://
+doi.org/10.1088%2F0034-4885%2F66%2F6%2F202). S2CID 16668175 (https://api.semanticschol
+ar.org/CorpusID:16668175).
+27. 't Hooft, Gerard (1985). "On the quantum structure of a black hole". Nuclear Physics B. 256: 727–
+745. Bibcode:1985NuPhB.256..727T (https://ui.adsabs.harvard.edu/abs/1985NuPhB.256..727T).
+doi:10.1016/0550-3213(85)90418-3 (https://doi.org/10.1016%2F0550-3213%2885%2990418-3).
+28. Jacobson, Theodore (1991). "Black-hole evaporation and ultrashort distances". Physical Review
+D. 44 (6): 1731–1739. Bibcode:1991PhRvD..44.1731J (https://ui.adsabs.harvard.edu/abs/1991Ph
+RvD..44.1731J). doi:10.1103/PhysRevD.44.1731 (https://doi.org/10.1103%2FPhysRevD.44.1731).
+PMID 10014053 (https://pubmed.ncbi.nlm.nih.gov/10014053).
+29. Brout, Robert; Massar, Serge; Parentani, Renaud; Spindel, Philippe (1995). "Hawking radiation
+without trans-Planckian frequencies". Physical Review D. 52 (8): 4559–4568. arXiv:hep-
+th/9506121 (https://arxiv.org/abs/hep-th/9506121). Bibcode:1995PhRvD..52.4559B (https://ui.adsa
+bs.harvard.edu/abs/1995PhRvD..52.4559B). doi:10.1103/PhysRevD.52.4559 (https://doi.org/10.11
+03%2FPhysRevD.52.4559). PMID 10019680 (https://pubmed.ncbi.nlm.nih.gov/10019680).
+S2CID 26432764 (https://api.semanticscholar.org/CorpusID:26432764).
+30. Cheung, Kingman (2002). "Black Hole Production and Large Extra Dimensions". Physical Review
+Letters. 88 (22) 221602. arXiv:hep-ph/0110163 (https://arxiv.org/abs/hep-ph/0110163).
+Bibcode:2002PhRvL..88v1602C (https://ui.adsabs.harvard.edu/abs/2002PhRvL..88v1602C).
+doi:10.1103/PhysRevLett.88.221602 (https://doi.org/10.1103%2FPhysRevLett.88.221602).
+PMID 12059412 (https://pubmed.ncbi.nlm.nih.gov/12059412). S2CID 14228817 (https://api.seman
+ticscholar.org/CorpusID:14228817).
+31. Carr, Bernard J. (2005). "Primordial Black Holes – Recent Developments". In Pisin Chen; Elliott
+Bloom; Greg Madejski; Vahe Patrosian (eds.). Proceedings of the 22nd Texas Symposium on
+Relativistic Astrophysics at Stanford, Stanford California, December 13–17, 2004. Vol. 041213.
+pp. 89–100. arXiv:astro-ph/0504034 (https://arxiv.org/abs/astro-ph/0504034).
+Bibcode:2005tsra.conf...89C (https://ui.adsabs.harvard.edu/abs/2005tsra.conf...89C).
+32. Ashtekar, Abhay (2020). "Black Hole Evaporation: A Perspective from Loop Quantum Gravity" (htt
+ps://doi.org/10.3390%2Funiverse6020021). Universe. 6 (2): 21. arXiv:2001.08833 (https://arxiv.or
+g/abs/2001.08833). Bibcode:2020Univ....6...21A (https://ui.adsabs.harvard.edu/abs/2020Univ....6...
+21A). doi:10.3390/universe6020021 (https://doi.org/10.3390%2Funiverse6020021).
+33. Ashtekar, Abhay; Baez, John Carlos; Corichi, Alejandro; Krasnov, Kirill (1998). "Quantum
+Geometry and Black Hole Entropy". Physical Review Letters. 80 (5): 904–907. arXiv:gr-
+qc/9710007 (https://arxiv.org/abs/gr-qc/9710007). Bibcode:1998PhRvL..80..904A (https://ui.adsab
+s.harvard.edu/abs/1998PhRvL..80..904A). doi:10.1103/PhysRevLett.80.904 (https://doi.org/10.110
+3%2FPhysRevLett.80.904). S2CID 18980849 (https://api.semanticscholar.org/CorpusID:1898084
+9).
+34. Ansari, Mohammad H. (2007). "Spectroscopy of a canonically quantized horizon". Nuclear Physics
+B. 783 (3): 179–212. arXiv:hep-th/0607081 (https://arxiv.org/abs/hep-th/0607081).
+Bibcode:2007NuPhB.783..179A (https://ui.adsabs.harvard.edu/abs/2007NuPhB.783..179A).
+doi:10.1016/j.nuclphysb.2007.01.009 (https://doi.org/10.1016%2Fj.nuclphysb.2007.01.009).
+S2CID 9966483 (https://api.semanticscholar.org/CorpusID:9966483).
+35. Ansari, Mohammad H. (2008). "Generic degeneracy and entropy in loop quantum gravity".
+Nuclear Physics B. 795 (3): 635–644. arXiv:gr-qc/0603121 (https://arxiv.org/abs/gr-qc/0603121).
+Bibcode:2008NuPhB.795..635A (https://ui.adsabs.harvard.edu/abs/2008NuPhB.795..635A).
+doi:10.1016/j.nuclphysb.2007.11.038 (https://doi.org/10.1016%2Fj.nuclphysb.2007.11.038).
+S2CID 119039723 (https://api.semanticscholar.org/CorpusID:119039723).
+4/10/26, 3:47 PM
+Hawking radiation - Wikipedia
+https://en.wikipedia.org/wiki/Hawking_radiation
+12/17

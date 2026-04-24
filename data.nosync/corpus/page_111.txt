@@ -1,0 +1,51 @@
+Trautman, Andrzej (2006), "Einstein–Cartan theory", in Françoise, J.-P.; Naber, G. L.; Tsou, S. T.
+(eds.), Encyclopedia of Mathematical Physics, Vol. 2, Elsevier, pp. 189–195, arXiv:gr-qc/0606062
+(https://arxiv.org/abs/gr-qc/0606062), Bibcode:2006gr.qc.....6062T (https://ui.adsabs.harvard.edu/a
+bs/2006gr.qc.....6062T)
+Unruh, W. G. (1976), "Notes on Black Hole Evaporation", Phys. Rev. D, 14 (4): 870–892,
+Bibcode:1976PhRvD..14..870U (https://ui.adsabs.harvard.edu/abs/1976PhRvD..14..870U),
+doi:10.1103/PhysRevD.14.870 (https://doi.org/10.1103%2FPhysRevD.14.870)
+Veltman, Martinus (1975), "Quantum Theory of Gravitation", in Balian, Roger; Zinn-Justin, Jean
+(eds.), Methods in Field Theory – Les Houches Summer School in Theoretical Physics., vol. 77,
+North Holland
+Wald, Robert M. (1975), "On Particle Creation by Black Holes" (http://projecteuclid.org/euclid.cmp/
+1103899393), Commun. Math. Phys., 45 (3): 9–34, Bibcode:1975CMaPh..45....9W (https://ui.adsa
+bs.harvard.edu/abs/1975CMaPh..45....9W), doi:10.1007/BF01609863 (https://doi.org/10.1007%2F
+BF01609863), S2CID 120950657 (https://api.semanticscholar.org/CorpusID:120950657)
+Wald, Robert M. (1984), General Relativity, University of Chicago Press, ISBN 978-0-226-87033-5
+Wald, Robert M. (1994), Quantum field theory in curved spacetime and black hole
+thermodynamics, University of Chicago Press, Bibcode:1994qftc.book.....W (https://ui.adsabs.harv
+ard.edu/abs/1994qftc.book.....W), ISBN 978-0-226-87027-4
+Wald, Robert M. (2001), "The Thermodynamics of Black Holes", Living Reviews in Relativity, 4 (1)
+6, arXiv:gr-qc/9912119 (https://arxiv.org/abs/gr-qc/9912119), Bibcode:2001LRR.....4....6W (https://
+ui.adsabs.harvard.edu/abs/2001LRR.....4....6W), doi:10.12942/lrr-2001-6 (https://doi.org/10.1294
+2%2Flrr-2001-6), PMC 5253844 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5253844),
+PMID 28163633 (https://pubmed.ncbi.nlm.nih.gov/28163633)
+Walsh, D.; Carswell, R. F.; Weymann, R. J. (1979), "0957 + 561 A, B: twin quasistellar objects or
+gravitational lens?", Nature, 279 (5712): 381–4, Bibcode:1979Natur.279..381W (https://ui.adsabs.
+harvard.edu/abs/1979Natur.279..381W), doi:10.1038/279381a0 (https://doi.org/10.1038%2F27938
+1a0), PMID 16068158 (https://pubmed.ncbi.nlm.nih.gov/16068158), S2CID 2142707 (https://api.s
+emanticscholar.org/CorpusID:2142707)
+Wambsganss, Joachim (1998), "Gravitational Lensing in Astronomy", Living Reviews in Relativity,
+1 (1) 12, arXiv:astro-ph/9812021 (https://arxiv.org/abs/astro-ph/9812021),
+Bibcode:1998LRR.....1...12W (https://ui.adsabs.harvard.edu/abs/1998LRR.....1...12W),
+doi:10.12942/lrr-1998-12 (https://doi.org/10.12942%2Flrr-1998-12), PMC 5567250 (https://www.nc
+bi.nlm.nih.gov/pmc/articles/PMC5567250), PMID 28937183 (https://pubmed.ncbi.nlm.nih.gov/2893
+7183)
+Weinberg, Steven (1972), Gravitation and Cosmology: Principles and Applications of the General
+Theory of Relativity (https://archive.org/details/gravitationcosmo00stev_0), John Wiley,
+Bibcode:1972gcpa.book.....W (https://ui.adsabs.harvard.edu/abs/1972gcpa.book.....W), ISBN 978-
+0-471-92567-5
+Weinberg, Steven (1995), The Quantum Theory of Fields I: Foundations (https://archive.org/detail
+s/quantumtheoryoff00stev), Cambridge University Press, ISBN 978-0-521-55001-7
+Weinberg, Steven (1996), The Quantum Theory of Fields II: Modern Applications (https://archive.o
+rg/details/quantumtheoryoff00stev), Cambridge University Press, ISBN 978-0-521-55002-4
+Weinberg, Steven (2000), The Quantum Theory of Fields III: Supersymmetry (https://archive.org/d
+etails/quantumtheoryoff00stev), Cambridge University Press, ISBN 978-0-521-66000-6
+Weisberg, Joel M.; Taylor, Joseph H. (2003), "The Relativistic Binary Pulsar B1913+16" ", in
+Bailes, M.; Nice, D. J.; Thorsett, S. E. (eds.), Proceedings of "Radio Pulsars," Chania, Crete,
+August, 2002, ASP Conference Series
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+50/55

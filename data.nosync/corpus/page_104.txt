@@ -1,0 +1,53 @@
+Kramer, M.; Stairs, I. H.; Manchester, R. N.; McLaughlin, M. A.; Lyne, A. G.; Ferdman, R. D.;
+Burgay, M.; Lorimer, D. R.; et al. (2006), "Tests of general relativity from timing the double pulsar",
+Science, 314 (5796): 97–102, arXiv:astro-ph/0609417 (https://arxiv.org/abs/astro-ph/0609417),
+Bibcode:2006Sci...314...97K (https://ui.adsabs.harvard.edu/abs/2006Sci...314...97K),
+doi:10.1126/science.1132305 (https://doi.org/10.1126%2Fscience.1132305), PMID 16973838 (http
+s://pubmed.ncbi.nlm.nih.gov/16973838), S2CID 6674714 (https://api.semanticscholar.org/CorpusI
+D:6674714)
+Kraus, Ute (1998), "Light Deflection Near Neutron Stars", Relativistic Astrophysics, Vieweg,
+pp. 66–81, ISBN 978-3-528-06909-4
+Kuchař, Karel (1973), "Canonical Quantization of Gravity", in Israel, Werner (ed.), Relativity,
+Astrophysics and Cosmology, D. Reidel, pp. 237–288, ISBN 978-90-277-0369-9
+Künzle, H. P. (1972), "Galilei and Lorentz Structures on spacetime: comparison of the
+corresponding geometry and physics" (https://www.numdam.org/item?id=AIHPA_1972__17_4_33
+7_0), Annales de l'Institut Henri Poincaré A, 17: 337–362
+Lahav, Ofer; Suto, Yasushi (2004), "Measuring our Universe from Galaxy Redshift Surveys", Living
+Reviews in Relativity, 7 (1): 8, arXiv:astro-ph/0310642 (https://arxiv.org/abs/astro-ph/0310642),
+Bibcode:2004LRR.....7....8L (https://ui.adsabs.harvard.edu/abs/2004LRR.....7....8L),
+doi:10.12942/lrr-2004-8 (https://doi.org/10.12942%2Flrr-2004-8), PMC 5253994 (https://www.ncbi.
+nlm.nih.gov/pmc/articles/PMC5253994), PMID 28163643 (https://pubmed.ncbi.nlm.nih.gov/28163
+643)
+Landau, L. D.; Lifshitz, E. M. (1975), The Classical Theory of Fields, v. 2, Elsevier Science, Ltd.,
+ISBN 978-0-08-018176-9
+Lehner, Luis (2001), "Numerical Relativity: A review", Class. Quantum Grav., 18 (17): R25–R86,
+arXiv:gr-qc/0106072 (https://arxiv.org/abs/gr-qc/0106072), Bibcode:2001CQGra..18R..25L (https://
+ui.adsabs.harvard.edu/abs/2001CQGra..18R..25L), doi:10.1088/0264-9381/18/17/202 (https://doi.
+org/10.1088%2F0264-9381%2F18%2F17%2F202), S2CID 9715975 (https://api.semanticscholar.o
+rg/CorpusID:9715975)
+Lehner, Luis (2002). "Numerical Relativity: Status and Prospects". In Nigel T. Bishop; Sunil D.
+Maharaj (eds.). General Relativity and Gravitation. General Relativity and Gravitation:
+Proceedings of the 16th International Conference, Durban, South Africa, 15–21 July 2001. p. 210.
+arXiv:gr-qc/0202055 (https://arxiv.org/abs/gr-qc/0202055). Bibcode:2002grg..conf..210L (https://ui.
+adsabs.harvard.edu/abs/2002grg..conf..210L). doi:10.1142/9789812776556_0010 (https://doi.org/
+10.1142%2F9789812776556_0010). ISBN 978-981-238-171-2. S2CID 9145148 (https://api.sema
+nticscholar.org/CorpusID:9145148).
+Linde, Andrei (2005), Particle Physics and Inflationary Cosmology, Contemporary Concepts in
+Physics, vol. 5, pp. 1–362, arXiv:hep-th/0503203 (https://arxiv.org/abs/hep-th/0503203),
+Bibcode:2005hep.th....3203L (https://ui.adsabs.harvard.edu/abs/2005hep.th....3203L), ISBN 978-
+3-7186-0489-0
+Linde, Andrei (2006), "Towards inflation in string theory", J. Phys. Conf. Ser., 24 (1): 151–160,
+arXiv:hep-th/0503195 (https://arxiv.org/abs/hep-th/0503195), Bibcode:2005JPhCS..24..151L (http
+s://ui.adsabs.harvard.edu/abs/2005JPhCS..24..151L), doi:10.1088/1742-6596/24/1/018 (https://do
+i.org/10.1088%2F1742-6596%2F24%2F1%2F018), S2CID 250677699 (https://api.semanticschola
+r.org/CorpusID:250677699)
+Loll, Renate (1998), "Discrete Approaches to Quantum Gravity in Four Dimensions", Living
+Reviews in Relativity, 1 (1) 13, arXiv:gr-qc/9805049 (https://arxiv.org/abs/gr-qc/9805049),
+Bibcode:1998LRR.....1...13L (https://ui.adsabs.harvard.edu/abs/1998LRR.....1...13L),
+doi:10.12942/lrr-1998-13 (https://doi.org/10.12942%2Flrr-1998-13), PMC 5253799 (https://www.nc
+bi.nlm.nih.gov/pmc/articles/PMC5253799), PMID 28191826 (https://pubmed.ncbi.nlm.nih.gov/2819
+1826)
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+43/55

@@ -1,0 +1,50 @@
+195. In particular, a perturbative technique known as renormalization, an integral part of deriving
+predictions which take into account higher-energy contributions, cf. Weinberg 1996, ch. 17, 18,
+fails in this case; cf. Veltman 1975, Goroff & Sagnotti 1985; for a recent comprehensive review of
+the failure of perturbative renormalizability for quantum gravity see Hamber 2009
+196. An accessible introduction at the undergraduate level can be found in Zwiebach 2004; more
+complete overviews can be found in Polchinski 1998a and Polchinski 1998b
+197. At the energies reached in current experiments, these strings are indistinguishable from point-like
+particles, but, crucially, different modes of oscillation of one and the same type of fundamental
+string appear as particles with different (electric and other) charges, e.g. Ibanez 2000. The theory
+is successful in that one mode will always correspond to a graviton, the messenger particle of
+gravity, e.g. Green, Schwarz & Witten 1987, sec. 2.3, 5.3
+198. Green, Schwarz & Witten 1987, sec. 4.2
+199. Weinberg 2000, ch. 31
+200. Townsend 1996, Duff 1996
+201. Kuchař 1973, sec. 3
+202. These variables represent geometric gravity using mathematical analogues of electric and
+magnetic fields; cf. Ashtekar 1986, Ashtekar 1987
+203. For a review, see Thiemann 2007; more extensive accounts can be found in Rovelli 1998,
+Ashtekar & Lewandowski 2004 as well as in the lecture notes Thiemann 2003
+204. Isham 1994, Sorkin 1997
+205. Loll 1998
+206. Sorkin 2005
+207. Penrose 2004, ch. 33 and refs therein
+208. Hawking 1987
+209. Ashtekar 2007, Schwarz 2007
+210. Maddox 1998, pp. 52–59, 98–122; Penrose 2004, sec. 34.1, ch. 30
+211. § Quantum gravity, above
+212. Friedrich 2005
+213. A review of the various problems and the techniques being developed to overcome them, see
+Lehner 2002
+214. See Bartusiak 2000 for an account up to that year; up-to-date news can be found on the websites
+of major detector collaborations such as GEO600 and LIGO
+215. For the most recent papers on gravitational wave polarizations of inspiralling compact binaries,
+see Blanchet et al. 2008, and Arun et al. 2008; for a review of work on compact binaries, see
+Blanchet 2006 and Futamase & Itoh 2006; for a general review of experimental tests of general
+relativity, see Will 2006.
+216. See, e.g., the journal Living Reviews in Relativity.
+Alpher, R. A.; Herman, R. C. (1948), "Evolution of the universe", Nature, 162 (4124): 774–775,
+Bibcode:1948Natur.162..774A (https://ui.adsabs.harvard.edu/abs/1948Natur.162..774A),
+doi:10.1038/162774b0 (https://doi.org/10.1038%2F162774b0), S2CID 4113488 (https://api.semant
+icscholar.org/CorpusID:4113488)
+Anderson, J. D.; Campbell, J. K.; Jurgens, R. F.; Lau, E. L. (1992), "Recent developments in solar-
+system tests of general relativity", in Sato, H.; Nakamura, T. (eds.), Proceedings of the Sixth
+Marcel Grossmann Meeting on General Relativity, World Scientific, pp. 353–355, ISBN 978-981-
+02-0950-6
+Bibliography
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+31/55

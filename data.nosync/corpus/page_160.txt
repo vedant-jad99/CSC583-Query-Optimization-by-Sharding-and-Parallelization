@@ -1,0 +1,60 @@
+Unsolved problem in
+physics
+Is there a preferred
+interpretation of
+quantum mechanics?
+How does the quantum
+description of reality,
+which includes
+elements such as the
+"superposition of
+states" and "wave
+function collapse", give
+rise to the reality we
+perceive?
+More unsolved problems in
+physics
+experimental situations. Copenhagen-type interpretations were
+adopted by Nobel laureates in quantum physics, including Bohr,[56]
+Heisenberg,[57] Schrödinger,[58] Feynman,[2] and Zeilinger[59] as
+well as 21st-century researchers in quantum foundations.[60]
+Albert Einstein, himself one of the founders of quantum theory, was
+troubled by its apparent failure to respect some cherished
+metaphysical principles, such as determinism and locality.
+Einstein's long-running exchanges with Bohr about the meaning
+and status of quantum mechanics are now known as the Bohr–
+Einstein debates. Einstein believed that underlying quantum
+mechanics must be a theory that explicitly forbids action at a
+distance. He argued that quantum mechanics was incomplete, a
+theory that was valid but not fundamental, analogous to how
+thermodynamics is valid, but the fundamental theory behind it is
+statistical mechanics. In 1935, Einstein and his collaborators Boris
+Podolsky and Nathan Rosen published an argument that the
+principle of locality implies the incompleteness of quantum mechanics, a thought experiment later
+termed the Einstein–Podolsky–Rosen paradox.[note 4] In 1964, John Bell showed that EPR's principle
+of locality, together with determinism, was actually incompatible with quantum mechanics: they
+implied constraints on the correlations produced by distance systems, now known as Bell inequalities,
+that can be violated by entangled particles.[65] Since then several experiments have been performed to
+obtain these correlations, with the result that they do in fact violate Bell inequalities, and thus falsify
+the conjunction of locality with determinism.[16][17]
+Bohmian mechanics shows that it is possible to reformulate quantum mechanics to make it
+deterministic, at the price of making it explicitly nonlocal. It attributes not only a wave function to a
+physical system, but in addition a real position, that evolves deterministically under a nonlocal
+guiding equation. The evolution of a physical system is given at all times by the Schrödinger equation
+together with the guiding equation; there is never a collapse of the wave function. This solves the
+measurement problem.[66]
+Everett's many-worlds interpretation, formulated in 1956, holds that all the possibilities described by
+quantum theory simultaneously occur in a multiverse composed of mostly independent parallel
+universes.[67] This is a consequence of removing the axiom of the collapse of the wave packet. All
+possible states of the measured system and the measuring apparatus, together with the observer, are
+present in a real physical quantum superposition. While the multiverse is deterministic, we perceive
+non-deterministic behavior governed by probabilities, because we do not observe the multiverse as a
+whole, but only one parallel universe at a time. Exactly how this is supposed to work has been the
+subject of much debate. Several attempts have been made to make sense of this and derive the Born
+rule,[68][69] with no consensus on whether they have been successful.[70][71][72]
+Relational quantum mechanics appeared in the late 1990s as a modern derivative of Copenhagen-type
+ideas,[73][74] and QBism was developed some years later.[75][76]
+4/10/26, 3:51 PM
+Quantum mechanics - Wikipedia
+https://en.wikipedia.org/wiki/Quantum_mechanics
+15/28

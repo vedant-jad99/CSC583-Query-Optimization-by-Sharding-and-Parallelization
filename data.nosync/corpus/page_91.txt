@@ -1,0 +1,50 @@
+167. Ellis & Van Elst 1999; a closer look at the singularity itself is taken in Börner 1993, sec. 1.2
+168. Here one should remind to the well-known fact that the important "quasi-optical" singularities of
+the so-called eikonal approximations of many wave equations, namely the "caustics", are resolved
+into finite peaks beyond that approximation.
+169. Namely when there are trapped null surfaces, cf. Penrose 1965
+170. Hawking 1966
+171. The conjecture was made in Belinskii, Khalatnikov & Lifschitz 1971; for a more recent review, see
+Berger 2002. An accessible exposition is given by Garfinkle 2007
+172. The restriction to future singularities naturally excludes initial singularities such as the big bang
+singularity, which in principle be visible to observers at later cosmic time. The cosmic censorship
+conjecture was first presented in Penrose 1969; a textbook-level account is given in Wald 1984,
+pp. 302–305. For numerical results, see the review Berger 2002, sec. 2.1
+173. Hawking & Ellis 1973, sec. 7.1
+174. Arnowitt, Deser & Misner 1962; for a pedagogical introduction, see Misner, Thorne & Wheeler
+1973, § 21.4–§ 21.7
+175. Fourès-Bruhat 1952 and Bruhat 1962; for a pedagogical introduction, see Wald 1984, ch. 10; an
+online review can be found in Reula 1998
+176. Gourgoulhon 2007; for a review of the basics of numerical relativity, including the problems arising
+from the peculiarities of Einstein's equations, see Lehner 2001
+177. Misner, Thorne & Wheeler 1973, § 20.4
+178. Arnowitt, Deser & Misner 1962
+179. Komar 1959; for a pedagogical introduction, see Wald 1984, sec. 11.2; although defined in a
+totally different way, it can be shown to be equivalent to the ADM mass for stationary spacetimes,
+cf. Ashtekar & Magnon-Ashtekar 1979
+180. For a pedagogical introduction, see Wald 1984, sec. 11.2
+181. Wald 1984, p. 295 and refs therein; this is important for questions of stability—if there were
+negative mass states, then flat, empty Minkowski space, which has mass zero, could evolve into
+these states
+182. Townsend 1997, ch. 5
+183. Such quasi-local mass–energy definitions are the Hawking energy, Geroch energy, or Penrose's
+quasi-local energy–momentum based on twistor methods; cf. the review article Szabados 2004
+184. An overview of quantum theory can be found in standard textbooks such as Messiah 1999; a more
+elementary account is given in Hey & Walters 2003
+185. Ramond 1990, Weinberg 1995, Peskin & Schroeder 1995; a more accessible overview is Auyang
+1995
+186. Wald 1994, Birrell & Davies 1984
+187. For Hawking radiation Hawking 1975, Wald 1975; an accessible introduction to black hole
+evaporation can be found in Traschen 2000
+188. Wald 2001, ch. 3
+189. Put simply, matter is the source of spacetime curvature, and once matter has quantum properties,
+we can expect spacetime to have them as well. Cf. Carlip 2001, sec. 2
+190. Schutz 2003, p. 407
+191. Hamber 2009
+192. A timeline and overview can be found in Rovelli 2000
+193. 't Hooft & Veltman 1974
+194. Donoghue 1995
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+30/55

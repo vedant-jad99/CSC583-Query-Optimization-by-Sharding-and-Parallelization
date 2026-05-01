@@ -1,0 +1,375 @@
+{
+  "phase": 3,
+  "timestamp": "2026-05-01T12:05:25.599403",
+  "engine": "./run_engine",
+  "index": "bench-shards/",
+  "category": "medium",
+  "warmup_queries": 10,
+  "runs_per_query": 50,
+  "shards": 4,
+  "query_count": 44,
+  "total_queries": 2200,
+  "latency_ms": {
+    "mean": 6.3139,
+    "median": 4.9382,
+    "p95": 12.9052,
+    "p99": 13.2642,
+    "min": 0.0642,
+    "max": 13.8131
+  },
+  "throughput_qps": 158.06,
+  "per_query": [
+    {
+      "query": "time world \\or",
+      "mean_ms": 6.0748,
+      "median_ms": 6.0728,
+      "p99_ms": 6.2099,
+      "min_ms": 5.9356,
+      "max_ms": 6.2191
+    },
+    {
+      "query": "people state \\or",
+      "mean_ms": 3.6017,
+      "median_ms": 3.5659,
+      "p99_ms": 3.9315,
+      "min_ms": 3.5057,
+      "max_ms": 3.9408
+    },
+    {
+      "query": "history city \\or",
+      "mean_ms": 1.0769,
+      "median_ms": 1.0724,
+      "p99_ms": 1.1174,
+      "min_ms": 1.0649,
+      "max_ms": 1.1322
+    },
+    {
+      "query": "system american \\or",
+      "mean_ms": 1.1796,
+      "median_ms": 1.1781,
+      "p99_ms": 1.2154,
+      "min_ms": 1.1613,
+      "max_ms": 1.222
+    },
+    {
+      "query": "family human \\or",
+      "mean_ms": 1.936,
+      "median_ms": 1.9068,
+      "p99_ms": 2.1551,
+      "min_ms": 1.8563,
+      "max_ms": 2.163
+    },
+    {
+      "query": "music film \\or",
+      "mean_ms": 8.2088,
+      "median_ms": 8.1951,
+      "p99_ms": 8.5737,
+      "min_ms": 7.9394,
+      "max_ms": 8.6803
+    },
+    {
+      "query": "government law \\or",
+      "mean_ms": 0.5106,
+      "median_ms": 0.5083,
+      "p99_ms": 0.5722,
+      "min_ms": 0.4769,
+      "max_ms": 0.5782
+    },
+    {
+      "query": "water space \\or",
+      "mean_ms": 0.681,
+      "median_ms": 0.682,
+      "p99_ms": 0.7313,
+      "min_ms": 0.656,
+      "max_ms": 0.7377
+    },
+    {
+      "query": "war country \\or",
+      "mean_ms": 1.1899,
+      "median_ms": 1.1848,
+      "p99_ms": 1.2761,
+      "min_ms": 1.1616,
+      "max_ms": 1.2807
+    },
+    {
+      "query": "computer technology \\or",
+      "mean_ms": 0.3675,
+      "median_ms": 0.3686,
+      "p99_ms": 0.3831,
+      "min_ms": 0.3473,
+      "max_ms": 0.3873
+    },
+    {
+      "query": "language book \\or",
+      "mean_ms": 1.114,
+      "median_ms": 1.1122,
+      "p99_ms": 1.18,
+      "min_ms": 1.0697,
+      "max_ms": 1.1922
+    },
+    {
+      "query": "animal population \\or",
+      "mean_ms": 0.7636,
+      "median_ms": 0.7618,
+      "p99_ms": 0.7945,
+      "min_ms": 0.7475,
+      "max_ms": 0.7948
+    },
+    {
+      "query": "time year \\and",
+      "mean_ms": 1.5639,
+      "median_ms": 1.5633,
+      "p99_ms": 1.6513,
+      "min_ms": 1.5167,
+      "max_ms": 1.6533
+    },
+    {
+      "query": "people human \\and",
+      "mean_ms": 0.4877,
+      "median_ms": 0.4875,
+      "p99_ms": 0.5329,
+      "min_ms": 0.4621,
+      "max_ms": 0.5355
+    },
+    {
+      "query": "state government \\and",
+      "mean_ms": 0.1156,
+      "median_ms": 0.1132,
+      "p99_ms": 0.149,
+      "min_ms": 0.0952,
+      "max_ms": 0.1542
+    },
+    {
+      "query": "history century \\and",
+      "mean_ms": 0.1291,
+      "median_ms": 0.1287,
+      "p99_ms": 0.1609,
+      "min_ms": 0.1069,
+      "max_ms": 0.1661
+    },
+    {
+      "query": "american national \\and",
+      "mean_ms": 0.1551,
+      "median_ms": 0.1536,
+      "p99_ms": 0.1953,
+      "min_ms": 0.1352,
+      "max_ms": 0.2121
+    },
+    {
+      "query": "city population \\and",
+      "mean_ms": 0.0932,
+      "median_ms": 0.0921,
+      "p99_ms": 0.1191,
+      "min_ms": 0.0795,
+      "max_ms": 0.1222
+    },
+    {
+      "query": "system computer \\and",
+      "mean_ms": 0.0856,
+      "median_ms": 0.0826,
+      "p99_ms": 0.1078,
+      "min_ms": 0.0724,
+      "max_ms": 0.1087
+    },
+    {
+      "query": "war president \\and",
+      "mean_ms": 0.112,
+      "median_ms": 0.1088,
+      "p99_ms": 0.1561,
+      "min_ms": 0.0924,
+      "max_ms": 0.1589
+    },
+    {
+      "query": "science technology \\and",
+      "mean_ms": 0.0836,
+      "median_ms": 0.0804,
+      "p99_ms": 0.1093,
+      "min_ms": 0.0723,
+      "max_ms": 0.1167
+    },
+    {
+      "query": "research university \\and",
+      "mean_ms": 0.0748,
+      "median_ms": 0.0728,
+      "p99_ms": 0.1075,
+      "min_ms": 0.0642,
+      "max_ms": 0.1189
+    },
+    {
+      "query": "law political \\and",
+      "mean_ms": 0.0912,
+      "median_ms": 0.09,
+      "p99_ms": 0.1105,
+      "min_ms": 0.0771,
+      "max_ms": 0.1107
+    },
+    {
+      "query": "company international \\and",
+      "mean_ms": 0.081,
+      "median_ms": 0.0799,
+      "p99_ms": 0.1009,
+      "min_ms": 0.0683,
+      "max_ms": 0.106
+    },
+    {
+      "query": "world \\not",
+      "mean_ms": 11.7591,
+      "median_ms": 11.718,
+      "p99_ms": 12.4851,
+      "min_ms": 11.2728,
+      "max_ms": 12.6452
+    },
+    {
+      "query": "space \\not",
+      "mean_ms": 12.7214,
+      "median_ms": 12.7475,
+      "p99_ms": 13.0263,
+      "min_ms": 12.3042,
+      "max_ms": 13.0315
+    },
+    {
+      "query": "people \\not",
+      "mean_ms": 10.0353,
+      "median_ms": 10.0016,
+      "p99_ms": 10.9097,
+      "min_ms": 9.7514,
+      "max_ms": 11.2187
+    },
+    {
+      "query": "animal \\not",
+      "mean_ms": 12.4475,
+      "median_ms": 12.4464,
+      "p99_ms": 13.0023,
+      "min_ms": 11.9683,
+      "max_ms": 13.0559
+    },
+    {
+      "query": "state \\not",
+      "mean_ms": 12.5325,
+      "median_ms": 12.5569,
+      "p99_ms": 12.9753,
+      "min_ms": 12.3265,
+      "max_ms": 13.1696
+    },
+    {
+      "query": "community \\not",
+      "mean_ms": 12.8938,
+      "median_ms": 12.8241,
+      "p99_ms": 13.5903,
+      "min_ms": 12.4117,
+      "max_ms": 13.7058
+    },
+    {
+      "query": "history \\not",
+      "mean_ms": 12.4495,
+      "median_ms": 12.489,
+      "p99_ms": 12.6132,
+      "min_ms": 12.2612,
+      "max_ms": 12.6294
+    },
+    {
+      "query": "future \\not",
+      "mean_ms": 12.6237,
+      "median_ms": 12.6597,
+      "p99_ms": 13.0111,
+      "min_ms": 12.2194,
+      "max_ms": 13.0158
+    },
+    {
+      "query": "system \\not",
+      "mean_ms": 12.8141,
+      "median_ms": 12.855,
+      "p99_ms": 13.0592,
+      "min_ms": 12.6328,
+      "max_ms": 13.0718
+    },
+    {
+      "query": "human \\not",
+      "mean_ms": 12.3293,
+      "median_ms": 12.3124,
+      "p99_ms": 12.7533,
+      "min_ms": 12.0244,
+      "max_ms": 12.7545
+    },
+    {
+      "query": "music \\not",
+      "mean_ms": 11.6415,
+      "median_ms": 11.655,
+      "p99_ms": 11.9342,
+      "min_ms": 11.2928,
+      "max_ms": 11.9475
+    },
+    {
+      "query": "political \\not",
+      "mean_ms": 12.6329,
+      "median_ms": 12.6626,
+      "p99_ms": 12.9755,
+      "min_ms": 12.4303,
+      "max_ms": 13.0087
+    },
+    {
+      "query": "government \\not",
+      "mean_ms": 12.9118,
+      "median_ms": 12.8592,
+      "p99_ms": 13.7601,
+      "min_ms": 12.6183,
+      "max_ms": 13.8131
+    },
+    {
+      "query": "company \\not",
+      "mean_ms": 12.763,
+      "median_ms": 12.7653,
+      "p99_ms": 13.3355,
+      "min_ms": 12.5412,
+      "max_ms": 13.4982
+    },
+    {
+      "query": "water \\not",
+      "mean_ms": 12.7015,
+      "median_ms": 12.7341,
+      "p99_ms": 13.1784,
+      "min_ms": 12.5056,
+      "max_ms": 13.1789
+    },
+    {
+      "query": "fire \\not",
+      "mean_ms": 12.6591,
+      "median_ms": 12.6748,
+      "p99_ms": 13.1171,
+      "min_ms": 12.2827,
+      "max_ms": 13.1691
+    },
+    {
+      "query": "computer \\not",
+      "mean_ms": 12.864,
+      "median_ms": 12.8273,
+      "p99_ms": 13.424,
+      "min_ms": 12.6038,
+      "max_ms": 13.4872
+    },
+    {
+      "query": "language \\not",
+      "mean_ms": 12.8029,
+      "median_ms": 12.7771,
+      "p99_ms": 13.5694,
+      "min_ms": 12.547,
+      "max_ms": 13.7809
+    },
+    {
+      "query": "science \\not",
+      "mean_ms": 12.8197,
+      "median_ms": 12.8229,
+      "p99_ms": 13.3502,
+      "min_ms": 12.5938,
+      "max_ms": 13.3534
+    },
+    {
+      "query": "music \\not",
+      "mean_ms": 11.6332,
+      "median_ms": 11.6607,
+      "p99_ms": 11.8292,
+      "min_ms": 11.4795,
+      "max_ms": 11.8378
+    }
+  ]
+}

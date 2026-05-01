@@ -1,27 +1,49 @@
 # Medium queries — two terms, one Boolean operator (postfix notation)
 # Format: term1 term2 \op
 # Operator AFTER operands — postfix / RPN form required by the engine.
-einstein quantum \and
-einstein berlin \and
-relativity quantum \and
-physics gravity \and
-einstein princeton \and
-radiation nuclear \and
-university berlin \and
-spacetime curvature \and
-einstein quantum \or
-relativity physics \or
-einstein berlin \or
-gravity radiation \or
-university quantum \or
-princeton zurich \or
-singularity spacetime \or
-electromagnetic radiation \or
-einstein quantum \not
-relativity berlin \not
-physics radiation \not
-gravity quantum \not
-princeton berlin \not
-spacetime singularity \not
-nuclear radiation \not
-citizenship persecution \not
+time world \or
+people state \or
+history city \or
+system american \or
+family human \or
+music film \or
+government law \or
+water space \or
+war country \or
+computer technology \or
+language book \or
+animal population \or
+
+time year \and
+people human \and
+state government \and
+history century \and
+american national \and
+city population \and
+system computer \and
+war president \and
+science technology \and
+research university \and
+law political \and
+company international \and
+
+world \not
+space \not
+people \not
+animal \not
+state \not
+community \not
+history \not
+future \not
+system \not
+human \not
+music \not
+political \not
+government \not
+company \not
+water \not
+fire \not
+computer \not
+language \not
+science \not
+music \not

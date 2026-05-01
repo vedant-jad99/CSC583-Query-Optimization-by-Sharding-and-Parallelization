@@ -5,3 +5,7 @@ run_engine
 .DS_Store
 index.bin
 bench.bin
+shards
+bench-shards
+data.nosync/input
+data.nosync/wikitext

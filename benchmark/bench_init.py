@@ -42,19 +42,24 @@ import numpy as np
 
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Benchmark engine initialization time")
-    p.add_argument("--engine",     required=True, help="Path to engine binary (e.g. ./run_engine)")
-    p.add_argument("--index",      required=True, help="Path to index.bin (or shard directory)")
-    p.add_argument("--runs",       type=int, default=20, help="Number of measurement runs (default: 20)")
-    p.add_argument("--phase",      type=int, required=True, help="Phase number (1, 2, or 3)")
-    p.add_argument("--output-dir", default="benchmark/results", help="Root results directory")
+    p.add_argument("--engine",          required=True, help="Path to engine binary (e.g. ./run_engine)")
+    p.add_argument("--index",           required=True, help="Path to index.bin or shard directory")
+    p.add_argument("--runs",            type=int, default=20, help="Number of measurement runs (default: 20)")
+    p.add_argument("--phase",           type=int, required=True, help="Phase number (1, 2, or 3)")
+    p.add_argument("--output-dir",      default="benchmark/results", help="Root results directory")
+    p.add_argument("--shards",          type=int, default=4,
+                   help="Number of shards (Phase 2/3 only, default: 4)")
     return p.parse_args()
 
 
 # ── Core measurement ──────────────────────────────────────────────────── #
 
-def measure_init(engine: str, index: str) -> float:
+def measure_init(engine: str, index: str,
+                 phase: int = 1,
+                 shards: int = 4) -> float:
     """
     Run the engine with --bench-init and parse INIT_TIME_MS from stdout.
+    For Phase 2/3, forwards --shards and to the engine.
 
     Returns:
         Init time in milliseconds.
@@ -62,11 +67,15 @@ def measure_init(engine: str, index: str) -> float:
     Raises:
         RuntimeError: If the engine exits non-zero or output is malformed.
     """
+    cmd = [engine, index, "--bench-init"]
+    if phase >= 2:
+        cmd += ["--shards", str(shards)]
+
     result = subprocess.run(
-        [engine, index, "--bench-init"],
+        cmd,
         capture_output=True,
         text=True,
-        timeout=60
+        timeout=120
     )
 
     if result.returncode != 0:
@@ -102,13 +111,14 @@ def write_result(args: argparse.Namespace, times: list[float]) -> str:
     stats = compute_stats(times)
 
     result = {
-        "phase":      args.phase,
-        "timestamp":  datetime.now().isoformat(),
-        "engine":     args.engine,
-        "index":      args.index,
-        "runs":       args.runs,
-        "init_time_ms": stats,
-        "raw_times_ms": [round(t, 4) for t in times],
+        "phase":          args.phase,
+        "timestamp":      datetime.now().isoformat(),
+        "engine":         args.engine,
+        "index":          args.index,
+        "runs":           args.runs,
+        "shards":         args.shards if args.phase >= 2 else None,
+        "init_time_ms":   stats,
+        "raw_times_ms":   [round(t, 4) for t in times],
     }
 
     out_dir = os.path.join(args.output_dir, f"phase{args.phase}")
@@ -151,10 +161,14 @@ def main() -> None:
 
     print(f"Benchmarking init time: {args.engine} {args.index}")
     print(f"Runs: {args.runs}")
+    if args.phase >= 2:
+        print(f"Shards: {args.shards}")
 
     times: list[float] = []
     for i in range(args.runs):
-        t = measure_init(args.engine, args.index)
+        t = measure_init(args.engine, args.index,
+                         phase=args.phase,
+                         shards=args.shards)
         times.append(t)
         print(f"  Run {i+1:3d}/{args.runs}: {t:.4f} ms")
 

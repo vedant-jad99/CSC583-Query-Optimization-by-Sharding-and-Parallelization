@@ -1,48 +1,57 @@
 # Complex queries — multiple terms and operators (postfix notation)
 # Format: strictly postfix / RPN — operators always follow their operands.
 # Each line is one complete query.
+# complex.txt — Multiple terms and operators (postfix)
 
-# Three-term AND chains
-einstein quantum \and relativity \and
-physics gravity \and radiation \and
-berlin zurich \and princeton \and
-spacetime curvature \and geodesic \and
-nuclear radiation \and manhattan \and
+# Three-term heavy unions (Massive priority queue merges)
+time world \or people \or
+state history \or city \or
+system american \or family \or
+human music \or government \or
+water century \or film \or
+war country \or computer \or
+language power \or law \or
+animal research \or book \or
 
-# Three-term OR chains
-einstein quantum \or relativity \or
-physics gravity \or radiation \or
-berlin zurich \or princeton \or
-singularity spacetime \or curvature \or
-electromagnetic radiation \or wavelength \or
+# Three-term deep intersections (Heavy skip-pointer/linear traversal)
+time year \and history \and
+people human \and society \and
+state government \and law \and
+american national \and president \and
+city community \and population \and
+system computer \and technology \and
+science research \and university \and
 
-# AND then OR combinations
-einstein quantum \and relativity \or
-physics gravity \and radiation \or
-berlin princeton \and zurich \or
-spacetime singularity \and curvature \or
-nuclear manhattan \and radiation \or
+# AND then OR (Intersection followed by a massive union)
+state government \and world \or
+computer technology \and system \or
+science research \and history \or
+american president \and country \or
+city population \and state \or
+war military \and history \or
 
-# OR then AND combinations
-einstein quantum \or relativity \and
-physics gravity \or radiation \and
-berlin princeton \or zurich \and
-spacetime singularity \or curvature \and
+# OR then AND (Massive union followed by filtering)
+time year \or history \and
+people human \or society \and
+water sea \or planet \and
+music film \or art \and
+law political \or government \and
+company business \or international \and
 
-# NOT on compound result
-einstein quantum \and \not
-relativity physics \and \not
-berlin zurich \and \not
-spacetime curvature \and \not
+# Mixed logic with NOT
+state government \and military \or \not
+computer technology \or animal \and \not
+history century \and future \and \not
+american national \or international \or \not
+water ocean \and fire \or \not
+science research \and politics \or \not
 
-# Four-term queries
-einstein quantum \and relativity \and physics \or
-berlin zurich \and princeton \and germany \or
-radiation nuclear \and manhattan \and quantum \or
-spacetime curvature \and singularity \and geodesic \or
-
-# Mixed with NOT
-einstein relativity \and quantum \or berlin \not
-physics gravity \and radiation \or nuclear \not
-zurich berlin \and princeton \or germany \not
-spacetime curvature \and singularity \or geodesic \not
+# Four-term heavy thrashers (Maximum CPU load per shard)
+time world \or people \or state \or
+history city \and system \and american \and
+government law \and political \or president \or
+computer technology \or science \and university \or
+war country \and military \or international \or \not
+human society \and population \or animal \or \not
+music art \or film \and culture \and
+spacetime curvature \and singularity \or geodesic \and \not

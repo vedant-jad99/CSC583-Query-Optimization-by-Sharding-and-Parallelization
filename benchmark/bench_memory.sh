@@ -4,11 +4,15 @@
 # bench_memory.sh
 # ───────────────
 # Measures peak resident set size (RSS) of the C++ engine
-# during initialization using /usr/bin/time -v (Linux) or
-# \time -l (macOS).
+# during initialization using /usr/bin/time (Linux/macOS).
 #
 # Usage:
-#   bash benchmark/scripts/bench_memory.sh <engine> <index> <output_file> <phase>
+#   Phase 1:
+#     bash benchmark/bench_memory.sh <engine> <index> <output> <phase>
+#
+#   Phase 2/3:
+#     bash benchmark/bench_memory.sh <engine> <shards/> <output> <phase> \
+#       --shards 4
 #
 # Output:
 #   Appends a JSON line to <output_file>:
@@ -16,36 +20,37 @@
 #
 # Notes:
 #   - Measures init-only mode (--bench-init flag)
-#   - Run once per benchmark session (memory is deterministic
-#     for a fixed index — no need to repeat)
+#   - Run once per benchmark session (memory is deterministic)
 #   - On macOS, RSS is reported in bytes; converted to KB here
-#   - Requires /usr/bin/time (not the shell builtin 'time')
+#   - Extra args after <phase> are forwarded to the engine binary
 #
 # Author: Vedant Keshav Jadhav
 # Phase:  1, 2, 3 (portable)
 #
 ##############################################################
 
-set -euo pipefail
+set -eo pipefail
 
-ENGINE="${1:?Usage: $0 <engine> <index> <output_file> <phase>}"
-INDEX="${2:?Usage: $0 <engine> <index> <output_file> <phase>}"
-OUTPUT="${3:?Usage: $0 <engine> <index> <output_file> <phase>}"
-PHASE="${4:?Usage: $0 <engine> <index> <output_file> <phase>}"
+ENGINE="${1:?Usage: $0 <engine> <index> <output_file> <phase> [engine_args...]}"
+INDEX="${2:?Usage: $0 <engine> <index> <output_file> <phase> [engine_args...]}"
+OUTPUT="${3:?Usage: $0 <engine> <index> <output_file> <phase> [engine_args...]}"
+PHASE="${4:?Usage: $0 <engine> <index> <output_file> <phase> [engine_args...]}"
+
+# Any remaining args forwarded to the engine (e.g. --shards 4
+shift 4
+EXTRA_ARGS=("${@}")
 
 TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
 OS=$(uname)
 
 if [ "$OS" = "Linux" ]; then
-    # /usr/bin/time -v reports "Maximum resident set size (kbytes): N"
-    TIME_OUTPUT=$( { /usr/bin/time -v "$ENGINE" "$INDEX" --bench-init; } 2>&1 )
+    TIME_OUTPUT=$( { /usr/bin/time -v "$ENGINE" "$INDEX" --bench-init "${EXTRA_ARGS[@]+"${EXTRA_ARGS[@]}"}"; } 2>&1 )
     PEAK_KB=$(echo "$TIME_OUTPUT" \
         | grep "Maximum resident set size" \
         | awk '{print $NF}')
 
 elif [ "$OS" = "Darwin" ]; then
-    # \time -l reports RSS in bytes on the line containing "maximum resident set size"
-    TIME_OUTPUT=$( { \time -l "$ENGINE" "$INDEX" --bench-init; } 2>&1 )
+    TIME_OUTPUT=$( { /usr/bin/time -l "$ENGINE" "$INDEX" --bench-init "${EXTRA_ARGS[@]+"${EXTRA_ARGS[@]}"}"; } 2>&1 )
     PEAK_BYTES=$(echo "$TIME_OUTPUT" \
         | grep "maximum resident set size" \
         | awk '{print $1}')
@@ -63,10 +68,8 @@ if [ -z "${PEAK_KB:-}" ]; then
     exit 1
 fi
 
-# Ensure output directory exists
 mkdir -p "$(dirname "$OUTPUT")"
 
-# Append JSON line to output file
 cat >> "$OUTPUT" << EOF
 {"phase": $PHASE, "timestamp": "$TIMESTAMP", "engine": "$ENGINE", "index": "$INDEX", "peak_rss_kb": $PEAK_KB}
 EOF

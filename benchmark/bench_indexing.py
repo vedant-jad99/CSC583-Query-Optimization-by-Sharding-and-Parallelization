@@ -70,22 +70,24 @@ def parse_args() -> argparse.Namespace:
 
 # ── Single pipeline run ───────────────────────────────────────────────── #
 
-def run_pipeline(python: str, pipeline: str, corpus: str, output: str) -> dict:
+def run_pipeline(python: str, pipeline: str, corpus: str, output: str, phase: int) -> dict:
     """
     Run the indexing pipeline once and measure wall-clock time and peak memory.
 
-    Uses /usr/bin/time -v (Linux) or \time -l (macOS) for peak RSS.
-    Falls back to wall-clock only if time utility unavailable.
+    Phase 1: pipeline is main.py,         --out <file>,    output is a .bin file.
+    Phase 2/3: pipeline is main_sharded.py, --out-dir <dir>, output is a shard directory.
 
     Returns:
         dict with wall_time_s, index_size_kb, peak_rss_kb (or None)
     """
     import platform
 
-    # Build command
-    cmd = [python, pipeline, "--corpus", corpus, "--out", output]
+    # Phase 1 uses --out (single file), Phase 2/3 uses --out-dir (directory)
+    if phase == 1:
+        cmd = [python, pipeline, "--corpus", corpus, "--out", output]
+    else:
+        cmd = [python, pipeline, "--corpus", corpus, "--out-dir", output]
 
-    # Attempt to use system time for memory measurement
     os_name = platform.system()
     use_time_util = False
 
@@ -97,20 +99,10 @@ def run_pipeline(python: str, pipeline: str, corpus: str, output: str) -> dict:
         use_time_util = True
 
     t0 = time.perf_counter()
-
     if use_time_util:
-        result = subprocess.run(
-            time_cmd,
-            capture_output=True,
-            text=True,
-        )
+        result = subprocess.run(time_cmd, capture_output=True, text=True)
     else:
-        result = subprocess.run(
-            cmd,
-            capture_output=True,
-            text=True,
-        )
-
+        result = subprocess.run(cmd, capture_output=True, text=True)
     t1 = time.perf_counter()
 
     wall_time_s = t1 - t0
@@ -125,7 +117,7 @@ def run_pipeline(python: str, pipeline: str, corpus: str, output: str) -> dict:
     # Parse peak RSS
     peak_rss_kb = None
     if use_time_util:
-        time_output = result.stderr  # /usr/bin/time writes to stderr
+        time_output = result.stderr
         if os_name == "Linux":
             for line in time_output.splitlines():
                 if "Maximum resident set size" in line:
@@ -142,15 +134,27 @@ def run_pipeline(python: str, pipeline: str, corpus: str, output: str) -> dict:
                     except ValueError:
                         pass
 
-    # Index file size
-    if not os.path.isfile(output):
-        raise RuntimeError(f"Pipeline did not produce output file: {output}")
+    # Index size — Phase 1: single file, Phase 2/3: sum of all .bin shard files
+    if phase == 1:
+        if not os.path.isfile(output):
+            raise RuntimeError(f"Pipeline did not produce output file: {output}")
+        index_size_bytes = os.path.getsize(output)
+    else:
+        if not os.path.isdir(output):
+            raise RuntimeError(f"Pipeline did not produce output directory: {output}")
+        shard_files = [
+            os.path.join(output, f)
+            for f in os.listdir(output)
+            if f.endswith(".bin")
+        ]
+        if not shard_files:
+            raise RuntimeError(f"No .bin files found in shard directory: {output}")
+        index_size_bytes = sum(os.path.getsize(f) for f in shard_files)
 
-    index_size_bytes = os.path.getsize(output)
-    index_size_kb    = index_size_bytes / 1024.0
+    index_size_kb = index_size_bytes / 1024.0
 
     return {
-        "wall_time_s":  round(wall_time_s, 4),
+        "wall_time_s":   round(wall_time_s, 4),
         "index_size_kb": round(index_size_kb, 2),
         "index_size_mb": round(index_size_kb / 1024.0, 4),
         "peak_rss_kb":   peak_rss_kb,
@@ -256,7 +260,7 @@ def main() -> None:
     for i in range(args.runs):
         print(f"  Run {i+1}/{args.runs}...", end=" ", flush=True)
         try:
-            data = run_pipeline(args.python, args.pipeline, args.corpus, args.output)
+            data = run_pipeline(args.python, args.pipeline, args.corpus, args.output, args.phase)
             runs_data.append(data)
             rss_str = f"  peak RSS: {data['peak_rss_kb']} KB" if data["peak_rss_kb"] else ""
             print(f"{data['wall_time_s']:.4f} s  |  index: {data['index_size_kb']:.2f} KB{rss_str}")

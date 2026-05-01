@@ -1,7 +1,8 @@
 /****************************************************************
  *
  * @file boolean_engine.cpp
- * @description Top-level Boolean query engine implementation
+ * @description Phase 1 Boolean query engine implementation.
+ *
  * @author Vedant Jadhav (vedantjadhav@arizona.edu)
  * @date April 3, 2026
  *
@@ -33,4 +34,11 @@ int BooleanEngine::init(const std::string &bin_path) {
 const std::vector<uint32_t> &BooleanEngine::query(const std::string &raw_query) {
     std::vector<std::string> normalized = preprocessor.process(raw_query);
     return queryRunner.runQuery(normalized);
+}
+
+/* Called by MasterEngine workers — normalized terms already computed once
+ * by MasterEngine::preprocessor before fan-out. Zero extra preprocessing. */
+const std::vector<uint32_t> &BooleanEngine::queryNormalized(
+    const std::vector<std::string> &normalized_terms) {
+    return queryRunner.runQuery(normalized_terms);
 }

@@ -9,3 +9,10 @@ shards
 bench-shards
 data.nosync/input
 data.nosync/wikitext
+proj-report/*.aux
+proj-report/*.fdb_latexmk
+proj-report/*.fls
+proj-report/*.log
+proj-report/*.out
+proj-report/*.pdf
+proj-report/*.dvi

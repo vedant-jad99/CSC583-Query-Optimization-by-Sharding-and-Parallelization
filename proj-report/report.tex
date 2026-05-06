@@ -131,45 +131,6 @@ benchmarking methodology, and empirical results.
 \section{System Overview}
 % =============================================================================
 
-\subsection{High-Level Design}
-
-The system comprises two major subsystems: a \textbf{Python indexing
-pipeline} responsible for corpus ingestion and index construction, and a
-\textbf{C++ query engine} responsible for serving Boolean queries against
-the constructed index. These subsystems communicate through a well-defined
-binary format (\texttt{.bin} files) and are otherwise completely decoupled.
-Python is used for indexing because its ecosystem (NLTK, Porter stemmer,
-\texttt{multiprocessing}) is well-suited to batch text processing; C++ is
-used for query serving because sub-millisecond latency requires memory
-efficiency and CPU cache awareness that Python cannot provide.
-
-The system is structured as three progressively capable phases:
-
-\textbf{Phase 1} establishes the baseline. A single Python pipeline
-produces a single \texttt{index.bin}, which a single C++
-\texttt{BooleanEngine} loads and queries sequentially. This phase validates
-correctness and sets the performance baseline against which all
-improvements are measured.
-
-\textbf{Phase 2} introduces \textit{document-based index sharding}. The
-corpus is presorted and partitioned into $N$ equal document ranges, each
-processed by an independent pipeline worker, producing $N$ shard files.
-A new \texttt{MasterEngine} class loads all $N$ shards and queries them
-sequentially, fan-outing each query and collecting results via a tail
-join. Query parallelism is absent; the gain is in build time and
-architectural scalability.
-
-\textbf{Phase 3} adds \textit{parallel query execution}. The
-\texttt{MasterEngine} maintains a persistent thread pool of $N$ worker
-threads, one per shard. Each query wakes all workers simultaneously via a
-generation-counter-based fork-join protocol, executes shard queries in
-parallel on separate CPU cores, and collects results through a O($M$) tail
-join enabled by the globally ordered doc ID invariant.
-
-The three-phase structure is compiled from a single codebase using a
-\texttt{-DPHASE=N} preprocessor flag, ensuring that measurements reflect
-architectural differences rather than implementation divergence.
-
 \begin{figure*}[t]
 \centering
 \begin{tikzpicture}[
@@ -320,6 +281,46 @@ architectural differences rather than implementation divergence.
          merge results via an O($M$) tail join.}
 \label{fig:arch}
 \end{figure*}
+
+\subsection{High-Level Design}
+
+The system comprises two major subsystems: a \textbf{Python indexing
+pipeline} responsible for corpus ingestion and index construction, and a
+\textbf{C++ query engine} responsible for serving Boolean queries against
+the constructed index. These subsystems communicate through a well-defined
+binary format (\texttt{.bin} files) and are otherwise completely decoupled.
+Python is used for indexing because its ecosystem (NLTK, Porter stemmer,
+\texttt{multiprocessing}) is well-suited to batch text processing; C++ is
+used for query serving because sub-millisecond latency requires memory
+efficiency and CPU cache awareness that Python cannot provide.
+
+The system is structured as three progressively capable phases:
+
+\textbf{Phase 1} establishes the baseline. A single Python pipeline
+produces a single \texttt{index.bin}, which a single C++
+\texttt{BooleanEngine} loads and queries sequentially. This phase validates
+correctness and sets the performance baseline against which all
+improvements are measured.
+
+\textbf{Phase 2} introduces \textit{document-based index sharding}. The
+corpus is presorted and partitioned into $N$ equal document ranges, each
+processed by an independent pipeline worker, producing $N$ shard files.
+A new \texttt{MasterEngine} class loads all $N$ shards and queries them
+sequentially, fan-outing each query and collecting results via a tail
+join. Query parallelism is absent; the gain is in build time and
+architectural scalability.
+
+\textbf{Phase 3} adds \textit{parallel query execution}. The
+\texttt{MasterEngine} maintains a persistent thread pool of $N$ worker
+threads, one per shard. Each query wakes all workers simultaneously via a
+generation-counter-based fork-join protocol, executes shard queries in
+parallel on separate CPU cores, and collects results through a O($M$) tail
+join enabled by the globally ordered doc ID invariant.
+
+The three-phase structure is compiled from a single codebase using a
+\texttt{-DPHASE=N} preprocessor flag, ensuring that measurements reflect
+architectural differences rather than implementation divergence.
+
 
 % =============================================================================
 \section{Core Implementation}
@@ -605,6 +606,15 @@ Build RSS (MB)     & 759.2 & 248.0 & 248.0 \\
 \end{tabular}
 \end{table}
 
+\begin{figure*}[t]
+	\centering
+	\includegraphics[width=\textwidth, keepaspectratio]{artifacts/comparison_p99.png}
+	\caption{Bar graphs showing the p99 latencies per phase per query category, averaged over 50 runs.
+	We can see that there is a significant drop in latency for Phase 3 due to parallelized query execution.
+	}
+	\label{fig-p99}
+\end{figure*}
+
 Phases 2 and 3 achieve an identical \textbf{3.58--3.59$\times$} build
 speedup, as construction is purely Python-side. The theoretical 4$\times$
 ceiling is bounded by a 37-second presort step (the dominant sequential
@@ -614,15 +624,6 @@ $\approx3.63\times$, very close to ideal. Build-time RSS drops
 Resident Set Size (RSS) is the portion of a process's memory that resides
 in physical RAM, measured in kilobytes, and serves as the practical indicator
 of a program's memory footprint on the host system.
-
-\begin{figure*}[t]
-	\centering
-	\includegraphics[width=\textwidth, keepaspectratio]{artifacts/comparison_p99.png}
-	\caption{Bar graphs showing the p99 latencies per phase per query category, averaged over 50 runs.
-	We can see that there is a significant drop in latency for Phase 3 due to parallelized query execution.
-	}
-	\label{fig-p99}
-\end{figure*}
 
 \subsection{Engine Initialisation}
 

@@ -621,7 +621,7 @@ of a program's memory footprint on the host system.
 	\caption{Bar graphs showing the p99 latencies per phase per query category, averaged over 50 runs.
 	We can see that there is a significant drop in latency for Phase 3 due to parallelized query execution.
 	}
-	\label{fig-3}
+	\label{fig-p99}
 \end{figure*}
 
 \subsection{Engine Initialisation}
@@ -654,7 +654,7 @@ all four shards concurrently via \texttt{std::async}, achieving
 	However, there is a significant speed-up for medium and complex queries in phase-3 for complex
 	queries as well as medium queries.
 	}
-	\label{fig-3}
+	\label{fig-speedup}
 \end{figure*}
 
 \begin{figure*}[h]
@@ -665,7 +665,7 @@ all four shards concurrently via \texttt{std::async}, achieving
 	3 outperforms Phase-1 for medium and complex queries by 24\% and 32\% respectively, showing
 	a strong performance gain due to sharding and parallelization.
 	}
-	\label{fig-3}
+	\label{fig-throughput}
 \end{figure*}
 
 
@@ -772,7 +772,7 @@ shard and merge them one at-a-time. This was a quadratic merge operation
 going at O($M \times N$). Another merge strategy suggested by LLM was heap-merge,
 where we used a min-heap of size $N$ which held a pointer to each shard.
 This technique could achieve merge theoretically in O($M\log N$), but on
-implementation, the performance degarded, due to C++ priority queue implementation
+implementation, the performance degraded, due to C++ priority queue implementation
 details. The heap operations have large constants due to elements residing on
 heap memory as well as repeated cacheline bouncing. A simple fix to this
 was to employ a tail-join approach. We realized that since the documents are

@@ -164,7 +164,7 @@ make clean-shards   # remove shard files only
 
 ## Documentation
 
-- **Phase 1 Architecture**: [`docs/records/phase1_architecture.md`](docs/records/phase1_architecture.md)
-- **Phase 2 Architecture**: [`docs/records/phase2_architecture.md`](docs/records/phase2_architecture.md)
-- **Benchmarking Analysis**: [`docs/records/benchmarking_analysis.md`](docs/records/benchmarking_analysis.md)
-- **Project Report**: [`docs/report.pdf`](docs/report.pdf)
+- **Phase 1 Architecture**: [`docs/phase1_architecture.md`](docs/phase1_architecture.md)
+- **Phase 2 Architecture**: [`docs/phase2_architecture.md`](docs/phase2_architecture.md)
+- **Benchmarking Analysis**: [`docs/benchmarking_analysis.md`](docs/benchmarking_analysis.md)
+- **Project Report**: [`report.pdf`](report.pdf)

@@ -48,15 +48,15 @@ A Systems Approach to Scalable Boolean IR}}
 	\and
 	Chinmay Mhatre\\
     \textit{University of Arizona}\\
-    \texttt{email@arizona.edu}
+    \texttt{chinmaymhatre@arizona.edu}
 	\and
 	Mahshad Habibpourparizi\\
     \textit{University of Arizona}\\
-    \texttt{email@arizona.edu}
+    \texttt{mahshadh@arizona.edu}
 	\and
 	Arun Sanyal\\
     \textit{University of Arizona}\\
-    \texttt{email@arizona.edu}
+    \texttt{arunsanyal@arizona.edu}
 }
 \date{\today}
 
@@ -401,6 +401,51 @@ A single \texttt{reserve(total)} followed by $N$ \texttt{insert()} calls
 with \textbf{zero comparisons}. This is possible only because of the
 presort invariant---term-based sharding cannot exploit this property.
 
+\subsection{Python Normalization Pipeline}
+
+Text normalization is applied in a strict four-stage pipeline, implemented
+in \texttt{normalizer.py} and mirrored exactly in the C++
+\texttt{Preprocessor}:
+
+\begin{enumerate}[leftmargin=*, noitemsep]
+    \item \textbf{CaseFold} --- all tokens are lowercased via
+          \texttt{str.lower()}, matching \texttt{std::tolower()} in C++.
+    \item \textbf{PunctuationRemover} --- non-alphanumeric characters are
+          stripped using \texttt{re.sub(r"[\^{}a-zA-Z0-9]", "", token)};
+          tokens that become empty after stripping are discarded.
+    \item \textbf{StopWordFilter} --- tokens present in a hardcoded
+          \texttt{frozenset} of 100 common English function words are
+          removed. This list must be byte-for-byte identical to the
+          \texttt{std::unordered\_set<std::string>} in
+          \texttt{preprocessor.cpp}; any divergence causes query terms
+          to be silently absent from the index.
+    \item \textbf{Stemmer} --- NLTK's \texttt{PorterStemmer} is applied.
+          The C++ side implements the same Porter algorithm from scratch,
+          including the NLTK extension for the \texttt{logi} suffix in
+          Step~2. The two implementations must agree on every stem;
+          disagreement produces empty query results with no error signal.
+\end{enumerate}
+
+The pipeline order is not arbitrary. Stop word filtering \textit{before}
+stemming avoids the degenerate case where a stop word survives because its
+stemmed form differs from the dictionary form. Punctuation removal
+\textit{before} stop word filtering ensures tokens like \texttt{"it."} are
+cleaned to \texttt{"it"} before the filter checks them.
+
+The \texttt{Tokenizer} uses \texttt{re.findall(r"[a-zA-Z0-9]+")} to split
+raw text into tokens, extracting only contiguous alphanumeric sequences.
+This matches the character-by-character alphanumeric extraction in the C++
+\texttt{Preprocessor} and means that punctuation, whitespace, and special
+characters act as delimiters and are never present in the token stream
+passed to the normalizer.
+
+The \texttt{IndexBuilder} accumulates tokens per document using a
+\texttt{set[int]} per term internally. This ensures that a term appearing
+multiple times in the same document produces exactly one posting list entry
+for that document. The final index is produced by converting each set to a
+sorted list, satisfying the ascending-order requirement for delta encoding
+in \texttt{VBEncoder}.
+
 % =============================================================================
 \section{LLM-Assisted Development}
 % =============================================================================
@@ -421,14 +466,18 @@ presort invariant---term-based sharding cannot exploit this property.
 
 \subsection{Tools and Prompting Strategy}
 
-LLM assistance was provided by \textbf{Claude Sonnet} (Anthropic) via
-the claude.ai interface across the full implementation lifecycle.
-
-
-\textit{Add other LLMs used}
-
-
-The sections below detail the LLM use for this project
+LLM assistance was provided primarily by \textbf{Claude Sonnet 4.5}
+(Anthropic) via the claude.ai interface across the full implementation
+lifecycle. The prompting strategy evolved across phases. Early prompts were
+architecture-focused: the full unit design specification and class hierarchy
+were provided as context, and the LLM was asked to document design decisions
+and their rationale. Implementation prompts followed a consistent pattern:
+provide the architecture document, the relevant header file, and any already
+implemented sibling modules, then request the implementation with inline
+documentation. This context-heavy approach produced higher-quality output
+than open-ended prompts, as the LLM could reason about ownership contracts,
+const-correctness requirements, and cross-language consistency from the
+provided materials.
 
 \subsection{Architecture}
 
@@ -445,12 +494,28 @@ documents before implementation began.
 
 \subsection{Implementation}
 
-The use of LLMs for implementation varied across the team. On the C++ side, 
+The use of LLMs for implementation varied across the team. On the C++ side,
 implementation involved writing code for one of the modules or header files
 by ourselves, feeding the code file as well as the arch design document and
 the unit design specifications in the LLM to complete the rest of the modules.
 
-\textit{Please add your details/more details to this}
+On the Python side, the LLM was used to implement the serialization layer
+(\texttt{VBEncoder}, \texttt{BinWriter}, \texttt{MakeBinFile}) after the
+indexing logic (\texttt{Tokenizer}, \texttt{Normalizer}, \texttt{IndexBuilder})
+was implemented by the team. The architecture document and the C++ header
+files for \texttt{BinReader} and \texttt{Decompressor} were both provided
+as context, enabling the LLM to produce an encoder whose byte layout was
+verifiably compatible with the C++ decoder without requiring a round-trip
+test to discover mismatches.
+
+The end-to-end test suite (\texttt{tests/e2e\_test.py}) was designed and
+implemented collaboratively with LLM assistance. The tiered structure ---
+binary format validation, index content correctness, corpus spot-checks,
+and live engine queries --- was proposed by the team; the LLM implemented
+each tier given the C++ source files as reference. Providing the C++
+\texttt{VBDecoder::decode()} source allowed the LLM to mirror the exact
+accumulation order in the Python decoder, ensuring the test exercises the
+same decode path as the engine.
 
 \subsection{What Worked}
 
@@ -462,9 +527,27 @@ author (median over mean, p95/p99, warmup runs, 20/50-run protocols).
 presorted doc IDs make merge a concatenation. LLM was used to confirm the
 correctness argument.
 
+\textbf{Cross-language compatibility verification}: Providing both the
+Python encoder and the C++ decoder to the LLM in the same prompt allowed it
+to reason about byte-level compatibility. It identified that the VByte
+continuation bit convention (high bit = 1 means \textit{final} byte, not
+\textit{continuation}) had to be consistent and flagged that the two
+implementations agreed before any binary was written.
 
-\textit{Add more points here}
+\textbf{Amendment forward-compatibility}: The LLM was effective at
+reasoning about how a Phase 1 design decision would interact with Phase 2
+sharding. Specifically, it identified that having \texttt{Preprocessor}
+owned by \texttt{QueryRunner} would require N redundant normalization passes
+in Phase 2 (one per shard), and correctly proposed moving it to
+\texttt{BooleanEngine} as the owner --- a change implemented in Phase 1
+before Phase 2 began, saving a significant refactor.
 
+\textbf{End-to-end test design}: The LLM produced a four-tier test
+structure that gave actionable failure information at each layer. The
+complement check --- verifying that \texttt{term} $\cup$
+\texttt{NOT(term)} equals all doc IDs --- was suggested by the LLM as
+the strongest possible validation of the universal doc ID set construction
+in \texttt{Decompressor}.
 
 \subsection{What Did Not Work}
 
@@ -473,10 +556,24 @@ Debugging was required to figure out the additional overhead which introduced
 a bug in the pipeline, leading to unforeseen results. This is discussed in
 section 6.
 
+\textbf{Query format assumption}: The initial LLM-generated Tier 4 of the
+end-to-end test sent queries in infix notation (\texttt{"term\_a AND term\_b"})
+to an engine that expects postfix. This caused a runtime exception inside
+\texttt{IRSystem::processQuery()} on every query, with a confusing error
+message. The root cause was that the LLM was not provided with the
+\texttt{ir\_system.cpp} source when generating the test; it inferred a
+natural-language query format rather than the postfix stack evaluator
+format. Providing the source file resolved the issue immediately.
 
-
-\textit{Add more points here}
-
+\textbf{Stop word list divergence}: During end-to-end validation, the term
+\texttt{"an"} was found in the index despite being present in the Python
+\texttt{STOP\_WORDS} frozenset. The LLM's initial diagnosis suggested a
+stemming interaction, which was incorrect. The actual cause was a stale
+\texttt{index.bin} built before the stop word list was finalized. The LLM
+did not consider build system caching as a hypothesis until explicitly
+prompted. This identified a real gap: \texttt{normalizer.py} is not listed
+as a Make dependency of the \texttt{index-builder} rule, so modifications
+to the normalizer do not trigger a rebuild automatically.
 
 % =============================================================================
 \section{Performance Evaluation}
@@ -683,13 +780,24 @@ pre-sorted, the docIDs in consecutive shards will follow a strictly greater than
 policy, which makes a simple tail append possible. This gave us a significant
 performance boost and brought the results closer to expected.
 
-\textit{Please add more}
+\textbf{Build system staleness}: The \texttt{index-builder} Make rule
+does not declare \texttt{normalizer.py} or any other Python source file
+as a dependency. Make tracks timestamps, so modifying the normalizer
+after \texttt{index.bin} has been written does not trigger a rebuild.
+This caused a stale index to be tested --- the stop word list had been
+updated but the index reflected the previous version. The fix is to add
+the relevant Python sources as prerequisites of the \texttt{index-builder}
+rule:
 
-% =============================================================================
-\section{Improved Implementation}
-% =============================================================================
-
-\textit{Please fill}
+\begin{lstlisting}[language=make, basicstyle=\ttfamily\scriptsize]
+index-builder: $(VENV) \
+    scripts/pipeline/normalizer.py \
+    scripts/pipeline/tokenizer.py  \
+    scripts/pipeline/pipeline.py
+    $(PYTHON) scripts/main.py \
+        --corpus data/corpus \
+        --out index.bin
+\end{lstlisting}
 
 % =============================================================================
 

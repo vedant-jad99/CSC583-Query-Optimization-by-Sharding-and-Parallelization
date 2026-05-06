@@ -1,5 +1,6 @@
 \documentclass[twocolumn, 10pt]{article}
 
+\usepackage[colorlinks=true, linkcolor=blue, urlcolor=blue, citecolor=green]{hyperref}
 \usepackage[margin=1in]{geometry}
 \usepackage{booktabs}
 \usepackage{graphicx}
@@ -799,6 +800,45 @@ index-builder: $(VENV) \
         --corpus data/corpus \
         --out index.bin
 \end{lstlisting}
+
+\section{Compiling and running the code}
+
+To compile and run the project, it can be downloaded from the github repository:
+\texttt{\url{https://github.com/vedant-jad99/CSC583-Query-Optimization-by-Sharding-and-Parallelization}}
+
+Steps to compile:
+\begin{verbatim}
+	cd target_dir
+	make clean && \\
+	make PHASE=<phase num> CORPUS=<corpus dirname>
+\end{verbatim}
+
+This creates the index files for respective corpus, as well as compiles the engine code to create
+the executable for respective phase. If \texttt{PHASE} flag is set to $1$, the index is
+stored in the \texttt{index.bin} file, and for phases $2,3$ it is stored in the \texttt{shard\_i.bin}
+files inside the \texttt{shards} directory.
+
+To run the engine, the command to be used is:
+\begin{verbatim}
+	./run_engine <index file or dir>
+\end{verbatim}
+
+This starts the query engine. The queries can be passed in the postfix notation:
+\texttt{word1 word2 \textbackslash and}
+
+To run the bechmark scripts, the project needs to be built first using the above commands. Then
+for respective phase, the benchmark script command is:
+
+\begin{verbatim}
+	make bench BENCH_PHASE=<phase num> CORPUS=<corpus dirname>
+\end{verbatim}
+
+To compare the phase results, first the benchmark scripts should be run for multiple phases. Then
+use this command:
+
+\begin{verbatim}
+    make bench-report BENCH_PHASE="1 2 3"
+\end{verbatim}
 
 % =============================================================================
 

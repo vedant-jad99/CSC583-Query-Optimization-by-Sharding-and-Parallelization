@@ -1,0 +1,28 @@
+Black hole evaporation takes a long time
+relative to the current age of the universe,
+for black holes larger than a proton in
+diameter.
+where M and V are the mass and (Schwarzschild) volume of the black hole, mP and tP are Planck mass
+and Planck time. A black hole of one solar mass (M☉ = 2.0 ×1030 kg) takes more than 1067 years to
+evaporate—much longer than the current age of the universe at 1.4 ×1010 years.
+The Hawking radiation temperature is:[2][20][19]
+Larger mass black holes have lower Hawking radiation temperatures. For the smallest predicted
+stellar black hole, about 3 solar masses, this temperature is 
+K. Since the universe contains the
+cosmic microwave background radiation at 2.7 K, no stellar black holes can evaporate: they are colder
+than outer space.[19]
+The Bekenstein–Hawking luminosity of a black hole, under the assumption of pure photon emission
+(i.e. that no other particles are emitted) and under the assumption that the horizon is the radiating
+surface is:[19][20]
+where P is the luminosity, i.e., the radiated power, ħ is the reduced Planck constant, c is the speed of
+light, G is the gravitational constant and M is the mass of the black hole.
+Black hole evaporation has several significant consequences:
+Black hole evaporation produces a more consistent view of black hole thermodynamics by
+showing how black holes interact thermally with the rest of the universe.
+Unlike most objects, a black hole's temperature increases as it radiates away mass. The rate of
+temperature increase is exponential, with the most likely endpoint being the dissolution of the
+black hole in a violent burst of gamma rays. A complete description of this dissolution requires a
+4/10/26, 3:47 PM
+Hawking radiation - Wikipedia
+https://en.wikipedia.org/wiki/Hawking_radiation
+5/17

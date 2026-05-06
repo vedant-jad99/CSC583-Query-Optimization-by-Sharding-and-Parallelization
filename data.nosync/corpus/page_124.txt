@@ -1,0 +1,33 @@
+The formulas from the previous section are applicable only if the laws of gravity are approximately
+valid all the way down to the Planck scale. In particular, for black holes with masses below the Planck
+mass (~10−8 kg), they result in impossible lifetimes below the Planck time (~10−43 s). This is normally
+seen as an indication that the Planck mass is the lower limit on the mass of a black hole.
+In a model with large extra dimensions (10 or 11), the values of Planck constants can be radically
+different, and the formulas for Hawking radiation have to be modified as well. In particular, the
+lifetime of a micro black hole with a radius below the scale of the extra dimensions is given by
+equation 9 in Cheung (2002)[30] and equations 25 and 26 in Carr (2005).[31]
+where M∗ is the low-energy scale, which could be as low as a few TeV, and n is the number of large
+extra dimensions. This formula is now consistent with black holes as light as a few TeV, with lifetimes
+on the order of the "new Planck time" ~10−26 s.
+A detailed study of the quantum geometry of a black hole event horizon has been made using loop
+quantum gravity.[32][33] Loop-quantization does not reproduce the result for black hole entropy
+originally discovered by Bekenstein and Hawking, unless the value of a free parameter is set to cancel
+out various constants such that the Bekenstein–Hawking entropy formula is reproduced. However,
+quantum gravitational corrections to the entropy and radiation of black holes have been computed
+based on the theory.
+Based on the fluctuations of the horizon area, a quantum black hole exhibits deviations from the
+Hawking radiation spectrum that would be observable were X-rays from Hawking radiation of
+evaporating primordial black holes to be observed.[34] The quantum effects are centered at a set of
+discrete and unblended frequencies highly pronounced on top of the Hawking spectrum.[35]
+An alternative description of the Hawking effect as a tunneling process has been developed by Parikh
+and Wilczek,[36] and by Padmanabhan and Srinivasan.[37] In this approach, the probability of
+tunneling through the horizon is compared with a Boltzmann distribution, leading to the same
+temperature as in Hawking's original derivation. Owing to its local formulation, the tunneling picture
+can be applied to various types of horizons, including mildly dynamical ones.[38][39][40]
+Large extra dimensions
+In loop quantum gravity
+Tunneling picture
+4/10/26, 3:47 PM
+Hawking radiation - Wikipedia
+https://en.wikipedia.org/wiki/Hawking_radiation
+8/17

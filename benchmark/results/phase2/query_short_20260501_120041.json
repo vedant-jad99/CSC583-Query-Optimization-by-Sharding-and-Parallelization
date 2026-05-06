@@ -1,0 +1,335 @@
+{
+  "phase": 2,
+  "timestamp": "2026-05-01T12:00:41.332020",
+  "engine": "./run_engine",
+  "index": "bench-shards/",
+  "category": "short",
+  "warmup_queries": 10,
+  "runs_per_query": 50,
+  "shards": 4,
+  "query_count": 39,
+  "total_queries": 1950,
+  "latency_ms": {
+    "mean": 0.8299,
+    "median": 0.3224,
+    "p95": 4.9741,
+    "p99": 7.4906,
+    "min": 0.1073,
+    "max": 7.8535
+  },
+  "throughput_qps": 1191.72,
+  "per_query": [
+    {
+      "query": "time",
+      "mean_ms": 5.033,
+      "median_ms": 5.0074,
+      "p99_ms": 5.1689,
+      "min_ms": 4.8558,
+      "max_ms": 5.169
+    },
+    {
+      "query": "world",
+      "mean_ms": 1.4489,
+      "median_ms": 1.432,
+      "p99_ms": 1.565,
+      "min_ms": 1.3991,
+      "max_ms": 1.5683
+    },
+    {
+      "query": "people",
+      "mean_ms": 3.1008,
+      "median_ms": 3.1003,
+      "p99_ms": 3.2183,
+      "min_ms": 2.982,
+      "max_ms": 3.2253
+    },
+    {
+      "query": "state",
+      "mean_ms": 0.4921,
+      "median_ms": 0.4854,
+      "p99_ms": 0.5934,
+      "min_ms": 0.4748,
+      "max_ms": 0.6008
+    },
+    {
+      "query": "history",
+      "mean_ms": 0.5607,
+      "median_ms": 0.5543,
+      "p99_ms": 0.6052,
+      "min_ms": 0.5407,
+      "max_ms": 0.6078
+    },
+    {
+      "query": "city",
+      "mean_ms": 0.5077,
+      "median_ms": 0.5035,
+      "p99_ms": 0.5778,
+      "min_ms": 0.4879,
+      "max_ms": 0.5881
+    },
+    {
+      "query": "system",
+      "mean_ms": 0.1773,
+      "median_ms": 0.1764,
+      "p99_ms": 0.1976,
+      "min_ms": 0.1705,
+      "max_ms": 0.1997
+    },
+    {
+      "query": "american",
+      "mean_ms": 0.9799,
+      "median_ms": 0.9774,
+      "p99_ms": 1.0624,
+      "min_ms": 0.9345,
+      "max_ms": 1.0896
+    },
+    {
+      "query": "family",
+      "mean_ms": 1.0443,
+      "median_ms": 1.0351,
+      "p99_ms": 1.1436,
+      "min_ms": 1.0276,
+      "max_ms": 1.1455
+    },
+    {
+      "query": "human",
+      "mean_ms": 0.8346,
+      "median_ms": 0.8268,
+      "p99_ms": 0.9129,
+      "min_ms": 0.8028,
+      "max_ms": 0.9312
+    },
+    {
+      "query": "music",
+      "mean_ms": 1.3815,
+      "median_ms": 1.3748,
+      "p99_ms": 1.4375,
+      "min_ms": 1.3589,
+      "max_ms": 1.4429
+    },
+    {
+      "query": "government",
+      "mean_ms": 0.2142,
+      "median_ms": 0.2074,
+      "p99_ms": 0.2952,
+      "min_ms": 0.1987,
+      "max_ms": 0.3211
+    },
+    {
+      "query": "water",
+      "mean_ms": 0.3177,
+      "median_ms": 0.3115,
+      "p99_ms": 0.3692,
+      "min_ms": 0.3009,
+      "max_ms": 0.3723
+    },
+    {
+      "query": "century",
+      "mean_ms": 0.2797,
+      "median_ms": 0.2763,
+      "p99_ms": 0.3195,
+      "min_ms": 0.26,
+      "max_ms": 0.3208
+    },
+    {
+      "query": "film",
+      "mean_ms": 7.4823,
+      "median_ms": 7.4491,
+      "p99_ms": 7.8064,
+      "min_ms": 7.2563,
+      "max_ms": 7.8535
+    },
+    {
+      "query": "war",
+      "mean_ms": 0.7763,
+      "median_ms": 0.7732,
+      "p99_ms": 0.8824,
+      "min_ms": 0.7164,
+      "max_ms": 0.921
+    },
+    {
+      "query": "country",
+      "mean_ms": 0.4752,
+      "median_ms": 0.4648,
+      "p99_ms": 0.568,
+      "min_ms": 0.444,
+      "max_ms": 0.5681
+    },
+    {
+      "query": "computer",
+      "mean_ms": 0.2095,
+      "median_ms": 0.2087,
+      "p99_ms": 0.225,
+      "min_ms": 0.2058,
+      "max_ms": 0.2336
+    },
+    {
+      "query": "language",
+      "mean_ms": 0.2665,
+      "median_ms": 0.2649,
+      "p99_ms": 0.2859,
+      "min_ms": 0.2639,
+      "max_ms": 0.2873
+    },
+    {
+      "query": "power",
+      "mean_ms": 0.7684,
+      "median_ms": 0.7638,
+      "p99_ms": 0.8594,
+      "min_ms": 0.743,
+      "max_ms": 0.8691
+    },
+    {
+      "query": "law",
+      "mean_ms": 0.254,
+      "median_ms": 0.2512,
+      "p99_ms": 0.2868,
+      "min_ms": 0.249,
+      "max_ms": 0.3024
+    },
+    {
+      "query": "animal",
+      "mean_ms": 0.6433,
+      "median_ms": 0.6388,
+      "p99_ms": 0.7107,
+      "min_ms": 0.6039,
+      "max_ms": 0.7141
+    },
+    {
+      "query": "research",
+      "mean_ms": 0.1674,
+      "median_ms": 0.163,
+      "p99_ms": 0.2274,
+      "min_ms": 0.1332,
+      "max_ms": 0.2395
+    },
+    {
+      "query": "book",
+      "mean_ms": 0.775,
+      "median_ms": 0.769,
+      "p99_ms": 0.8266,
+      "min_ms": 0.7557,
+      "max_ms": 0.8315
+    },
+    {
+      "query": "science",
+      "mean_ms": 0.2263,
+      "median_ms": 0.2232,
+      "p99_ms": 0.2936,
+      "min_ms": 0.2182,
+      "max_ms": 0.3269
+    },
+    {
+      "query": "company",
+      "mean_ms": 0.2733,
+      "median_ms": 0.272,
+      "p99_ms": 0.2904,
+      "min_ms": 0.2678,
+      "max_ms": 0.2929
+    },
+    {
+      "query": "society",
+      "mean_ms": 0.3111,
+      "median_ms": 0.3061,
+      "p99_ms": 0.3812,
+      "min_ms": 0.304,
+      "max_ms": 0.4053
+    },
+    {
+      "query": "development",
+      "mean_ms": 0.6709,
+      "median_ms": 0.6665,
+      "p99_ms": 0.7238,
+      "min_ms": 0.6606,
+      "max_ms": 0.7508
+    },
+    {
+      "query": "building",
+      "mean_ms": 0.4133,
+      "median_ms": 0.4119,
+      "p99_ms": 0.4465,
+      "min_ms": 0.3999,
+      "max_ms": 0.4571
+    },
+    {
+      "query": "space",
+      "mean_ms": 0.3197,
+      "median_ms": 0.3188,
+      "p99_ms": 0.3315,
+      "min_ms": 0.3155,
+      "max_ms": 0.3384
+    },
+    {
+      "query": "university",
+      "mean_ms": 0.2679,
+      "median_ms": 0.2654,
+      "p99_ms": 0.3078,
+      "min_ms": 0.2585,
+      "max_ms": 0.3303
+    },
+    {
+      "query": "national",
+      "mean_ms": 0.2343,
+      "median_ms": 0.2324,
+      "p99_ms": 0.2524,
+      "min_ms": 0.2255,
+      "max_ms": 0.2576
+    },
+    {
+      "query": "technology",
+      "mean_ms": 0.1302,
+      "median_ms": 0.1282,
+      "p99_ms": 0.1574,
+      "min_ms": 0.1234,
+      "max_ms": 0.1621
+    },
+    {
+      "query": "information",
+      "mean_ms": 0.2876,
+      "median_ms": 0.285,
+      "p99_ms": 0.327,
+      "min_ms": 0.2723,
+      "max_ms": 0.3303
+    },
+    {
+      "query": "community",
+      "mean_ms": 0.2462,
+      "median_ms": 0.2446,
+      "p99_ms": 0.2688,
+      "min_ms": 0.2396,
+      "max_ms": 0.2715
+    },
+    {
+      "query": "political",
+      "mean_ms": 0.3668,
+      "median_ms": 0.3642,
+      "p99_ms": 0.3998,
+      "min_ms": 0.3633,
+      "max_ms": 0.4093
+    },
+    {
+      "query": "population",
+      "mean_ms": 0.1097,
+      "median_ms": 0.1089,
+      "p99_ms": 0.1268,
+      "min_ms": 0.1073,
+      "max_ms": 0.138
+    },
+    {
+      "query": "president",
+      "mean_ms": 0.1341,
+      "median_ms": 0.1332,
+      "p99_ms": 0.1457,
+      "min_ms": 0.1314,
+      "max_ms": 0.1488
+    },
+    {
+      "query": "international",
+      "mean_ms": 0.1854,
+      "median_ms": 0.1826,
+      "p99_ms": 0.2411,
+      "min_ms": 0.1803,
+      "max_ms": 0.2833
+    }
+  ]
+}

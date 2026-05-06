@@ -1,0 +1,50 @@
+Complications arise with chaotic systems, which do not have good quantum numbers, and quantum
+chaos studies the relationship between classical and quantum descriptions in these systems.[42]: 353 
+Quantum decoherence is a mechanism through which quantum systems lose coherence, and thus
+become incapable of displaying many typically quantum effects: quantum superpositions become
+simply 
+probabilistic 
+mixtures, 
+and 
+quantum 
+entanglement 
+becomes 
+simply 
+classical
+correlations.[7]: 687–730  Quantum coherence is not typically evident at macroscopic scales, though at
+temperatures approaching absolute zero quantum behavior may manifest macroscopically.[note 3]
+Many macroscopic properties of a classical system are a direct consequence of the quantum behavior
+of its parts. For example, the stability of bulk matter (consisting of atoms and molecules which would
+quickly collapse under electric forces alone), the rigidity of solids, and the mechanical, thermal,
+chemical, optical and magnetic properties of matter are all results of the interaction of electric charges
+under the rules of quantum mechanics.[44]
+Early attempts to merge quantum mechanics with special relativity involved the replacement of the
+Schrödinger equation with a covariant equation such as the Klein–Gordon equation or the Dirac
+equation. While these theories were successful in explaining many experimental results, they had
+certain unsatisfactory qualities stemming from their neglect of the relativistic creation and
+annihilation of particles. A fully relativistic quantum theory required the development of quantum
+field theory, which applies quantization to a field (rather than a fixed set of particles). The first
+complete quantum field theory, quantum electrodynamics, provides a fully quantum description of
+the electromagnetic interaction. Quantum electrodynamics is, along with general relativity, one of the
+most accurate physical theories ever devised.[45][46]
+The full apparatus of quantum field theory is often unnecessary for describing electrodynamic
+systems. A simpler approach, one that has been used since the inception of quantum mechanics, is to
+treat charged particles as quantum mechanical objects being acted on by a classical electromagnetic
+field. For example, the elementary quantum model of the hydrogen atom describes the electric field of
+the hydrogen atom using a classical 
+ Coulomb potential.[7]: 285  Likewise, in a Stern–
+Gerlach experiment, a charged particle is modeled as a quantum system, while the background
+magnetic field is described classically.[42]: 26  This "semi-classical" approach fails if quantum
+fluctuations in the electromagnetic field play an important role, such as in the emission of photons by
+charged particles.
+Quantum field theories for the strong nuclear force and the weak nuclear force have also been
+developed. The quantum field theory of the strong nuclear force is called quantum chromodynamics,
+and describes the interactions of subnuclear particles such as quarks and gluons. The weak nuclear
+force and the electromagnetic force were unified, in their quantized forms, into a single quantum field
+theory (known as electroweak theory), by the physicists Abdus Salam, Sheldon Glashow and Steven
+Weinberg.[47]
+Special relativity and electrodynamics
+4/10/26, 3:51 PM
+Quantum mechanics - Wikipedia
+https://en.wikipedia.org/wiki/Quantum_mechanics
+13/28

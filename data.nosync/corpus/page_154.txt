@@ -1,0 +1,35 @@
+1-dimensional potential energy box (or
+infinite potential well)
+The particle in a one-dimensional potential energy box is the
+most mathematically simple example where restraints lead to
+the quantization of energy levels. The box is defined as having
+zero potential energy everywhere inside a certain region, and
+therefore infinite potential energy everywhere outside that
+region.[26]: 77–78  For the one-dimensional case in the 
+direction, the time-independent Schrödinger equation may be
+written
+With the differential operator defined by
+the previous equation is evocative of the classic kinetic energy analogue,
+with state  in this case having energy 
+ coincident with the kinetic energy of the particle.
+The general solutions of the Schrödinger equation for the particle in a box are
+or, from Euler's formula,
+The infinite potential walls of the box determine the values of 
+ and  at 
+ and 
+ where
+ must be zero. Thus, at 
+,
+and 
+. At 
+,
+in which 
+ cannot be zero as this would conflict with the postulate that  has norm 1. Therefore, since
+, 
+ must be an integer multiple of ,
+This constraint on  implies a constraint on the energy levels, yielding
+Particle in a box
+4/10/26, 3:51 PM
+Quantum mechanics - Wikipedia
+https://en.wikipedia.org/wiki/Quantum_mechanics
+9/28

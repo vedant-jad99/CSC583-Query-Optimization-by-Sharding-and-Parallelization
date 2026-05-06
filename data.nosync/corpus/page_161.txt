@@ -1,0 +1,52 @@
+The Schrödinger's cat thought
+experiment can be used to visualize the
+many-worlds interpretation of quantum
+mechanics, where a branching of the
+universe occurs through a superposition
+of two quantum mechanical states.
+Max Planck is considered the
+father of the quantum theory.
+Quantum mechanics was developed in the early decades of the
+20th century, driven by the need to explain phenomena that,
+in some cases, had been observed in earlier times. Scientific
+inquiry into the wave nature of light began in the 17th and
+18th centuries, when scientists such as Robert Hooke,
+Christiaan Huygens and Leonhard Euler proposed a wave
+theory of light based on experimental observations.[77] In
+1803 English polymath Thomas Young described the famous
+double-slit experiment.[78] This experiment played a major
+role in the general acceptance of the wave theory of light.
+During the early 19th century, chemical research by John
+Dalton and Amedeo Avogadro lent weight to the atomic theory
+of matter, an idea that James Clerk Maxwell, Ludwig Boltzmann and others built upon to establish the
+kinetic theory of gases. The successes of kinetic theory gave further credence to the idea that matter is
+composed of atoms, yet the theory also had shortcomings that would only be resolved by the
+development of quantum mechanics.[79] While the early conception of atoms from Greek philosophy
+had been that they were indivisible units – the word "atom" deriving from the Greek for 'uncuttable' –
+the 19th century saw the formulation of hypotheses about subatomic structure. One important
+discovery in that regard was Michael Faraday's 1838 observation of a glow caused by an electrical
+discharge inside a glass tube containing gas at low pressure. Julius Plücker, Johann Wilhelm Hittorf
+and Eugen Goldstein carried on and improved upon Faraday's work, leading to the identification of
+cathode rays, which J. J. Thomson found to consist of subatomic particles that would be called
+electrons.[80][81]
+The black-body radiation problem was discovered by Gustav Kirchhoff
+in 1859. In 1900, Max Planck proposed the hypothesis that energy is
+radiated and absorbed in discrete "quanta" (or energy packets),
+yielding a calculation that precisely matched the observed patterns of
+black-body radiation.[82] The word quantum derives from the Latin,
+meaning "how great" or "how much".[83] According to Planck,
+quantities of energy could be thought of as divided into "elements"
+whose size (E) would be proportional to their frequency (ν):
+, where h is the Planck constant. Planck cautiously insisted that this
+was only an aspect of the processes of absorption and emission of
+radiation and was not the physical reality of the radiation.[84] In fact,
+he considered his quantum hypothesis a mathematical trick to get the
+right answer rather than a sizable discovery.[85] However, in 1905
+Albert Einstein interpreted Planck's quantum hypothesis realistically
+and used it to explain the photoelectric effect, in which shining light on
+certain materials can eject electrons from the material. Niels Bohr then developed Planck's ideas
+History
+4/10/26, 3:51 PM
+Quantum mechanics - Wikipedia
+https://en.wikipedia.org/wiki/Quantum_mechanics
+16/28

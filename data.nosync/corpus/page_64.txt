@@ -1,0 +1,41 @@
+("fudge factors"),[12] and in 1919 an expedition led by Eddington confirmed general relativity's
+prediction for the deflection of starlight by the Sun during the total solar eclipse of 29 May 1919,[13]
+instantly making Einstein famous.[14] Yet the theory remained outside the mainstream of theoretical
+physics and astrophysics until developments between approximately 1960 and 1975 known as the
+golden age of general relativity.[15] Physicists began to understand the concept of a black hole, and to
+identify quasars as one of these objects' astrophysical manifestations.[16] Ever more precise solar
+system tests confirmed the theory's predictive power,[17] and relativistic cosmology also became
+amenable to direct observational tests.[18]
+General relativity has acquired a reputation as a theory of extraordinary beauty.[2][19][20]
+Subrahmanyan Chandrasekhar has noted that at multiple levels, general relativity exhibits what
+Francis Bacon has termed a "strangeness in the proportion" (i.e. elements that excite wonderment and
+surprise). It juxtaposes fundamental concepts (space and time versus matter and motion) which had
+previously been considered as entirely independent. Chandrasekhar also noted that Einstein's only
+guides in his search for an exact theory were the principle of equivalence and his sense that a proper
+description of gravity should be geometrical at its basis, so that there was an "element of revelation" in
+the manner in which Einstein arrived at his theory.[21] Other elements of beauty associated with the
+general theory of relativity are its simplicity and symmetry, the manner in which it incorporates
+invariance and unification, and its perfect logical consistency.[22]
+In the preface to Relativity: The Special and the General Theory, Einstein said "The present book is
+intended, as far as possible, to give an exact insight into the theory of Relativity to those readers who,
+from a general scientific and philosophical point of view, are interested in the theory, but who are not
+conversant with the mathematical apparatus of theoretical physics. The work presumes a standard of
+education corresponding to that of a university matriculation examination, and, despite the shortness
+of the book, a fair amount of patience and force of will on the part of the reader. The author has spared
+himself no pains in his endeavour to present the main ideas in the simplest and most intelligible form,
+and on the whole, in the sequence and connection in which they actually originated."[23]
+General relativity can be understood by examining its similarities with and departures from classical
+physics. The first step is the realization that classical mechanics and Newton's law of gravity admit a
+geometric description. The combination of this description with the laws of special relativity results in
+a heuristic derivation of general relativity.[24][25]
+At the base of classical mechanics is the notion that a body's motion can be described as a
+combination of free (or inertial) motion, and deviations from this free motion. Such deviations are
+caused by external forces acting on a body in accordance with Newton's second law of motion, which
+states that the net force acting on a body is equal to that body's (inertial) mass multiplied by its
+acceleration.[26] The preferred inertial motions are related to the geometry of space and time: in the
+From classical mechanics to general relativity
+Geometry of Newtonian gravity
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+3/55

@@ -1,0 +1,38 @@
+The singularity theorems use the notion of geodesic incompleteness as a stand-in for the presence of
+infinite curvatures. Geodesic incompleteness is the notion that there are geodesics, paths of observers
+through spacetime, that can only be extended for a finite time as measured by an observer traveling
+along one. Presumably, at the end of the geodesic the observer has fallen into a singularity or
+encountered some other pathology at which the laws of general relativity break down.
+Typically a singularity theorem has three ingredients:[6]
+1. An energy condition on the matter,
+2. A condition on the global structure of spacetime,
+3. Gravity is strong enough (somewhere) to trap a region.
+There are various possibilities for each ingredient, and each leads to different singularity theorems.
+A key tool used in the formulation and proof of the singularity theorems is the Raychaudhuri
+equation, which describes the divergence  of a congruence (family) of geodesics. The divergence of a
+congruence is defined as the derivative of the log of the determinant of the congruence volume. The
+Raychaudhuri equation is
+where 
+ is the shear tensor of the congruence and 
+ is also known as the
+Raychaudhuri scalar (see the congruence page for details). The key point is that 
+ will be non-
+negative provided that the Einstein field equations hold and[6]
+the null energy condition holds and the geodesic congruence is null, or
+the strong energy condition holds and the geodesic congruence is timelike.
+When these hold, the divergence becomes infinite at some finite value of the affine parameter. Thus all
+geodesics leaving a point will eventually reconverge after a finite time, provided the appropriate
+energy condition holds, a result also known as the focusing theorem.
+This is relevant for singularities thanks to the following argument:
+1. Suppose we have a spacetime that is globally hyperbolic, and two points  and  that can be
+connected by a timelike or null curve. Then there exists a geodesic of maximal length connecting
+ and . Call this geodesic .
+2. The geodesic  can be varied to a longer curve if another geodesic from  intersects  at another
+point, called a conjugate point.
+Nature of a singularity
+Assumptions of the theorems
+Tools employed
+4/10/26, 3:48 PM
+Penrose–Hawking singularity theorems - Wikipedia
+https://en.wikipedia.org/wiki/Penrose–Hawking_singularity_theorems
+4/7

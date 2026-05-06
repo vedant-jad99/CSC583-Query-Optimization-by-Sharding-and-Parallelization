@@ -1,0 +1,44 @@
+Newtonian (red) vs. Einsteinian orbit (blue)
+of a lone planet orbiting a star. The
+influence of other planets is ignored.
+In general relativity, the apsides of any orbit (the point of the
+orbiting body's closest approach to the system's center of
+mass) will precess; the orbit is not an ellipse, but akin to an
+ellipse that rotates on its focus, resulting in a rose curve-like
+shape (see image). Einstein first derived this result by using
+an approximate metric representing the Newtonian limit and
+treating the orbiting body as a test particle. For him, the fact
+that his theory gave a straightforward explanation of
+Mercury's anomalous perihelion shift, discovered earlier by
+Urbain Le Verrier in 1859, was important evidence that he
+had at last identified the correct form of the gravitational
+field equations.[89]
+The effect can also be derived by using either the exact
+Schwarzschild metric (describing spacetime around a
+spherical mass)[90] or the much more general post-
+Newtonian formalism.[91] It is due to the influence of gravity on the geometry of space and to the
+contribution of self-energy to a body's gravity (encoded in the nonlinearity of Einstein's equations).[92]
+Relativistic precession has been observed for all planets that allow for accurate precession
+measurements (Mercury, Venus, and Earth),[93] as well as in binary pulsar systems, where it is larger
+by five orders of magnitude.[94]
+In general relativity the perihelion shift , expressed in radians per revolution, is approximately given
+by:[95]
+where:
+ is the semi-major axis
+ is the orbital period
+ is the speed of light in a vacuum
+ is the orbital eccentricity
+According to general relativity, a binary system will emit gravitational waves, thereby losing energy.
+Due to this loss, the distance between the two orbiting bodies decreases, and so does their orbital
+period. Within the Solar System or for ordinary double stars, the effect is too small to be observable.
+This is not the case for a close binary pulsar, a system of two orbiting neutron stars, one of which is a
+pulsar: from the pulsar, observers on Earth receive a regular series of radio pulses that can serve as a
+highly accurate clock, which allows precise measurements of the orbital period. Because neutron stars
+are immensely compact, significant amounts of energy are emitted in the form of gravitational
+radiation.[97]
+Precession of apsides
+Orbital decay
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+12/55

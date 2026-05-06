@@ -1,0 +1,42 @@
+Ring of test particles deformed by a
+passing (linearized, amplified for better
+visibility) gravitational wave
+Closely related to light deflection is the Shapiro time delay, the phenomenon that light signals take
+longer to move through a gravitational field than they would in the absence of that field. There have
+been numerous successful tests of this prediction.[77] In the parameterized post-Newtonian formalism
+(PPN), measurements of both the deflection of light and the gravitational time delay determine a
+parameter called γ, which encodes the influence of gravity on the geometry of space.[78]
+Predicted in 1916[79][80] by Albert Einstein, there are
+gravitational waves: ripples in the metric of spacetime that
+propagate at the speed of light. These are one of several
+analogies between weak-field gravity and electromagnetism in
+that, they are analogous to electromagnetic waves. On 11
+February 2016, the Advanced LIGO team announced that they
+had directly detected gravitational waves from a pair of black
+holes merging.[81][82][83]
+The simplest type of such a wave can be visualized by its
+action on a ring of freely floating particles. A sine wave
+propagating through such a ring towards the reader distorts
+the ring in a characteristic, rhythmic fashion (animated image
+to the right).[84] Since Einstein's equations are non-linear,
+arbitrarily strong gravitational waves do not obey linear
+superposition, making their description difficult. However,
+linear approximations of gravitational waves are sufficiently
+accurate to describe the exceedingly weak waves that are expected to arrive here on Earth from far-off
+cosmic events, which typically result in relative distances increasing and decreasing by 10−21 or less.
+Data analysis methods routinely make use of the fact that these linearized waves can be Fourier
+decomposed.[85]
+Some exact solutions describe gravitational waves without any approximation, e.g., a wave train
+traveling through empty space[86] or Gowdy universes, varieties of an expanding cosmos filled with
+gravitational waves.[87] But for gravitational waves produced in astrophysically relevant situations,
+such as the merger of two black holes, numerical methods are the only way to construct appropriate
+models.[88]
+General relativity differs from classical mechanics in a number of predictions concerning orbiting
+bodies. It predicts an overall rotation (precession) of planetary orbits, as well as orbital decay caused
+by the emission of gravitational waves and effects related to the relativity of direction.
+Gravitational waves
+Orbital effects and the relativity of direction
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+11/55

@@ -1,0 +1,53 @@
+Ida, Daisuke; Oda, Kin'ya; Park, Seong-chan (2006). "Rotating Black Holes at Future Colliders. III.
+Determination of Black Hole Evolution". Physical Review D. 73 (12) 124022. arXiv:hep-th/0602188
+(https://arxiv.org/abs/hep-th/0602188). Bibcode:2006PhRvD..73l4022I (https://ui.adsabs.harvard.e
+du/abs/2006PhRvD..73l4022I). doi:10.1103/PhysRevD.73.124022 (https://doi.org/10.1103%2FPhy
+sRevD.73.124022). S2CID 6702415 (https://api.semanticscholar.org/CorpusID:6702415). →
+determination of black hole's life and extra dimensions
+Nicolaevici, Nistor (2003). "Blackbody spectrum from accelerated mirrors with asymptotically
+inertial trajectories". Journal of Physics A . 36 (27): 7667–7677. Bibcode:2003JPhA...36.7667N (htt
+ps://ui.adsabs.harvard.edu/abs/2003JPhA...36.7667N). doi:10.1088/0305-4470/36/27/317 (https://
+doi.org/10.1088%2F0305-4470%2F36%2F27%2F317). S2CID 121117052 (https://api.semanticsc
+holar.org/CorpusID:121117052). → consistent derivation of the Hawking radiation in the Fulling–
+Davies mirror model.
+Smolin, Lee (November 2006). "Quantum gravity faces reality" (https://web.archive.org/web/20080
+910170107/http://www.physicstoday.org/vol-59/iss-11/pdf/vol59no11p44_48.pdf) (PDF). Physics
+Today. 59 (11): 44–48. Bibcode:2006PhT....59k..44S (https://ui.adsabs.harvard.edu/abs/2006Ph
+T....59k..44S). doi:10.1063/1.2435646 (https://doi.org/10.1063%2F1.2435646). Archived from the
+original (http://www.physicstoday.org/vol-59/iss-11/pdf/vol59no11p44_48.pdf) (PDF) on September
+10, 2008. consists of the recent developments and predictions of loop quantum gravity about
+gravity in small scales including the deviation from Hawking radiation effect by Ansari.
+Ansari, Mohammad H. (2007). "Spectroscopy of a canonically quantized horizon". Nuclear Physics
+B. 783 (3): 179–212. arXiv:hep-th/0607081 (https://arxiv.org/abs/hep-th/0607081).
+Bibcode:2007NuPhB.783..179A (https://ui.adsabs.harvard.edu/abs/2007NuPhB.783..179A).
+doi:10.1016/j.nuclphysb.2007.01.009 (https://doi.org/10.1016%2Fj.nuclphysb.2007.01.009).
+S2CID 9966483 (https://api.semanticscholar.org/CorpusID:9966483). → studies the deviation of a
+loop quantized black hole from Hawking radiation. A novel observable quantum effect of black hole
+quantization is introduced.
+Shapiro, Stuart L.; Teukolsky, Saul A. (1983). Black Holes, White Dwarfs, and Neutron Stars: The
+Physics of Compact Objects (https://archive.org/details/blackholeswhited00shap_896). Wiley-
+Interscience. p. 366 (https://archive.org/details/blackholeswhited00shap_896/page/n386).
+ISBN 978-0-471-87316-7. → Hawking radiation evaporation formula derivation.
+Leonhardt, Ulf; Maia, Clovis; Schuetzhold, Ralf (2010). "Focus on Classical and Quantum Analogs
+for Gravitational Phenomena and Related Effects" (https://doi.org/10.1088%2F1367-2630%2F1
+4%2F10%2F105032). New Journal of Physics . 14 (10) 105032. Bibcode:2012NJPh...14j5032L (ht
+tps://ui.adsabs.harvard.edu/abs/2012NJPh...14j5032L). doi:10.1088/1367-2630/14/10/105032 (htt
+ps://doi.org/10.1088%2F1367-2630%2F14%2F10%2F105032). hdl:10023/4760 (https://hdl.handl
+e.net/10023%2F4760).
+Mann, Robert B.; Murk, Sebastian; Terno, Daniel R. (2022). "Black holes and their horizons in
+semiclassical and modified theories of gravity". International Journal of Modern Physics D. 31 (9):
+2230015–2230276. arXiv:2112.06515 (https://arxiv.org/abs/2112.06515).
+Bibcode:2022IJMPD..3130015M (https://ui.adsabs.harvard.edu/abs/2022IJMPD..3130015M).
+doi:10.1142/S0218271822300154 (https://doi.org/10.1142%2FS0218271822300154).
+S2CID 245123647 (https://api.semanticscholar.org/CorpusID:245123647).
+Smerlak, Matteo; Singh, Suprit (2013). "New perspectives on Hawking radiation". Physical Review
+D. 88 (10) 104023. arXiv:1304.2858 (https://arxiv.org/abs/1304.2858).
+Bibcode:2013PhRvD..88j4023S (https://ui.adsabs.harvard.edu/abs/2013PhRvD..88j4023S).
+doi:10.1103/PhysRevD.88.104023 (https://doi.org/10.1103%2FPhysRevD.88.104023).
+Hawking radiation calculator tool (https://web.archive.org/web/20081014010322/http://xaonon.dyn
+dns.org/hawking/)
+External links
+4/10/26, 3:47 PM
+Hawking radiation - Wikipedia
+https://en.wikipedia.org/wiki/Hawking_radiation
+16/17

@@ -1,0 +1,42 @@
+Einstein's equations are nonlinear partial differential equations and, as such, difficult to solve
+exactly.[54] Nevertheless, a number of exact solutions are known, although only a few have direct
+physical applications.[55] The best-known exact solutions, and also those most interesting from a
+physics point of view, are the Schwarzschild solution, the Reissner–Nordström solution and the Kerr
+metric, each corresponding to a certain type of black hole in an otherwise empty universe,[56] and the
+Friedmann–Lemaître–Robertson–Walker and de Sitter universes, each describing an expanding
+cosmos.[57] Exact solutions of great theoretical interest include the Gödel universe (which opens up
+the intriguing possibility of time travel in curved spacetimes), the Taub–NUT solution (a model
+universe that is homogeneous, but anisotropic), and anti-de Sitter space (which has recently come to
+prominence in the context of what is called the Maldacena conjecture).[58]
+Given the difficulty of finding exact solutions, Einstein's field equations are also solved frequently by
+numerical integration on a computer, or by considering small perturbations of exact solutions. In the
+field of numerical relativity, powerful computers are employed to simulate the geometry of spacetime
+and to solve Einstein's equations for interesting situations such as two colliding black holes.[59] In
+principle, such methods may be applied to any system, given sufficient computer resources, and may
+address fundamental questions such as naked singularities. Approximate solutions may also be found
+by perturbation theories such as linearized gravity[60] and its generalization, the post-Newtonian
+expansion, both of which were developed by Einstein. The latter provides a systematic approach to
+solving for the geometry of a spacetime that contains a distribution of matter that moves slowly
+compared with the speed of light. The expansion involves a series of terms; the first terms represent
+Newtonian gravity, whereas the later terms represent ever smaller corrections to Newton's theory due
+to general relativity.[61] An extension of this expansion is the parametrized post-Newtonian (PPN)
+formalism, which allows quantitative comparisons between the predictions of general relativity and
+alternative theories.[62]
+General relativity has a number of physical consequences. Some follow directly from the theory's
+axioms, whereas others have become clear only in the course of many years of research that followed
+Einstein's initial publication.
+Assuming that the equivalence principle holds,[63] gravity influences the passage of time. Light sent
+down into a gravity well is blueshifted, whereas light sent in the opposite direction (i.e., climbing out
+of the gravity well) is redshifted; collectively, these two effects are known as the gravitational
+frequency shift. More generally, processes close to a massive body run more slowly when compared
+with processes taking place farther away; this effect is known as gravitational time dilation.[64]
+Gravitational redshift has been measured in the laboratory[65] and using astronomical
+observations.[66] Gravitational time dilation in the Earth's gravitational field has been measured
+numerous times using atomic clocks,[67] while ongoing validation is provided as a side effect of the
+operation of the Global Positioning System (GPS).[68] Tests in stronger gravitational fields are
+Consequences of Einstein's theory
+Gravitational time dilation and frequency shift
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+9/55

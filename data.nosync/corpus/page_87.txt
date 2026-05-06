@@ -1,0 +1,54 @@
+80. Einstein, A (31 January 1918). "Über Gravitationswellen" (https://web.archive.org/web/201903210
+62928/http://einstein-annalen.mpiwg-berlin.mpg.de/related_texts/sitzungsberichte).
+Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften Berlin (part 1): 154–
+167. Bibcode:1918SPAW.......154E (https://ui.adsabs.harvard.edu/abs/1918SPAW.......154E).
+Archived from the original (http://einstein-annalen.mpiwg-berlin.mpg.de/related_texts/sitzungsberic
+hte) on 21 March 2019. Retrieved 12 February 2016.
+81. Castelvecchi, Davide; Witze, Witze (11 February 2016). "Einstein's gravitational waves found at
+last" (https://www.nature.com/news/einstein-s-gravitational-waves-found-at-last-1.19361). Nature
+News. doi:10.1038/nature.2016.19361 (https://doi.org/10.1038%2Fnature.2016.19361).
+S2CID 182916902 (https://api.semanticscholar.org/CorpusID:182916902). Retrieved 11 February
+2016.
+82. B. P. Abbott; et al. (LIGO Scientific Collaboration and Virgo Collaboration) (2016). "Observation of
+Gravitational Waves from a Binary Black Hole Merger". Physical Review Letters. 116 (6) 061102.
+arXiv:1602.03837 (https://arxiv.org/abs/1602.03837). Bibcode:2016PhRvL.116f1102A (https://ui.ad
+sabs.harvard.edu/abs/2016PhRvL.116f1102A). doi:10.1103/PhysRevLett.116.061102 (https://doi.o
+rg/10.1103%2FPhysRevLett.116.061102). PMID 26918975 (https://pubmed.ncbi.nlm.nih.gov/2691
+8975). S2CID 124959784 (https://api.semanticscholar.org/CorpusID:124959784).
+83. "Gravitational waves detected 100 years after Einstein's prediction" (https://web.archive.org/web/2
+0200619020139/https://www.nsf.gov/news/news_summ.jsp?cntn_id=137628). NSF – National
+Science Foundation. 11 February 2016. Archived from the original (https://www.nsf.gov/news/news
+_summ.jsp?cntn_id=137628) on 19 June 2020. Retrieved 6 April 2018.
+84. Most advanced textbooks on general relativity contain a description of these properties, e.g.
+Schutz 1985, ch. 9
+85. For example Jaranowski & Królak 2005
+86. Rindler 2001, ch. 13
+87. Gowdy 1971, Gowdy 1974
+88. See Lehner 2002 for a brief introduction to the methods of numerical relativity, and Seidel 1998 for
+the connection with gravitational wave astronomy
+89. Schutz 2003, pp. 48–49, Pais 1982, pp. 253–254
+90. Rindler 2001, sec. 11.9
+91. Will 1993, pp. 177–181
+92. In consequence, in the parameterized post-Newtonian formalism (PPN), measurements of this
+effect determine a linear combination of the terms β and γ, cf. Will 2006, sec. 3.5 and Will 1993,
+sec. 7.3
+93. The most precise measurements are VLBI measurements of planetary positions; see Will 1993,
+ch. 5, Will 2006, sec. 3.5, Anderson et al. 1992; for an overview, Ohanian & Ruffini 1994, pp. 406–
+407
+94. Kramer et al. 2006
+95. Dediu, Magdalena & Martín-Vide 2015, p. 141 (https://books.google.com/books?id=XmwiCwAAQ
+BAJ&pg=PA141)
+96. Kramer, M.; Stairs, I. H.; Manchester, R. N.; Wex, N.; Deller, A. T.; Coles, W. A.; Ali, M.; Burgay, M.;
+Camilo, F.; Cognard, I.; Damour, T. (13 December 2021). "Strong-Field Gravity Tests with the
+Double Pulsar" (https://link.aps.org/doi/10.1103/PhysRevX.11.041050). Physical Review X. 11 (4)
+041050. arXiv:2112.06795 (https://arxiv.org/abs/2112.06795). Bibcode:2021PhRvX..11d1050K (htt
+ps://ui.adsabs.harvard.edu/abs/2021PhRvX..11d1050K). doi:10.1103/PhysRevX.11.041050 (http
+s://doi.org/10.1103%2FPhysRevX.11.041050). ISSN 2160-3308 (https://search.worldcat.org/issn/2
+160-3308). S2CID 245124502 (https://api.semanticscholar.org/CorpusID:245124502).
+97. Stairs 2003, Schutz 2003, pp. 317–321, Bartusiak 2000, pp. 70–86
+98. Weisberg & Taylor 2003; for the pulsar discovery, see Hulse & Taylor 1975; for the initial evidence
+for gravitational radiation, see Taylor 1994
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+26/55

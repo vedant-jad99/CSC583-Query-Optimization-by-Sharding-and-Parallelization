@@ -1,0 +1,56 @@
+Belinskii, V. A.; Khalatnikov, I. M.; Lifschitz, E. M. (1971), "Oscillatory approach to the singular
+point in relativistic cosmology", Advances in Physics, 19 (80): 525–573,
+Bibcode:1970AdPhy..19..525B (https://ui.adsabs.harvard.edu/abs/1970AdPhy..19..525B),
+doi:10.1080/00018737000101171 (https://doi.org/10.1080%2F00018737000101171); original
+paper in Russian: Belinsky, V. A.; Lifshits, I. M.; Khalatnikov, E. M. (1970), "Колебательный
+Режим Приближения К Особой Точке В Релятивистской Космологии", Uspekhi Fizicheskikh
+Nauk, 102 (11): 463–500, Bibcode:1970UsFiN.102..463B (https://ui.adsabs.harvard.edu/abs/1970
+UsFiN.102..463B), doi:10.3367/ufnr.0102.197011d.0463 (https://doi.org/10.3367%2Fufnr.0102.197
+011d.0463)
+Bennett, C. L.; Halpern, M.; Hinshaw, G.; Jarosik, N.; Kogut, A.; Limon, M.; Meyer, S. S.; Page, L.;
+et al. (2003), "First Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations:
+Preliminary Maps and Basic Results", Astrophys. J. Suppl. Ser., 148 (1): 1–27, arXiv:astro-
+ph/0302207 (https://arxiv.org/abs/astro-ph/0302207), Bibcode:2003ApJS..148....1B (https://ui.adsa
+bs.harvard.edu/abs/2003ApJS..148....1B), doi:10.1086/377253 (https://doi.org/10.1086%2F37725
+3), S2CID 115601 (https://api.semanticscholar.org/CorpusID:115601)
+Berger, Beverly K. (2002), "Numerical Approaches to Spacetime Singularities", Living Reviews in
+Relativity, 5 (1) 1, arXiv:gr-qc/0201056 (https://arxiv.org/abs/gr-qc/0201056),
+Bibcode:2002LRR.....5....1B (https://ui.adsabs.harvard.edu/abs/2002LRR.....5....1B),
+doi:10.12942/lrr-2002-1 (https://doi.org/10.12942%2Flrr-2002-1), PMC 5256073 (https://www.ncbi.
+nlm.nih.gov/pmc/articles/PMC5256073), PMID 28179859 (https://pubmed.ncbi.nlm.nih.gov/28179
+859)
+Bergström, Lars; Goobar, Ariel (2003), Cosmology and Particle Astrophysics (https://archive.org/d
+etails/cosmologyparticl0000berg) (2nd ed.), Wiley & Sons, ISBN 978-3-540-43128-2
+Bertotti, Bruno; Ciufolini, Ignazio; Bender, Peter L. (1987), "New test of general relativity:
+Measurement of de Sitter geodetic precession rate for lunar perigee", Physical Review Letters, 58
+(11): 1062–1065, Bibcode:1987PhRvL..58.1062B (https://ui.adsabs.harvard.edu/abs/1987PhRvL..
+58.1062B), doi:10.1103/PhysRevLett.58.1062 (https://doi.org/10.1103%2FPhysRevLett.58.1062),
+PMID 10034329 (https://pubmed.ncbi.nlm.nih.gov/10034329)
+Bertotti, Bruno; Iess, L.; Tortora, P. (2003), "A test of general relativity using radio links with the
+Cassini spacecraft", Nature, 425 (6956): 374–376, Bibcode:2003Natur.425..374B (https://ui.adsab
+s.harvard.edu/abs/2003Natur.425..374B), doi:10.1038/nature01997 (https://doi.org/10.1038%2Fna
+ture01997), PMID 14508481 (https://pubmed.ncbi.nlm.nih.gov/14508481), S2CID 4337125 (http
+s://api.semanticscholar.org/CorpusID:4337125)
+Bertschinger, Edmund (1998), "Simulations of structure formation in the universe", Annu. Rev.
+Astron. Astrophys., 36 (1): 599–654, Bibcode:1998ARA&A..36..599B (https://ui.adsabs.harvard.ed
+u/abs/1998ARA&A..36..599B), doi:10.1146/annurev.astro.36.1.599 (https://doi.org/10.1146%2Fan
+nurev.astro.36.1.599)
+Birrell, N. D.; Davies, P. C. (1984), Quantum Fields in Curved Space, Cambridge University Press,
+ISBN 978-0-521-27858-4
+Blair, David; McNamara, Geoff (1997), Ripples on a Cosmic Sea. The Search for Gravitational
+Waves (https://archive.org/details/isbn_9780738201375), Perseus, ISBN 978-0-7382-0137-5
+Blanchet, L.; Faye, G.; Iyer, B. R.; Sinha, S. (2008), "The third post-Newtonian gravitational wave
+polarisations and associated spherical harmonic modes for inspiralling compact binaries in quasi-
+circular orbits", Classical and Quantum Gravity, 25 (16) 165003, arXiv:0802.1249 (https://arxiv.org/
+abs/0802.1249), Bibcode:2008CQGra..25p5003B (https://ui.adsabs.harvard.edu/abs/2008CQGr
+a..25p5003B), doi:10.1088/0264-9381/25/16/165003 (https://doi.org/10.1088%2F0264-9381%2F2
+5%2F16%2F165003), S2CID 54608927 (https://api.semanticscholar.org/CorpusID:54608927)
+Blanchet, Luc (2006), "Gravitational Radiation from Post-Newtonian Sources and Inspiralling
+Compact Binaries", Living Reviews in Relativity, 9 (1) 4, Bibcode:2006LRR.....9....4B (https://ui.ad
+sabs.harvard.edu/abs/2006LRR.....9....4B), doi:10.12942/lrr-2006-4 (https://doi.org/10.12942%2Flr
+r-2006-4), PMC 5255899 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5255899),
+PMID 28179874 (https://pubmed.ncbi.nlm.nih.gov/28179874)
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+34/55

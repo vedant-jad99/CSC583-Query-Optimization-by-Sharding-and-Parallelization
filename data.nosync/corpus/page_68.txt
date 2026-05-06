@@ -1,0 +1,30 @@
+In general relativity, the world line of a particle free from all external, non-gravitational force is a
+particular type of geodesic in curved spacetime. In other words, a freely moving or falling particle
+always moves along a geodesic.
+The geodesic equation is:
+where  is a scalar parameter of motion (e.g. the proper time), and 
+ are Christoffel symbols
+(sometimes called the affine connection coefficients or Levi-Civita connection coefficients) which is
+symmetric in the two lower indices. Greek indices may take the values: 0, 1, 2, 3 and the summation
+convention is used for repeated indices  and . The quantity on the left-hand-side of this equation is
+the acceleration of a particle, and so this equation is analogous to Newton's laws of motion which
+likewise provide formulae for the acceleration of a particle. This equation of motion employs the
+Einstein notation, meaning that repeated indices are summed (i.e. from zero to three). The Christoffel
+symbols are functions of the four spacetime coordinates, and so are independent of the velocity or
+acceleration or other characteristics of a test particle whose motion is described by the geodesic
+equation.
+In general relativity, the effective gravitational potential energy of an object of mass m revolving
+around a massive central body M is given by[43][44]
+A conservative total force can then be obtained as its negative gradient
+where L is the angular momentum. The first term represents the force of Newtonian gravity, which is
+described by the inverse-square law. The second term represents the centrifugal force in the circular
+motion. The third term represents the relativistic effect.
+There are alternatives to general relativity built upon the same premises, which include additional
+rules and/or constraints, leading to different field equations. Examples are Whitehead's theory,
+Brans–Dicke theory, teleparallelism, f(R) gravity and Einstein–Cartan theory.[45]
+Total force in general relativity
+Alternatives to general relativity
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+7/55

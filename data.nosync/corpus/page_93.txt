@@ -1,0 +1,55 @@
+Arnold, V. I. (1989), Mathematical Methods of Classical Mechanics, Springer, ISBN 978-3-540-
+96890-0
+Arnowitt, Richard; Deser, Stanley; Misner, Charles W. (1962), "The dynamics of general relativity",
+in Witten, Louis (ed.), Gravitation: An Introduction to Current Research, Wiley, pp. 227–265
+Arun, K.G.; Blanchet, L.; Iyer, B. R.; Qusailah, M. S. S. (2008), "Inspiralling compact binaries in
+quasi-elliptical orbits: The complete 3PN energy flux", Physical Review D, 77 (6) 064035,
+arXiv:0711.0302 (https://arxiv.org/abs/0711.0302), Bibcode:2008PhRvD..77f4035A (https://ui.adsa
+bs.harvard.edu/abs/2008PhRvD..77f4035A), doi:10.1103/PhysRevD.77.064035 (https://doi.org/10.
+1103%2FPhysRevD.77.064035), S2CID 55825202 (https://api.semanticscholar.org/CorpusID:558
+25202)
+Ashby, Neil (2002), "Relativity and the Global Positioning System" (http://www.ipgp.jussieu.fr/~tara
+ntola/Files/Professional/GPS/Neil_Ashby_Relativity_GPS.pdf) (PDF), Physics Today, 55 (5): 41–
+47, Bibcode:2002PhT....55e..41A (https://ui.adsabs.harvard.edu/abs/2002PhT....55e..41A),
+doi:10.1063/1.1485583 (https://doi.org/10.1063%2F1.1485583)
+Ashby, Neil (2003), "Relativity in the Global Positioning System", Living Reviews in Relativity, 6 (1)
+1, Bibcode:2003LRR.....6....1A (https://ui.adsabs.harvard.edu/abs/2003LRR.....6....1A),
+doi:10.12942/lrr-2003-1 (https://doi.org/10.12942%2Flrr-2003-1), PMC 5253894 (https://www.ncbi.
+nlm.nih.gov/pmc/articles/PMC5253894), PMID 28163638 (https://pubmed.ncbi.nlm.nih.gov/28163
+638)
+Ashtekar, Abhay (1986), "New variables for classical and quantum gravity", Phys. Rev. Lett., 57
+(18): 2244–2247, Bibcode:1986PhRvL..57.2244A (https://ui.adsabs.harvard.edu/abs/1986PhRvL..
+57.2244A), doi:10.1103/PhysRevLett.57.2244 (https://doi.org/10.1103%2FPhysRevLett.57.2244),
+PMID 10033673 (https://pubmed.ncbi.nlm.nih.gov/10033673)
+Ashtekar, Abhay (1987), "New Hamiltonian formulation of general relativity", Phys. Rev. D, 36 (6):
+1587–1602, Bibcode:1987PhRvD..36.1587A (https://ui.adsabs.harvard.edu/abs/1987PhRvD..36.1
+587A), doi:10.1103/PhysRevD.36.1587 (https://doi.org/10.1103%2FPhysRevD.36.1587),
+PMID 9958340 (https://pubmed.ncbi.nlm.nih.gov/9958340)
+Ashtekar, Abhay (2007), "Loop Quantum Gravity: Four Recent Advances and a Dozen Frequently
+Asked Questions", Proceedings of the Eleventh Marcel Grossmann Meeting Meeting on General
+Relativity, The Eleventh Marcel Grossmann Meeting on Recent Developments in Theoretical and
+Experimental General Relativity, p. 126, arXiv:0705.2222 (https://arxiv.org/abs/0705.2222),
+Bibcode:2008mgm..conf..126A (https://ui.adsabs.harvard.edu/abs/2008mgm..conf..126A),
+doi:10.1142/9789812834300_0008 (https://doi.org/10.1142%2F9789812834300_0008), ISBN 978-
+981-283-426-3, S2CID 119663169 (https://api.semanticscholar.org/CorpusID:119663169)
+Ashtekar, Abhay; Krishnan, Badri (2004), "Isolated and Dynamical Horizons and Their
+Applications", Living Reviews in Relativity, 7 (1): 10, arXiv:gr-qc/0407042 (https://arxiv.org/abs/gr-q
+c/0407042), Bibcode:2004LRR.....7...10A (https://ui.adsabs.harvard.edu/abs/2004LRR.....7...10A),
+doi:10.12942/lrr-2004-10 (https://doi.org/10.12942%2Flrr-2004-10), PMC 5253930 (https://www.nc
+bi.nlm.nih.gov/pmc/articles/PMC5253930), PMID 28163644 (https://pubmed.ncbi.nlm.nih.gov/2816
+3644)
+Ashtekar, Abhay; Lewandowski, Jerzy (2004), "Background Independent Quantum Gravity: A
+Status Report", Class. Quantum Grav., 21 (15): R53–R152, arXiv:gr-qc/0404018 (https://arxiv.org/
+abs/gr-qc/0404018), Bibcode:2004CQGra..21R..53A (https://ui.adsabs.harvard.edu/abs/2004CQG
+ra..21R..53A), doi:10.1088/0264-9381/21/15/R01 (https://doi.org/10.1088%2F0264-9381%2F21%
+2F15%2FR01), S2CID 119175535 (https://api.semanticscholar.org/CorpusID:119175535)
+Ashtekar, Abhay; Magnon-Ashtekar, Anne (1979), "On conserved quantities in general relativity",
+Journal of Mathematical Physics, 20 (5): 793–800, Bibcode:1979JMP....20..793A (https://ui.adsab
+s.harvard.edu/abs/1979JMP....20..793A), doi:10.1063/1.524151 (https://doi.org/10.1063%2F1.524
+151)
+Auyang, Sunny Y. (1995), How is Quantum Field Theory Possible?, Oxford University Press,
+ISBN 978-0-19-509345-2
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+32/55

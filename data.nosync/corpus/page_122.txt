@@ -1,0 +1,40 @@
+model of quantum gravity, however, as it occurs when the black hole's mass approaches 1 Planck
+mass, its radius will also approach two Planck lengths.
+The simplest models of black hole evaporation lead to the black hole information paradox. The
+information content of a black hole appears to be lost when it dissipates, as under these models
+the Hawking radiation is random (it has no relation to the original information). A number of
+solutions to this problem have been proposed, including suggestions that Hawking radiation is
+perturbed to contain the missing information, that the Hawking evaporation leaves some form of
+remnant particle containing the missing information, and that information is allowed to be lost
+under these conditions.
+The relationship between mass and temperature for Hawking radiation then implies the mass would
+need to be less than 0.8% of the mass of the Earth. This in turn means any black hole that could
+dissipate cannot be one created by stellar collapse. Only primordial black holes might be created with
+this little mass.[21]
+Hawking estimated that any black hole formed in the early universe with a mass of less than
+approximately 1012 kg would have evaporated completely by the present day.[22]
+In 1976, Don Page refined this estimate by calculating the power produced, and the time to
+evaporation, for a non-rotating, non-charged Schwarzschild black hole of mass M.[17] The calculations
+are complicated by the fact that a black hole, being of finite size, is not a perfect black body; the
+absorption cross section goes down in a complicated, spin-dependent manner as frequency decreases,
+especially when the wavelength becomes comparable to the size of the event horizon. Page concluded
+that primordial black holes could survive to the present day only if their initial mass were roughly
+4 ×1011  kg or larger. Writing in 1976, Page using the understanding of neutrinos at the time
+erroneously worked on the assumption that neutrinos have no mass and that only two neutrino flavors
+exist, and therefore his results of black hole lifetimes do not match the modern results which take into
+account 3 flavors of neutrinos with nonzero masses. A 2008 calculation using the particle content of
+the Standard Model and the WMAP figure for the age of the universe yielded a mass bound of
+(5.00 ± 0.04) ×1011 kg.[23]
+Some pre-1998 calculations, using outdated assumptions about neutrinos, were as follows: If black
+holes evaporate under Hawking radiation, a solar mass black hole will evaporate over 1064 years
+which is vastly longer than the age of the universe.[24] A supermassive black hole with a mass of 1011
+(100 billion) M☉ will evaporate in around 2 ×10100 years.[17]: 3263  Some monster black holes in the
+universe are predicted to continue to grow up to perhaps 1014 M☉ during the collapse of superclusters
+of galaxies. Even these would evaporate over a timescale of up to 2 × 10106 years.[24] Post-1998 science
+modifies these results slightly; for example, the modern estimate of a solar-mass black hole lifetime is
+1067 years.[25]
+Evaporation of primordial black holes
+4/10/26, 3:47 PM
+Hawking radiation - Wikipedia
+https://en.wikipedia.org/wiki/Hawking_radiation
+6/17

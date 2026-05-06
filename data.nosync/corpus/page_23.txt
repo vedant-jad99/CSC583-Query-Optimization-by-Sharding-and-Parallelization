@@ -1,0 +1,57 @@
+Robert A. Millikan, Georges Lemaître and
+Einstein at the California Institute of
+Technology in January 1933
+which brings the concept of a finite speed of propagation of the physical interactions of gravity with it.
+By contrast, gravitational waves cannot exist in the Newtonian theory of gravitation, which postulates
+that the physical interactions of gravity propagate at infinite speed.
+The first, indirect, detection of gravitational waves came in the 1970s through observation of a pair of
+closely orbiting neutron stars, PSR B1913+16.[248] The explanation for the decay in their orbital period
+was that they were emitting gravitational waves.[248][249] Einstein's prediction was confirmed on 11
+February 2016, when researchers at LIGO published the first observation of gravitational waves,[250]
+detected 
+on 
+Earth 
+on 
+14 
+September 
+2015, 
+nearly 
+one 
+hundred 
+years 
+after 
+the
+prediction.[248][251][252][253][254]
+While developing general relativity, Einstein became confused about the gauge invariance in the
+theory. He formulated an argument that led him to conclude that a general relativistic field theory is
+impossible. He gave up looking for fully generally covariant tensor equations and searched for
+equations that would be invariant under general linear transformations only.[255]
+In June 1913, the Entwurf ('draft') theory was the result of these investigations. As its name suggests,
+it was a sketch of a theory, less elegant and more difficult than general relativity, with the equations of
+motion supplemented by additional gauge fixing conditions. After more than two years of intensive
+work, Einstein realized that the hole argument was mistaken[256] and abandoned the theory in
+November 1915.
+In 1917, Einstein applied the general theory of relativity to the
+structure of the universe as a whole.[257][12] He discovered
+that the general field equations predicted a universe that was
+dynamic, either contracting or expanding. As observational
+evidence for a dynamic universe was lacking at the time,
+Einstein introduced a new term, the cosmological constant,
+into the field equations, in order to allow the theory to predict
+a static universe. The modified field equations predicted a
+static universe of closed curvature, in accordance with
+Einstein's understanding of Mach's principle in these years.
+This model became known as the Einstein World or Einstein's
+static universe.[258][259] This paper is widely regarded as
+marking the emergence of modern theoretical cosmology.[260]
+Following the discovery of the recession of the galaxies by
+Edwin Hubble in 1929, Einstein abandoned his static model of the universe, and proposed two
+dynamic models of the cosmos, the Friedmann–Einstein universe of 1931[261][262] and the Einstein–
+de Sitter universe of 1932.[263][264] In each of these models, Einstein discarded the cosmological
+constant, claiming that it was "in any case theoretically unsatisfactory".[261][262][265]
+Hole argument and Entwurf theory
+Physical cosmology
+4/10/26, 3:50 PM
+Albert Einstein - Wikipedia
+https://en.wikipedia.org/wiki/Albert_Einstein
+23/61

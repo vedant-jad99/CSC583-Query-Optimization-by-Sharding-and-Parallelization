@@ -1,0 +1,55 @@
+According to general relativity, objects in
+a gravitational field behave similarly to
+objects within an accelerating enclosure.
+For example, an observer will see a ball
+fall the same way in a rocket (left) as it
+does on Earth (right), provided that the
+acceleration of the rocket is equal to
+9.8 m/s2 (the acceleration due to gravity
+on the surface of the Earth).
+standard reference frames of classical mechanics, objects in
+free motion move along straight lines at constant speed. In
+modern parlance, their paths are geodesics, straight world
+lines in curved spacetime.[27]
+Conversely, one might expect that inertial motions, once
+identified by observing the actual motions of bodies and
+making allowances for the external forces (such as
+electromagnetism or friction), can be used to define the
+geometry of space, as well as a time coordinate. However,
+there is an ambiguity once gravity comes into play. According
+to Newton's law of gravity, and independently verified by
+experiments such as that of Eötvös and its successors (see
+Eötvös experiment), there is a universality of free fall (also
+known as the weak equivalence principle, or the universal
+equality of inertial and passive-gravitational mass): the
+trajectory of a test body in free fall depends only on its
+position and initial speed, but not on any of its material
+properties.[28] A simplified version of this is embodied in
+Einstein's elevator experiment, illustrated in the figure on the right: for an observer in an
+enclosed room, it is impossible to decide, by mapping the trajectory of bodies such as a dropped ball,
+whether the room is stationary in a gravitational field and the ball accelerating, or in free space aboard
+a rocket that is accelerating at a rate equal to that of the gravitational field versus the ball which upon
+release has nil acceleration.[29]
+Given the universality of free fall, there is no observable distinction between inertial motion and
+motion under the influence of the gravitational force. This suggests the definition of a new class of
+inertial motion, namely that of objects in free fall under the influence of gravity. This new class of
+preferred motions, too, defines a geometry of space and time—in mathematical terms, it is the
+geodesic motion associated with a specific connection which depends on the gradient of the
+gravitational potential. Space, in this construction, still has the ordinary Euclidean geometry.
+However, spacetime as a whole is more complicated. As can be shown using simple thought
+experiments following the free-fall trajectories of different test particles, the result of transporting
+spacetime vectors that can denote a particle's velocity (time-like vectors) will vary with the particle's
+trajectory; mathematically speaking, the Newtonian connection is not integrable. From this, one can
+deduce that spacetime is curved. The resulting Newton–Cartan theory is a geometric formulation of
+Newtonian gravity using only covariant concepts, i.e. a description which is valid in any desired
+coordinate system.[30] In this geometric description, tidal effects—the relative acceleration of bodies
+in free fall—are related to the derivative of the connection, showing how the modified geometry is
+caused by the presence of mass.[31]
+As intriguing as geometric Newtonian gravity may be, its basis, classical mechanics, is merely a
+limiting case of (special) relativistic mechanics.[32] In the language of symmetry: where gravity can be
+neglected, physics is Lorentz invariant as in special relativity rather than Galilei invariant as in
+Relativistic generalization
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+4/55

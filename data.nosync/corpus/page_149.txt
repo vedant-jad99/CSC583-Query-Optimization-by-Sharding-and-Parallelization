@@ -1,0 +1,50 @@
+In the mathematically rigorous formulation of quantum mechanics, the state of a quantum
+mechanical system is a vector 
+ belonging to a (separable) complex Hilbert space 
+. This vector is
+postulated to be normalized under the Hilbert space inner product, that is, it obeys 
+, and it
+is well-defined up to a complex number of modulus 1 (the global phase), that is,  and 
+ represent
+the same physical system. In other words, the possible states are points in the projective space of a
+Hilbert space, usually called the complex projective space. The exact nature of this Hilbert space is
+dependent on the system – for example, for describing position and momentum the Hilbert space is
+the space of complex square-integrable functions 
+,[20]: 13  while the Hilbert space for the spin of
+a single proton is simply the space of two-dimensional complex vectors 
+ with the usual inner
+product.[20]: 20 
+Physical quantities of interest – position, momentum, energy, spin – are represented by observables,
+which are Hermitian (more precisely, self-adjoint) linear operators acting on the Hilbert space.[20]: 17 
+A quantum state can be an eigenvector of an observable, in which case it is called an eigenstate, and
+the associated eigenvalue corresponds to the value of the observable in that eigenstate. More
+generally, a quantum state will be a linear combination of the eigenstates, known as a quantum
+superposition. When an observable is measured, the result will be one of its eigenvalues with
+probability given by the Born rule: in the simplest case the eigenvalue  is non-degenerate and the
+probability is given by 
+, where  is its associated unit-length eigenvector. More generally, the
+eigenvalue is degenerate and the probability is given by 
+, where 
+ is the projector onto its
+associated eigenspace.[21] In the continuous case, these formulas give instead the probability density.
+After the measurement, if result  was obtained, the quantum state is postulated to collapse to , in
+the non-degenerate case, or to 
+, in the general case. The probabilistic nature of
+quantum mechanics thus stems from the act of measurement. This is one of the most debated aspects
+of quantum theory, with different interpretations of quantum mechanics giving radically different
+answers to questions regarding quantum-state collapse, as discussed below.
+The time evolution of a quantum state is described by the Schrödinger equation:
+Here 
+ denotes the Hamiltonian, the observable corresponding to the total energy of the system, and
+ is the reduced Planck constant. The constant 
+ is introduced so that the Hamiltonian is reduced to
+the classical Hamiltonian in cases where the quantum system can be approximated by a classical
+system; the ability to make such an approximation in certain limits is called the correspondence
+principle.
+The solution of this differential equation is given by
+Mathematical formulation
+Time evolution of a quantum state
+4/10/26, 3:51 PM
+Quantum mechanics - Wikipedia
+https://en.wikipedia.org/wiki/Quantum_mechanics
+4/28

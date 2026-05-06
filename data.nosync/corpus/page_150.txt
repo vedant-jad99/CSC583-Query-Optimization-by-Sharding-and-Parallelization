@@ -1,0 +1,90 @@
+Fig. 1: Probability densities corresponding to the
+wave functions of an electron in a hydrogen atom
+possessing definite energy levels (increasing from
+the top of the image to the bottom: n = 1, 2, 3, ...)
+and angular momenta (increasing across from left
+to right: s, p, d, ...). Denser areas correspond to
+higher probability density in a position
+measurement.
+Such wave functions are directly comparable to
+Chladni's figures of acoustic modes of vibration in
+classical physics and are modes of oscillation as
+well, possessing a sharp energy and thus, a
+definite frequency. The angular momentum and
+energy are quantized and take only discrete values
+like those shown – as is the case for resonant
+frequencies in acoustics.
+The operator 
+ is known as the time-evolution operator, and has the crucial property
+that it is unitary. This time evolution is deterministic in the sense that – given an initial quantum state
+ – it makes a definite prediction of what the quantum state 
+ will be at any later time.[22]
+Some 
+wave 
+functions 
+produce 
+probability
+distributions that are independent of time, such as
+eigenstates of the Hamiltonian.[7]: 133–137  Many
+systems that are treated dynamically in classical
+mechanics are described by such "static" wave
+functions. For example, a single electron in an
+unexcited atom is pictured classically as a particle
+moving in a circular trajectory around the atomic
+nucleus, whereas in quantum mechanics, it is
+described by a static wave function surrounding the
+nucleus. For example, the electron wave function for
+an unexcited hydrogen atom is a spherically
+symmetric function known as an s orbital (Fig. 1).
+Analytic solutions of the Schrödinger equation are
+known 
+for 
+very 
+few 
+relatively 
+simple 
+model
+Hamiltonians including the quantum harmonic
+oscillator, the particle in a box, the dihydrogen cation,
+and the hydrogen atom. Even the helium atom  –
+which contains just two electrons  – has defied all
+attempts at a fully analytic treatment, admitting no
+solution in closed form.[23][24][25]
+However, 
+there 
+are 
+techniques 
+for 
+finding
+approximate 
+solutions. 
+One 
+method, 
+called
+perturbation theory, uses the analytic result for a
+simple quantum mechanical model to create a result
+for a related but more complicated model by (for
+example) 
+the 
+addition 
+of 
+a 
+weak 
+potential
+energy.[7]: 793  Another approximation method applies
+to systems for which quantum mechanics produces
+only small deviations from classical behavior. These
+deviations can then be computed based on the classical motion.[7]: 849 
+One consequence of the basic quantum formalism is the uncertainty principle. In its most familiar
+form, this states that no preparation of a quantum particle can imply simultaneously precise
+predictions both for a measurement of its position and for a measurement of its momentum.[26][27]
+Both position and momentum are observables, meaning that they are represented by Hermitian
+operators. The position operator 
+ and momentum operator 
+ do not commute, but rather satisfy
+the canonical commutation relation:
+Uncertainty principle
+4/10/26, 3:51 PM
+Quantum mechanics - Wikipedia
+https://en.wikipedia.org/wiki/Quantum_mechanics
+5/28

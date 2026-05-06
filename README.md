@@ -44,14 +44,14 @@ make clean && make PHASE=1 CORPUS=<corpus_name>
 
 ```bash
 make clean && make PHASE=2 CORPUS=<corpus_name>
-./run_engine shards/ --shards 4 --interactive
+./run_engine shards/ --interactive
 ```
 
 ### Phase 3 — Sharded index, parallel query execution
 
 ```bash
 make clean && make PHASE=3 CORPUS=<corpus_name>
-./run_engine shards/ --shards 4 --interactive
+./run_engine shards/
 ```
 
 ### Query syntax

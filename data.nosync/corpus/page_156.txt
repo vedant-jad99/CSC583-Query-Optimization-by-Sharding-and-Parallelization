@@ -1,0 +1,50 @@
+Schematic of a Mach–Zehnder interferometer
+equations. It can be seen as a simplified version of
+the double-slit experiment, but it is of interest in
+its own right, for example in the delayed choice
+quantum eraser, the Elitzur–Vaidman bomb
+tester, 
+and 
+in 
+studies 
+of 
+quantum
+entanglement.[36][37]
+We can model a photon going through the
+interferometer by considering that at each point it
+can be in a superposition of only two paths: the
+"lower" path which starts from the left, goes
+straight through both beam splitters, and ends at
+the top, and the "upper" path which starts from the
+bottom, goes straight through both beam splitters, and ends at the right. The quantum state of the
+photon is therefore a vector 
+ that is a superposition of the "lower" path 
+ and the
+"upper" path 
+, that is, 
+ for complex 
+. In order to respect the postulate
+that 
+ we require that 
+.
+Both beam splitters are modelled as the unitary matrix 
+, which means that when a
+photon meets the beam splitter it will either stay on the same path with a probability amplitude of
+, or be reflected to the other path with a probability amplitude of 
+. The phase shifter on the
+upper arm is modelled as the unitary matrix 
+, which means that if the photon is on
+the "upper" path it will gain a relative phase of 
+, and it will stay unchanged if it is in the lower path.
+A photon that enters the interferometer from the left will then be acted upon with a beam splitter 
+, a
+phase shifter 
+, and another beam splitter 
+, and so end up in the state
+and the probabilities that it will be detected at the right or at the top are given respectively by
+One can therefore use the Mach–Zehnder interferometer to estimate the phase shift by estimating
+these probabilities.
+4/10/26, 3:51 PM
+Quantum mechanics - Wikipedia
+https://en.wikipedia.org/wiki/Quantum_mechanics
+11/28

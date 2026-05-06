@@ -1,0 +1,54 @@
+128. For stellar end states, cf. Oppenheimer & Snyder 1939 or, for more recent numerical work, Font
+2003, sec. 4.1; for supernovae, there are still major problems to be solved, cf. Buras et al. 2003;
+for simulating accretion and the formation of jets, cf. Font 2003, sec. 4.2. Also, relativistic lensing
+effects are thought to play a role for the signals received from X-ray pulsars, cf. Kraus 1998
+129. The evidence includes limits on compactness from the observation of accretion-driven phenomena
+("Eddington luminosity"), see Celotti, Miller & Sciama 1999, observations of stellar dynamics in the
+center of our own Milky Way galaxy, cf. Schödel et al. 2003, and indications that at least some of
+the compact objects in question appear to have no solid surface, which can be deduced from the
+examination of X-ray bursts for which the central compact object is either a neutron star or a black
+hole; cf. Remillard et al. 2006 for an overview, Narayan 2006, sec. 5. Observations of the
+"shadow" of the Milky Way galaxy's central black hole horizon are eagerly sought, cf. Falcke,
+Melia & Agol 2000
+130. Dalal et al. 2006
+131. Barack & Cutler 2004
+132. Einstein 1917; cf. Pais 1982, pp. 285–288
+133. Carroll 2001, ch. 2
+134. Bergström & Goobar 2003, ch. 9–11; use of these models is justified by the fact that, at large
+scales of around hundred million light-years and more, our universe indeed appears to be isotropic
+and homogeneous, cf. Peebles et al. 1991
+135. E.g. with WMAP data, see Spergel et al. 2003
+136. These tests involve the separate observations detailed further on, see, e.g., fig. 2 in Bridle et al.
+2003
+137. Peebles 1966; for a recent account of predictions, see Coc, Vangioni‐Flam et al. 2004; an
+accessible account can be found in Weiss 2006; compare with the observations in Olive &
+Skillman 2004, Bania, Rood & Balser 2002, O'Meara et al. 2001, and Charbonnel & Primas 2005
+138. Lahav & Suto 2004, Bertschinger 1998, Springel et al. 2005
+139. Alpher & Herman 1948, for a pedagogical introduction, see Bergström & Goobar 2003, ch. 11; for
+the initial detection, see Penzias & Wilson 1965 and, for precision measurements by satellite
+observatories, Mather et al. 1994 (COBE) and Bennett et al. 2003 (WMAP). Future measurements
+could also reveal evidence about gravitational waves in the early universe; this additional
+information is contained in the background radiation's polarization, cf. Kamionkowski, Kosowsky &
+Stebbins 1997 and Seljak & Zaldarriaga 1997
+140. Evidence for this comes from the determination of cosmological parameters and additional
+observations involving the dynamics of galaxies and galaxy clusters cf. Peebles 1993, ch. 18,
+evidence from gravitational lensing, cf. Peacock 1999, sec. 4.6, and simulations of large-scale
+structure formation, see Springel et al. 2005
+141. Peacock 1999, ch. 12, Peskin 2007; in particular, observations indicate that all but a negligible
+portion of that matter is not in the form of the usual elementary particles ("non-baryonic matter"),
+cf. Peacock 1999, ch. 12
+142. Namely, some physicists have questioned whether or not the evidence for dark matter is, in fact,
+evidence for deviations from the Einsteinian (and the Newtonian) description of gravity cf. the
+overview in Mannheim 2006, sec. 9
+143. Carroll 2001; an accessible overview is given in Caldwell 2004. Here, too, scientists have argued
+that the evidence indicates not a new form of energy, but the need for modifications in our
+cosmological models, cf. Mannheim 2006, sec. 10; aforementioned modifications need not be
+modifications of general relativity, they could, for example, be modifications in the way we treat the
+inhomogeneities in the universe, cf. Buchert 2008
+144. A good introduction is Linde 2005; for a more recent review, see Linde 2006
+145. More precisely, these are the flatness problem, the horizon problem, and the monopole problem; a
+pedagogical introduction can be found in Narlikar 1993, sec. 6.4, see also Börner 1993, sec. 9.1
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+28/55

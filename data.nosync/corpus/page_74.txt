@@ -1,0 +1,43 @@
+Orbital decay for PSR
+J0737−3039: time shift, tracked
+over 16 years (2021).[96]
+The first observation of a decrease in orbital period due to the
+emission of gravitational waves was made by Hulse and Taylor, using
+the binary pulsar PSR1913+16 they had discovered in 1974. This was
+the first detection of gravitational waves, albeit indirect, for which
+they were awarded the 1993 Nobel Prize in physics.[98] Since then,
+several other binary pulsars have been found, in particular the double
+pulsar PSR J0737−3039, where both stars are pulsars[99] and which
+was last reported to also be in agreement with general relativity in
+2021 after 16 years of observations.[96]
+Several relativistic effects are directly related to the relativity of
+direction.[100] One is geodetic precession: the axis direction of a
+gyroscope in free fall in curved spacetime will change when
+compared, for instance, with the direction of light received from
+distant stars—even though such a gyroscope represents the way of
+keeping a direction as stable as possible ("parallel transport").[101]
+For the Moon–Earth system, this effect has been measured with the
+help of lunar laser ranging.[102] More recently, it has been measured for test masses aboard the
+satellite Gravity Probe B to a precision of better than 0.3%.[103][104]
+Near a rotating mass, there are gravitomagnetic or frame-dragging effects. A distant observer will
+determine that objects close to the mass get "dragged around". This is most extreme for rotating black
+holes where, for any object entering a zone known as the ergosphere, rotation is inevitable.[105] Such
+effects can again be tested through their influence on the orientation of gyroscopes in free fall.[106]
+Somewhat controversial tests have been performed using the LAGEOS satellites, confirming the
+relativistic prediction.[107] Also the Mars Global Surveyor probe around Mars has been used.[108]
+The deflection of light by gravity is responsible for a new class of astronomical phenomena. If a
+massive object is situated between the astronomer and a distant target object with appropriate mass
+and relative distances, the astronomer will see multiple distorted images of the target. Such effects are
+known as gravitational lensing.[109] Depending on the configuration, scale, and mass distribution,
+there can be two or more images, a bright ring known as an Einstein ring, or partial rings called
+arcs.[110] The earliest example was discovered in 1979;[111] since then, more than a hundred
+gravitational lenses have been observed.[112] Even if the multiple images are too close to each other to
+be resolved, the effect can still be measured, e.g., as an overall brightening of the target object; a
+number of such "microlensing events" have been observed.[113]
+Geodetic precession and frame-dragging
+Astrophysical applications
+Gravitational lensing
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+13/55

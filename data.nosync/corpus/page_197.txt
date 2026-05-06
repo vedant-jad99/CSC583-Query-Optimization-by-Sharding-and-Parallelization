@@ -1,0 +1,39 @@
+Physics portal
+List of contributors to general relativity
+On the Origin of Time, a book by Thomas Hertog about Hawking's theories
+Timeline of gravitational physics and relativity
+a. Attributed to multiple references:[350][351][352][353]
+b. Attributed to multiple references:[16][360][365][366]
+c. By considering the effect of a black hole's event horizon on virtual particle production, Hawking found
+in 1974, much to his surprise, that black holes emit black-body radiation associated with a
+temperature that can be expressed (in the nonspinning case) as:
+where  is black hole temperature,  is the reduced Planck constant,  is the speed of light, 
+ is the
+Newtonian constant of gravitation, 
+ is the mass of the black hole, and  is the Boltzmann constant.
+This relationship between concepts from the disparate fields of general relativity, quantum
+mechanics and thermodynamics implies the existence of deep connections between them and may
+presage their unification. It is inscribed on Hawking's memorial stone.[368] The equation's most
+fundamental implication can be obtained as follows. According to thermodynamics, this temperature
+is associated with an entropy, , such that 
+ where 
+ is the energy of a
+(nonspinning) black hole as expressed with Einstein's formula.[369] Combining equations then gives:
+Now, the radius of a nonspinning black hole is given by 
+ and since its surface area is just
+  can be expressed in terms of surface area as:[370][371]
+where the subscript BH stands for either "black hole" or "Bekenstein–Hawking". This can be
+expressed more simply as a proportionality between two dimensionless ratios:
+where 
+ is the Planck length. Jacob Bekenstein had conjectured the proportionality;
+Hawking confirmed it and established the constant of proportionality at 
+.[26][112] Calculations
+based on string theory, first carried out in 1995, have been found to yield the same result.[372] This
+relationship is conjectured to be valid not just for black holes, but also (since entropy is proportional
+to information) as an upper bound on the amount of information that can be contained in any volume
+of space, which has in turn spawned deeper reflections on the possible nature of reality.
+Notes
+4/10/26, 3:47 PM
+Stephen Hawking - Wikipedia
+https://en.wikipedia.org/wiki/Stephen_Hawking
+24/51

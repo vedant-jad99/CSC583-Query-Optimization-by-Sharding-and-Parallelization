@@ -1,0 +1,39 @@
+The derivation outlined in the previous section contains all the information needed to define general
+relativity, describe its key properties, and address a question of crucial importance in physics, namely
+how the theory can be used for model-building.
+General relativity is a metric theory of gravitation. At its core are Einstein's equations, which describe
+the relation between the geometry of a four-dimensional pseudo-Riemannian manifold representing
+spacetime, and the distribution of energy, momentum and stress contained in that spacetime.[46]
+Phenomena that in classical mechanics are ascribed to the action of the force of gravity (such as free-
+fall, orbital motion, and spacecraft trajectories), correspond to inertial motion within a curved
+geometry of spacetime in general relativity; there is no gravitational force deflecting objects from their
+natural, straight paths. Instead, gravity corresponds to changes in the properties of space and time,
+which in turn changes the straightest-possible paths that objects will naturally follow.[47] The
+curvature is, in turn, caused by the stress–energy of matter. Paraphrasing the relativist John
+Archibald Wheeler, spacetime tells matter how to move; matter tells spacetime how to curve.[48]
+While general relativity replaces the scalar gravitational potential of classical physics by a symmetric
+rank-two tensor, the latter reduces to the former in certain limiting cases. For weak gravitational fields
+and low speed relative to the speed of light, the theory's predictions converge on those of Newton's law
+of universal gravitation.[49]
+As it is constructed using tensors, general relativity exhibits general covariance: its laws—and further
+laws formulated within the general relativistic framework—take on the same form in all coordinate
+systems.[50] Furthermore, the theory does not contain any invariant geometric background structures,
+i.e. it is background-independent. It thus satisfies a more stringent general principle of relativity,
+namely that the laws of physics are the same for all observers.[51] Locally, as expressed in the
+equivalence principle, spacetime is Minkowskian, and the laws of physics exhibit local Lorentz
+invariance.[52]
+The core concept of general-relativistic model-building is that of a solution of Einstein's equations.
+Given both Einstein's equations and suitable equations for the properties of matter, such a solution
+consists of a specific semi-Riemannian manifold (usually defined by giving the metric in specific
+coordinates), and specific matter fields defined on that manifold. Matter and geometry must satisfy
+Einstein's equations, so in particular, the matter's stress–energy tensor must be divergence-free. The
+matter must, of course, also satisfy whatever additional equations were imposed on its properties. In
+short, such a solution is a model universe that satisfies the laws of general relativity, and possibly
+additional laws governing whatever matter might be present.[53]
+Definition and basic applications
+Definition and basic properties
+Model-building and basic applications
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+8/55

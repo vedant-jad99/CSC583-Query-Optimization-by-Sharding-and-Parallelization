@@ -1,0 +1,39 @@
+Some trajectories of a harmonic oscillator (i.e. a
+ball attached to a spring) in classical mechanics
+(A-B) and quantum mechanics (C-H). In quantum
+mechanics, the position of the ball is represented
+by a wave (called the wave function), with the real
+part shown in blue and the imaginary part shown
+in red. Some of the trajectories (such as C, D, E,
+and F) are standing waves (or "stationary states").
+Each standing-wave frequency is proportional to a
+possible energy level of the oscillator. This
+"energy quantization" does not occur in classical
+physics, where the oscillator can have any
+energy.
+A finite potential well is the generalization of the infinite potential well problem to potential wells
+having finite depth. The finite potential well problem is mathematically more complicated than the
+infinite particle-in-a-box problem as the wave function is not pinned to zero at the walls of the well.
+Instead, the wave function must satisfy more complicated mathematical boundary conditions as it is
+nonzero in regions outside the well. Another related problem is that of the rectangular potential
+barrier, which furnishes a model for the quantum tunneling effect that plays an important role in the
+performance of modern technologies such as flash memory and scanning tunneling microscopy.
+As in the classical case, the potential for the quantum
+harmonic oscillator is given by[7]: 234 
+This problem can either be treated by directly solving
+the Schrödinger equation, which is not trivial, or by
+using the more elegant "ladder method" first proposed
+by Paul Dirac. The eigenstates are given by
+where Hn are the Hermite polynomials
+and the corresponding energy levels are
+This is another example illustrating the discretization
+of energy for bound states.
+The Mach–Zehnder interferometer (MZI) illustrates
+the concepts of superposition and interference with
+linear algebra in dimension 2, rather than differential
+Harmonic oscillator
+Mach–Zehnder interferometer
+4/10/26, 3:51 PM
+Quantum mechanics - Wikipedia
+https://en.wikipedia.org/wiki/Quantum_mechanics
+10/28

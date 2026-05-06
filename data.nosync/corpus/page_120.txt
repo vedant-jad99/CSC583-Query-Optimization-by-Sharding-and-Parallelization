@@ -1,0 +1,24 @@
+and r is the near-horizon position, near 2M, so this is really
+Thus a field theory defined on a black-hole background is in a thermal state whose temperature at
+infinity is
+For a black hole mass equal to the Earth, this temperature would be 10−12 K. The wavelength of a
+typical quantum of Hawking radiation is similar to the size of the black hole.[16]
+From the black-hole temperature, it is straightforward to calculate the black-hole entropy S. The
+change in entropy when a quantity of heat dQ is added is
+The heat energy that enters serves to increase the total mass, so
+So the entropy of a black hole is proportional to its surface area:
+where, since the radius of the black hole is twice its mass, we have that the area A is given by
+Assuming that a small black hole has zero entropy, the integration constant is zero. Forming a black
+hole is the most efficient way to compress mass into a region, and this entropy is also a bound on the
+information content of any sphere in space time. The form of the result strongly suggests that the
+physical description of a gravitating theory can be somehow encoded onto a bounding surface.
+When particles escape, the black hole loses a small amount of its energy and therefore some of its
+mass (mass and energy are related by Einstein's equation E = mc2). Consequently, an evaporating
+black hole will have a finite lifespan. By dimensional analysis, the life span of a black hole can be
+shown to scale as the cube of its initial mass.[17][18]: 176–177  The time that the black hole takes to
+dissipate is:[19][20]
+Black hole evaporation
+4/10/26, 3:47 PM
+Hawking radiation - Wikipedia
+https://en.wikipedia.org/wiki/Hawking_radiation
+4/17

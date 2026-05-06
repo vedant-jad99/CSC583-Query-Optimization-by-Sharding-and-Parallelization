@@ -1,0 +1,45 @@
+The ergosphere of a rotating black hole,
+which plays a key role when it comes to
+extracting energy from such a black hole
+relevant length scale is the Schwarzschild radius, given by the equation 
+[156]), no light
+from inside can escape to the outside. Since no object can overtake a light pulse, all interior matter is
+imprisoned as well. Passage from the exterior to the interior is still possible, showing that the
+boundary, the black hole's horizon, is not a physical barrier.[157]
+Early studies of black holes relied on explicit solutions of
+Einstein's equations, notably the spherically symmetric
+Schwarzschild solution (used to describe a static black hole)
+and the axisymmetric Kerr solution (used to describe a
+rotating, stationary black hole, and introducing interesting
+features such as the ergosphere). Using global geometry, later
+studies have revealed more general properties of black holes.
+With time they become rather simple objects characterized by
+eleven parameters specifying: electric charge, mass–energy,
+linear momentum, angular momentum, and location at a
+specified time. This is stated by the black hole uniqueness
+theorem: "black holes have no hair", that is, no distinguishing
+marks like the hairstyles of humans. Irrespective of the
+complexity of a gravitating object collapsing to form a black hole, the object that results (having
+emitted gravitational waves) is very simple.[158]
+Even more remarkably, there is a general set of laws known as black hole mechanics, which is
+analogous to the laws of thermodynamics. For instance, by the second law of black hole mechanics,
+the area of the event horizon of a general black hole will never decrease with time, analogous to the
+entropy of a thermodynamic system. This limits the energy that can be extracted by classical means
+from a rotating black hole (e.g. by the Penrose process).[159] There is strong evidence that the laws of
+black hole mechanics are, in fact, a subset of the laws of thermodynamics, and that the black hole area
+is proportional to its entropy.[160] This leads to a modification of the original laws of black hole
+mechanics: for instance, as the second law of black hole mechanics becomes part of the second law of
+thermodynamics, it is possible for the black hole area to decrease as long as other processes ensure
+that entropy increases overall. As thermodynamical objects with nonzero temperature, black holes
+should emit thermal radiation. Semiclassical calculations indicate that indeed they do, with the
+surface gravity playing the role of temperature in Planck's law. This radiation is known as Hawking
+radiation (cf. the quantum theory section, below).[161]
+There are many other types of horizons. In an expanding universe, an observer may find that some
+regions of the past cannot be observed ("particle horizon"), and some regions of the future cannot be
+influenced (event horizon).[162] Even in flat Minkowski space, when described by an accelerated
+observer (Rindler space), there will be horizons associated with a semiclassical radiation known as
+Unruh radiation.[163]
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+18/55

@@ -1,0 +1,42 @@
+# Short queries — single term
+# One query per line. Comments begin with #.
+# Terms chosen from Einstein/General Relativity Wikipedia corpus.
+# Preprocessor will normalize (casefold, stop word filter, stem) at query time.
+einstein
+quantum
+relativity
+physics
+gravity
+radiation
+university
+nuclear
+berlin
+zurich
+princeton
+switzerland
+singularity
+hydrogen
+acceleration
+curvature
+redshift
+pulsar
+spacetime
+mathematician
+photoelectric
+equivalence
+thermodynamics
+wavelength
+geodesic
+schwarzschild
+citizenship
+persecution
+cosmological
+interferometry
+brownian
+electromagnetic
+physicist
+manhattan
+equations
+particles
+publication
+gravitational

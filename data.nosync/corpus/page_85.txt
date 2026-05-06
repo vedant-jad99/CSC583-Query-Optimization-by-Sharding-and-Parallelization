@@ -1,0 +1,52 @@
+30. Ehlers 1973, sec. 1.2, Havas 1964, Künzle 1972. The simple thought experiment in question was
+first described in Heckmann & Schücking 1959
+31. Ehlers 1973, pp. 10f
+32. Good introductions are, in order of increasing presupposed knowledge of mathematics, Giulini
+2005, Mermin 2005, and Rindler 1991; for accounts of precision experiments, cf. part IV of Ehlers
+& Lämmerzahl 2006
+33. An in-depth comparison between the two symmetry groups can be found in Giulini 2006
+34. Rindler 1991, sec. 22, Synge 1972, ch. 1 and 2
+35. Ehlers 1973, sec. 2.3
+36. Ehlers 1973, sec. 1.4, Schutz 1985, sec. 5.1
+37. Ehlers 1973, pp. 17ff; a derivation can be found in Mermin 2005, ch. 12. For the experimental
+evidence, cf. the section Gravitational time dilation and frequency shift, below
+38. Rindler 2001, sec. 1.13; for an elementary account, see Wheeler 1990, ch. 2; there are, however,
+some differences between the modern version and Einstein's original concept used in the
+historical derivation of general relativity, cf. Norton 1985
+39. Ehlers 1973, sec. 1.4 for the experimental evidence, see once more section Gravitational time
+dilation and frequency shift. Choosing a different connection with non-zero torsion leads to a
+modified theory known as Einstein–Cartan theory
+40. Ehlers 1973, p. 16, Kenyon 1990, sec. 7.2, Weinberg 1972, sec. 2.8
+41. Ehlers 1973, pp. 19–22; for similar derivations, see sections 1 and 2 of ch. 7 in Weinberg 1972.
+The Einstein tensor is the only divergence-free tensor that is a function of the metric coefficients,
+their first and second derivatives at most, and allows the spacetime of special relativity as a
+solution in the absence of sources of gravity, cf. Lovelock 1972. The tensors on both side are of
+second rank, that is, they can each be thought of as 4×4 matrices, each of which contains ten
+independent terms; hence, the above represents ten coupled equations. The fact that, as a
+consequence of geometric relations known as Bianchi identities, the Einstein tensor satisfies a
+further four identities reduces these to six independent equations, e.g. Schutz 1985, sec. 8.3
+42. Kenyon 1990, sec. 7.4
+43. Weinberg, Steven (1972). Gravitation and Cosmology: Principles and Applications of the General
+Theory of Relativity. John Wiley. ISBN 978-0-471-92567-5.
+44. Cheng, Ta-Pei (2005). Relativity, Gravitation and Cosmology: a Basic Introduction. Oxford and
+New York: Oxford University Press. ISBN 978-0-19-852957-6.
+45. Brans & Dicke 1961, Weinberg 1972, sec. 3 in ch. 7, Goenner 2004, sec. 7.2, and Trautman 2006,
+respectively
+46. Wald 1984, ch. 4, Weinberg 1972, ch. 7 or, in fact, any other textbook on general relativity
+47. At least approximately, cf. Poisson 2004a
+48. Wheeler 1990, p. xi
+49. Wald 1984, sec. 4.4
+50. Wald 1984, sec. 4.1
+51. For the (conceptual and historical) difficulties in defining a general principle of relativity and
+separating it from the notion of general covariance, see Giulini 2007
+52. section 5 in ch. 12 of Weinberg 1972
+53. Introductory chapters of Stephani et al. 2003
+54. A review showing Einstein's equation in the broader context of other PDEs with physical
+significance is Geroch 1996
+55. For background information and a list of solutions, cf. Stephani et al. 2003; a more recent review
+can be found in MacCallum 2006
+56. Chandrasekhar 1983, ch. 3,5,6
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+24/55

@@ -1,0 +1,52 @@
+57. Narlikar 1993, ch. 4, sec. 3.3
+58. Brief descriptions of these and further interesting solutions can be found in Hawking & Ellis 1973,
+ch. 5
+59. Lehner 2002
+60. For instance Wald 1984, sec. 4.4
+61. Will 1993, sec. 4.1 and 4.2
+62. Will 2006, sec. 3.2, Will 1993, ch. 4
+63. Rindler 2001, pp. 24–26 vs. pp. 236–237 and Ohanian & Ruffini 1994, pp. 164–172. Einstein
+derived these effects using the equivalence principle as early as 1907, cf. Einstein 1907 and the
+description in Pais 1982, pp. 196–198
+64. Rindler 2001, pp. 24–26; Misner, Thorne & Wheeler 1973, § 38.5
+65. Pound–Rebka experiment, see Pound & Rebka 1959, Pound & Rebka 1960; Pound & Snider
+1964; a list of further experiments is given in Ohanian & Ruffini 1994, table 4.1 on p. 186
+66. Greenstein, Oke & Shipman 1971; the most recent and most accurate Sirius B measurements are
+published in Barstow, Bond et al. 2005.
+67. Starting with the Hafele–Keating experiment, Hafele & Keating 1972a and Hafele & Keating
+1972b, and culminating in the Gravity Probe A experiment; an overview of experiments can be
+found in Ohanian & Ruffini 1994, table 4.1 on p. 186
+68. GPS is continually tested by comparing atomic clocks on the ground and aboard orbiting satellites;
+for an account of relativistic effects, see Ashby 2002 and Ashby 2003
+69. Stairs 2003 and Kramer 2004
+70. General overviews can be found in section 2.1. of Will 2006; Will 2003, pp. 32–36; Ohanian &
+Ruffini 1994, sec. 4.2
+71. Ohanian & Ruffini 1994, pp. 164–172
+72. Cf. Kennefick 2005 for the classic early measurements by Arthur Eddington's expeditions. For an
+overview of more recent measurements, see Ohanian & Ruffini 1994, ch. 4.3. For the most
+precise direct modern observations using quasars, cf. Shapiro et al. 2004
+73. This is not an independent axiom; it can be derived from Einstein's equations and the Maxwell
+Lagrangian using a WKB approximation, cf. Ehlers 1973, sec. 5
+74. Blanchet 2006, sec. 1.3
+75. Rindler 2001, sec. 1.16; for the historical examples, Israel 1987, pp. 202–204; in fact, Einstein
+published one such derivation as Einstein 1907. Such calculations tacitly assume that the
+geometry of space is Euclidean, cf. Ehlers & Rindler 1997
+76. From the standpoint of Einstein's theory, these derivations take into account the effect of gravity
+on time, but not its consequences for the warping of space, cf. Rindler 2001, sec. 11.11
+77. For the Sun's gravitational field using radar signals reflected from planets such as Venus and
+Mercury, cf. Shapiro 1964, Weinberg 1972, ch. 8, sec. 7; for signals actively sent back by space
+probes (transponder measurements), cf. Bertotti, Iess & Tortora 2003; for an overview, see
+Ohanian & Ruffini 1994, table 4.4 on p. 200; for more recent measurements using signals received
+from a pulsar that is part of a binary system, the gravitational field causing the time delay being
+that of the other pulsar, cf. Stairs 2003, sec. 4.4
+78. Will 1993, sec. 7.1 and 7.2
+79. Einstein, A (22 June 1916). "Näherungsweise Integration der Feldgleichungen der Gravitation" (htt
+ps://web.archive.org/web/20190321062928/http://einstein-annalen.mpiwg-berlin.mpg.de/related_t
+exts/sitzungsberichte). Sitzungsberichte der Königlich Preussischen Akademie der
+Wissenschaften Berlin (part 1): 688–696. Bibcode:1916SPAW.......688E (https://ui.adsabs.harvard.
+edu/abs/1916SPAW.......688E). Archived from the original (http://einstein-annalen.mpiwg-berlin.mp
+g.de/related_texts/sitzungsberichte) on 21 March 2019. Retrieved 12 February 2016.
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+25/55

@@ -1,0 +1,53 @@
+Einstein cross: four images of the
+same astronomical object, produced
+by a gravitational lens
+Artist's impression of the space-
+borne gravitational wave
+detector LISA
+Simulation based on the equations of
+general relativity: a star collapsing to form
+a black hole while emitting gravitational
+waves
+Gravitational lensing has developed into a tool of observational
+astronomy. It is used to detect the presence and distribution of
+dark matter, provide a "natural telescope" for observing distant
+galaxies, and to obtain an independent estimate of the Hubble
+constant. Statistical evaluations of lensing data provide valuable
+insight into the structural evolution of galaxies.[114]
+Observations of binary pulsars provide strong indirect evidence for
+the existence of gravitational waves (see Orbital decay, above).
+Detection of these waves is a major goal of contemporary
+relativity-related research.[115] Several land-based gravitational
+wave detectors are in operation, for example the interferometric
+detectors GEO 600, LIGO (two detectors), TAMA 300 and
+VIRGO.[116] Various pulsar timing arrays are using millisecond
+pulsars to detect gravitational waves in the 10−9 to 10−6 hertz
+frequency range, which originate from binary supermassive black
+holes.[117] A European space-based detector, eLISA / NGO, is under
+development,[118] with a precursor mission (LISA Pathfinder) having
+launched in December 2015.[119]
+Observations of gravitational waves promise to complement
+observations in the electromagnetic spectrum.[120] They are expected
+to yield information about black holes and other dense objects such
+as neutron stars and white dwarfs, about certain kinds of supernova
+implosions, and about processes in the very early universe, including
+the signature of certain types of hypothetical cosmic string.[121] In
+February 2016, the Advanced LIGO team announced that they had
+detected gravitational waves from a black hole merger.[81][82][83]
+Whenever the ratio of an object's mass to its radius becomes
+sufficiently large, general relativity predicts the formation of a
+black hole, a region of space from which nothing, not even
+light, can escape. In the accepted models of stellar evolution,
+neutron stars of around 1.4 solar masses, and stellar black
+holes with a few to a few dozen solar masses, are thought to be
+the final state for the evolution of massive stars.[122] Usually a
+galaxy has one supermassive black hole with a few million to a
+few billion solar masses in its center,[123] and its presence is
+thought to have played an important role in the formation of
+the galaxy and larger cosmic structures.[124]
+Gravitational-wave astronomy
+Black holes and other compact objects
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+14/55

@@ -1,0 +1,55 @@
+Seljak, Uros̆; Zaldarriaga, Matias (1997), "Signature of Gravity Waves in the Polarization of the
+Microwave Background", Phys. Rev. Lett., 78 (11): 2054–2057, arXiv:astro-ph/9609169 (https://arx
+iv.org/abs/astro-ph/9609169), Bibcode:1997PhRvL..78.2054S (https://ui.adsabs.harvard.edu/abs/1
+997PhRvL..78.2054S), doi:10.1103/PhysRevLett.78.2054 (https://doi.org/10.1103%2FPhysRevLet
+t.78.2054), S2CID 30795875 (https://api.semanticscholar.org/CorpusID:30795875)
+Shapiro, S. S.; Davis, J. L.; Lebach, D. E.; Gregory, J. S. (2004), "Measurement of the solar
+gravitational deflection of radio waves using geodetic very-long-baseline interferometry data,
+1979–1999", Phys. Rev. Lett., 92 (12) 121101, Bibcode:2004PhRvL..92l1101S (https://ui.adsabs.h
+arvard.edu/abs/2004PhRvL..92l1101S), doi:10.1103/PhysRevLett.92.121101 (https://doi.org/10.11
+03%2FPhysRevLett.92.121101), PMID 15089661 (https://pubmed.ncbi.nlm.nih.gov/15089661)
+Shapiro, Irwin I. (1964), "Fourth test of general relativity", Phys. Rev. Lett., 13 (26): 789–791,
+Bibcode:1964PhRvL..13..789S (https://ui.adsabs.harvard.edu/abs/1964PhRvL..13..789S),
+doi:10.1103/PhysRevLett.13.789 (https://doi.org/10.1103%2FPhysRevLett.13.789)
+Singh, Simon (2004), Big Bang: The Origin of the Universe, Fourth Estate,
+Bibcode:2004biba.book.....S (https://ui.adsabs.harvard.edu/abs/2004biba.book.....S), ISBN 978-0-
+00-715251-3
+Sorkin, Rafael D. (2005), "Causal Sets: Discrete Gravity", in Gomberoff, Andres; Marolf, Donald
+(eds.), Lectures on Quantum Gravity, Springer, p. 9009, arXiv:gr-qc/0309009 (https://arxiv.org/abs/
+gr-qc/0309009), Bibcode:2003gr.qc.....9009S (https://ui.adsabs.harvard.edu/abs/2003gr.qc.....900
+9S), ISBN 978-0-387-23995-8
+Sorkin, Rafael D. (1997), "Forks in the Road, on the Way to Quantum Gravity", Int. J. Theor.
+Phys., 36 (12): 2759–2781, arXiv:gr-qc/9706002 (https://arxiv.org/abs/gr-qc/9706002),
+Bibcode:1997IJTP...36.2759S (https://ui.adsabs.harvard.edu/abs/1997IJTP...36.2759S),
+doi:10.1007/BF02435709 (https://doi.org/10.1007%2FBF02435709), S2CID 4803804 (https://api.s
+emanticscholar.org/CorpusID:4803804)
+Spergel, D. N.; Verde, L.; Peiris, H. V.; Komatsu, E.; Nolta, M. R.; Bennett, C. L.; Halpern, M.;
+Hinshaw, G.; et al. (2003), "First Year Wilkinson Microwave Anisotropy Probe (WMAP)
+Observations: Determination of Cosmological Parameters", Astrophys. J. Suppl. Ser., 148 (1):
+175–194, arXiv:astro-ph/0302209 (https://arxiv.org/abs/astro-ph/0302209),
+Bibcode:2003ApJS..148..175S (https://ui.adsabs.harvard.edu/abs/2003ApJS..148..175S),
+doi:10.1086/377226 (https://doi.org/10.1086%2F377226), S2CID 10794058 (https://api.semantics
+cholar.org/CorpusID:10794058)
+Spergel, D. N.; Bean, R.; Doré, O.; Nolta, M. R.; Bennett, C. L.; Dunkley, J.; Hinshaw, G.; Jarosik,
+N.; et al. (2007), "Wilkinson Microwave Anisotropy Probe (WMAP) Three Year Results:
+Implications for Cosmology", Astrophysical Journal Supplement, 170 (2): 377–408, arXiv:astro-
+ph/0603449 (https://arxiv.org/abs/astro-ph/0603449), Bibcode:2007ApJS..170..377S (https://ui.ads
+abs.harvard.edu/abs/2007ApJS..170..377S), doi:10.1086/513700 (https://doi.org/10.1086%2F513
+700), S2CID 1386346 (https://api.semanticscholar.org/CorpusID:1386346)
+Springel, Volker; White, Simon D. M.; Jenkins, Adrian; Frenk, Carlos S.; Yoshida, Naoki; Gao,
+Liang; Navarro, Julio; Thacker, Robert; et al. (2005), "Simulations of the formation, evolution and
+clustering of galaxies and quasars", Nature, 435 (7042): 629–636, arXiv:astro-ph/0504097 (https://
+arxiv.org/abs/astro-ph/0504097), Bibcode:2005Natur.435..629S (https://ui.adsabs.harvard.edu/ab
+s/2005Natur.435..629S), doi:10.1038/nature03597 (https://doi.org/10.1038%2Fnature03597),
+PMID 15931216 (https://pubmed.ncbi.nlm.nih.gov/15931216), S2CID 4383030 (https://api.semanti
+cscholar.org/CorpusID:4383030)
+Stairs, Ingrid H. (2003), "Testing General Relativity with Pulsar Timing", Living Reviews in
+Relativity, 6 (1) 5, arXiv:astro-ph/0307536 (https://arxiv.org/abs/astro-ph/0307536),
+Bibcode:2003LRR.....6....5S (https://ui.adsabs.harvard.edu/abs/2003LRR.....6....5S),
+doi:10.12942/lrr-2003-5 (https://doi.org/10.12942%2Flrr-2003-5), PMC 5253800 (https://www.ncbi.
+nlm.nih.gov/pmc/articles/PMC5253800), PMID 28163640 (https://pubmed.ncbi.nlm.nih.gov/28163
+640)
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+48/55

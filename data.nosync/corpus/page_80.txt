@@ -1,0 +1,42 @@
+Another general feature of general relativity is the appearance of spacetime boundaries known as
+singularities. Spacetime can be explored by following up on timelike and lightlike geodesics—all
+possible ways that light and particles in free fall can travel. But some solutions of Einstein's equations
+have "ragged edges"—regions known as spacetime singularities, where the paths of light and falling
+particles come to an abrupt end, and geometry becomes ill-defined. In the more interesting cases,
+these are "curvature singularities", where geometrical quantities characterizing spacetime curvature,
+such as the Ricci scalar, take on infinite values.[164] Well-known examples of spacetimes with future
+singularities—where worldlines end—are the Schwarzschild solution, which describes a singularity
+inside an eternal static black hole,[165] or the Kerr solution with its ring-shaped singularity inside an
+eternal rotating black hole.[166] The Friedmann–Lemaître–Robertson–Walker solutions and other
+spacetimes describing universes have past singularities on which worldlines begin, namely Big Bang
+singularities, and some have future singularities (Big Crunch) as well.[167]
+Given that these examples are all highly symmetric—and thus simplified—it is tempting to conclude
+that the occurrence of singularities is an artifact of idealization.[168] The famous singularity theorems,
+proved using the methods of global geometry, say otherwise: singularities are a generic feature of
+general relativity, and unavoidable once the collapse of an object with realistic matter properties has
+proceeded beyond a certain stage[169] and also at the beginning of a wide class of expanding
+universes.[170] However, the theorems say little about the properties of singularities, and much of
+current research is devoted to characterizing these entities' generic structure (hypothesized e.g. by the
+BKL conjecture).[171] The cosmic censorship hypothesis states that all realistic future singularities (no
+perfect symmetries, matter with realistic properties) are safely hidden away behind a horizon, and
+thus invisible to all distant observers. While no formal proof yet exists, numerical simulations offer
+supporting evidence of its validity.[172]
+Each solution of Einstein's equation encompasses the whole history of a universe—it is not just some
+snapshot of how things are, but a whole, possibly matter-filled, spacetime. It describes the state of
+matter and geometry everywhere and at every moment in that particular universe. Due to its general
+covariance, Einstein's theory is not sufficient by itself to determine the time evolution of the metric
+tensor. It must be combined with a coordinate condition, which is analogous to gauge fixing in other
+field theories.[173]
+To understand Einstein's equations as partial differential equations, it is helpful to formulate them in
+a way that describes the evolution of the universe over time. This is done in "3+1" formulations, where
+spacetime is split into three space dimensions and one time dimension. The best-known example is
+the ADM formalism.[174] These decompositions show that the spacetime evolution equations of
+general relativity are well-behaved: solutions always exist, and are uniquely defined, once suitable
+initial conditions have been specified.[175] Such formulations of Einstein's field equations are the basis
+of numerical relativity.[176]
+Singularities
+Evolution equations
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+19/55

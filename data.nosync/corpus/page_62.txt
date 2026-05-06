@@ -1,0 +1,50 @@
+Slow motion computer simulation of the
+black hole binary system GW150914 as
+seen by a nearby observer, during 0.33 s
+of its final inspiral, merge, and ringdown.
+The star field behind the black holes is
+being heavily distorted and appears to
+rotate and move, due to extreme
+gravitational lensing, as spacetime itself
+is distorted and dragged around by the
+rotating black holes.[1]
+General relativity
+General relativity, also known as the general theory of
+relativity, and as Einstein's theory of gravity, is the
+geometric theory of gravitation published by Albert Einstein in
+May 1916 and is the accepted description of the gravitation of
+macroscopic objects in modern physics. General relativity
+generalizes special relativity and refines Isaac Newton's law of
+universal gravitation, providing a unified description of gravity
+as a geometric property of space and time, or four-dimensional
+spacetime. In particular, the curvature of spacetime is directly
+related to the energy, momentum, and stress of whatever is
+present, including matter and radiation. The relation is
+specified by the Einstein field equations, a system of second-
+order partial differential equations. John Archibald Wheeler
+summarized it: "Space-time tells matter how to move; matter
+tells space-time how to curve."
+Newton's law of universal gravitation, which describes gravity
+in classical mechanics, can be seen as a prediction of general
+relativity for the almost flat spacetime geometry around stationary mass distributions. Some
+predictions of general relativity, however, are beyond Newton's law of universal gravitation in classical
+physics. These predictions concern the passage of time, the geometry of space, the motion of bodies in
+free fall, and the propagation of light, and include gravitational time dilation, gravitational lensing, the
+gravitational redshift of light, the Shapiro time delay, singularities and black holes. So far, all tests of
+general relativity have been in agreement with the theory. The time-dependent solutions of general
+relativity enable us to extrapolate the history of the universe into the past and future, and have
+provided the modern framework for cosmology, thus leading to the discovery of the Big Bang and
+cosmic microwave background radiation. Despite the introduction of a number of alternative theories,
+general relativity continues to be the simplest theory consistent with experimental data.
+Reconciliation of general relativity with the laws of quantum physics remains a problem, however, as
+no self-consistent theory of quantum gravity has been found. It is not yet known how gravity can be
+unified with the three non-gravitational interactions: strong, weak and electromagnetic.
+Einstein's theory has astrophysical implications, including the prediction of black holes—regions of
+space in which space and time are distorted in such a way that nothing, not even light, can escape
+from them. Black holes are the end-state for massive stars. Microquasars and active galactic nuclei are
+believed to be stellar black holes and supermassive black holes. It also predicts gravitational lensing,
+where the bending of light results in distorted and multiple images of the same distant astronomical
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+1/55

@@ -1,0 +1,29 @@
+{
+  "phase": 2,
+  "timestamp": "2026-05-01T11:59:43.968972",
+  "corpus": "data.nosync/input",
+  "pipeline": "scripts/main_sharded.py",
+  "output": "bench-shards",
+  "runs": 5,
+  "wall_time_s": {
+    "mean": 32.3844,
+    "median": 32.3739,
+    "p95": 32.6378,
+    "p99": 32.6559,
+    "min": 32.1598,
+    "max": 32.6604
+  },
+  "raw_times_s": [
+    32.6604,
+    32.3739,
+    32.1806,
+    32.1598,
+    32.5474
+  ],
+  "index_size_kb": 13809.72,
+  "index_size_mb": 13.4861,
+  "peak_rss_kb": {
+    "mean": 253142.4,
+    "max": 254000
+  }
+}

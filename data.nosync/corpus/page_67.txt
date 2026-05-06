@@ -1,0 +1,41 @@
+generalization known as a semi- or pseudo-Riemannian metric. Furthermore, each Riemannian
+metric is naturally associated with one particular kind of connection, the Levi-Civita connection, and
+this is, in fact, the connection that satisfies the equivalence principle and makes space locally
+Minkowskian (that is, in suitable locally inertial coordinates, the metric is Minkowskian, and its first
+partial derivatives and the connection coefficients vanish).[39]
+Having formulated the relativistic, geometric version of the effects of gravity, the question of gravity's
+source remains. In Newtonian gravity, the source is mass. In special relativity, mass turns out to be
+part of a more general quantity called the stress–energy tensor, which includes both energy and
+momentum densities as well as stress: pressure and shear.[40] Using the equivalence principle, this
+tensor is readily generalized to curved spacetime. Drawing further upon the analogy with geometric
+Newtonian gravity, it is natural to assume that the field equation for gravity relates this tensor and the
+Ricci tensor, which describes a particular class of tidal effects: the change in volume for a small cloud
+of test particles that are initially at rest, and then fall freely. In special relativity, conservation of
+energy–momentum corresponds to the statement that the stress–energy tensor is divergence-free.
+This formula, too, is readily generalized to curved spacetime by replacing partial derivatives with their
+curved-manifold counterparts, covariant derivatives studied in differential geometry. With this
+additional condition—the covariant divergence of the stress–energy tensor, and hence of whatever is
+on the other side of the equation, is zero—the simplest nontrivial set of equations are what are called
+Einstein's (field) equations:
+Einstein's field equations
+On the left-hand side is the Einstein tensor, 
+, which is symmetric and a specific divergence-free
+combination of the Ricci tensor 
+ and the metric. In particular,
+is the curvature scalar. The Ricci tensor itself is related to the more general Riemann curvature tensor
+as
+On the right-hand side,  is a constant and 
+ is the stress–energy tensor. All tensors are written in
+abstract index notation.[41] Matching the theory's prediction to observational results for planetary
+orbits or, equivalently, assuring that the weak-gravity, low-speed limit is Newtonian mechanics, the
+proportionality constant 
+ is found to be 
+, where 
+ is the Newtonian constant of
+gravitation and  the speed of light in vacuum.[42] When there is no matter present, so that the stress–
+energy tensor vanishes, the results are the vacuum Einstein equations,
+Einstein's equations
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+6/55

@@ -1,0 +1,37 @@
+Hawking radiation
+Hawking radiation is black-body radiation released outside a black hole's event horizon due to
+quantum effects according to a model developed by Stephen Hawking in 1974.[1] The radiation was
+not predicted by previous models which assumed that once electromagnetic radiation is inside the
+event horizon, it cannot escape. Hawking radiation is predicted to be extremely faint and is many
+orders of magnitude below the current best telescopes' detecting ability.
+Hawking radiation would reduce the mass and rotational energy of black holes and consequently
+cause black hole evaporation. Because of this, black holes that do not gain mass through other means
+are expected to shrink and ultimately vanish. For all except the smallest black holes, this happens
+extremely slowly. The radiation temperature, called Hawking temperature, is inversely
+proportional to the black hole's mass, so micro black holes are predicted to be larger emitters of
+radiation than larger black holes and should dissipate faster per their mass. Consequently, if small
+black holes exist, as permitted by the hypothesis of primordial black holes, they will lose mass more
+rapidly as they shrink, leading to a final cataclysm of high energy radiation alone.[2] Such radiation
+bursts have not yet been detected.
+Modern black holes were first predicted by Einstein's 1915 theory of general relativity. Evidence of the
+astrophysical objects termed black holes began to mount half a century later,[3] and these objects are
+of current interest primarily because of their compact size and immense gravitational attraction. Early
+research into black holes was done by individuals such as Karl Schwarzschild and John Wheeler, who
+modelled black holes as having zero entropy.[3][4]
+A black hole can form when enough matter or energy is compressed into a volume small enough that
+the escape velocity is greater than the speed of light. Because nothing can travel that fast, nothing
+within a certain distance, proportional to the mass of the black hole, can escape beyond that distance.
+The region beyond which not even light can escape is the event horizon: an observer outside it cannot
+observe, become aware of, or be affected by events within the event horizon.[5]: 25–36 
+Alternatively, using a set of infalling coordinates in general relativity, one can conceptualize the event
+horizon as the region beyond which space is infalling faster than the speed of light. (Although nothing
+can travel through space faster than light, space itself can infall at any speed.)[6] Once matter is inside
+the event horizon, all of the matter inside falls inevitably into a gravitational singularity, a place of
+infinite curvature and zero size, leaving behind a warped spacetime devoid of any matter;[7] a classical
+black hole is pure empty spacetime, and the simplest (nonrotating and uncharged) is characterized
+just by its mass and event horizon.[5]: 37–43 
+Background
+4/10/26, 3:47 PM
+Hawking radiation - Wikipedia
+https://en.wikipedia.org/wiki/Hawking_radiation
+1/17

@@ -99,14 +99,20 @@ class EngineProcess:
       - Exits on EXIT command or EOF
     """
 
-    def __init__(self, engine: str, index: str) -> None:
+    def __init__(self, engine: str, index: str,
+                 phase: int = 1,
+                 shards: int = 4) -> None:
+        cmd = [engine, index, "--bench"]
+        if phase >= 2:
+            cmd += ["--shards", str(shards)]
+
         self._proc = subprocess.Popen(
-            [engine, index, "--bench"],
+            cmd,
             stdin=subprocess.PIPE,
             stdout=subprocess.PIPE,
             stderr=subprocess.PIPE,
             text=True,
-            bufsize=1,  # line buffered
+            bufsize=1,
         )
         self._wait_for_ready()
 
@@ -237,16 +243,19 @@ def build_result_doc(
     category: str,
     data: dict,
 ) -> dict:
-    return {
-        "phase":     args.phase,
-        "timestamp": datetime.now().isoformat(),
-        "engine":    args.engine,
-        "index":     args.index,
-        "category":  category,
+    doc = {
+        "phase":          args.phase,
+        "timestamp":      datetime.now().isoformat(),
+        "engine":         args.engine,
+        "index":          args.index,
+        "category":       category,
         "warmup_queries": args.warmup,
         "runs_per_query": args.runs,
-        **data,
     }
+    if args.phase >= 2:
+        doc["shards"]         = args.shards
+    doc.update(data)
+    return doc
 
 
 def write_json(out_dir: str, name: str, doc: dict) -> str:
@@ -271,13 +280,15 @@ def print_category_summary(category: str, data: dict) -> None:
 
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Benchmark query latency and throughput")
-    p.add_argument("--engine",      required=True, help="Path to engine binary")
-    p.add_argument("--index",       required=True, help="Path to index.bin")
-    p.add_argument("--queries",     required=True, help="Path to queries directory")
-    p.add_argument("--warmup",      type=int, default=10,  help="Warmup queries (default: 10)")
-    p.add_argument("--runs",        type=int, default=50,  help="Runs per query (default: 50)")
-    p.add_argument("--phase",       type=int, required=True, help="Phase number")
-    p.add_argument("--output-dir",  default="benchmark/results", help="Root results directory")
+    p.add_argument("--engine",          required=True, help="Path to engine binary")
+    p.add_argument("--index",           required=True, help="Path to index.bin or shard directory")
+    p.add_argument("--queries",         required=True, help="Path to queries directory")
+    p.add_argument("--warmup",          type=int, default=10,  help="Warmup queries (default: 10)")
+    p.add_argument("--runs",            type=int, default=50,  help="Runs per query (default: 50)")
+    p.add_argument("--phase",           type=int, required=True, help="Phase number")
+    p.add_argument("--output-dir",      default="benchmark/results", help="Root results directory")
+    p.add_argument("--shards",          type=int, default=4,
+                   help="Number of shards (Phase 2/3 only, default: 4)")
     return p.parse_args()
 
 
@@ -298,8 +309,12 @@ def main() -> None:
 
     print(f"\nBenchmarking queries: {args.engine} {args.index}")
     print(f"Warmup: {args.warmup} queries | Runs per query: {args.runs}")
+    if args.phase >= 2:
+        print(f"Shards: {args.shards}")
 
-    with EngineProcess(args.engine, args.index) as engine:
+    with EngineProcess(args.engine, args.index,
+                       phase=args.phase,
+                       shards=args.shards) as engine:
 
         # Load all query categories
         all_queries: dict[str, list[str]] = {}

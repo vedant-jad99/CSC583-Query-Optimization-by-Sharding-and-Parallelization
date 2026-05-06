@@ -1,0 +1,48 @@
+# Complex queries — multiple terms and operators (postfix notation)
+# Format: strictly postfix / RPN — operators always follow their operands.
+# Each line is one complete query.
+
+# Three-term AND chains
+einstein quantum \and relativity \and
+physics gravity \and radiation \and
+berlin zurich \and princeton \and
+spacetime curvature \and geodesic \and
+nuclear radiation \and manhattan \and
+
+# Three-term OR chains
+einstein quantum \or relativity \or
+physics gravity \or radiation \or
+berlin zurich \or princeton \or
+singularity spacetime \or curvature \or
+electromagnetic radiation \or wavelength \or
+
+# AND then OR combinations
+einstein quantum \and relativity \or
+physics gravity \and radiation \or
+berlin princeton \and zurich \or
+spacetime singularity \and curvature \or
+nuclear manhattan \and radiation \or
+
+# OR then AND combinations
+einstein quantum \or relativity \and
+physics gravity \or radiation \and
+berlin princeton \or zurich \and
+spacetime singularity \or curvature \and
+
+# NOT on compound result
+einstein quantum \and \not
+relativity physics \and \not
+berlin zurich \and \not
+spacetime curvature \and \not
+
+# Four-term queries
+einstein quantum \and relativity \and physics \or
+berlin zurich \and princeton \and germany \or
+radiation nuclear \and manhattan \and quantum \or
+spacetime curvature \and singularity \and geodesic \or
+
+# Mixed with NOT
+einstein relativity \and quantum \or berlin \not
+physics gravity \and radiation \or nuclear \not
+zurich berlin \and princeton \or germany \not
+spacetime curvature \and singularity \or geodesic \not

@@ -1,0 +1,25 @@
+implies that the consistent extension of this local thermal bath has a finite temperature at infinity,
+which implies that some of these particles emitted by the horizon are not reabsorbed and become
+outgoing Hawking radiation.[14][15]
+A Schwarzschild black hole has a metric
+The black hole is the background spacetime for a quantum field theory.
+The field theory is defined by a local path integral, so if the boundary conditions at the horizon are
+determined, the state of the field outside will be specified. To find the appropriate boundary
+conditions, consider a stationary observer just outside the horizon at position
+The local metric to lowest order is
+which is Rindler in terms of τ = ⁠ t
+4M⁠. The metric describes a frame that is accelerating to keep from
+falling into the black hole. The local acceleration, α = ⁠1
+ρ⁠, diverges as ρ → 0.
+The horizon is not a special boundary, and objects can fall in. So the local observer should feel
+accelerated in ordinary Minkowski space by the principle of equivalence. The near-horizon observer
+must see the field excited at a local temperature
+which is the Unruh effect.
+The gravitational redshift is given by the square root of the time component of the metric. So for the
+field theory state to consistently extend, there must be a thermal background everywhere with the
+local temperature redshift-matched to the near horizon temperature:
+The inverse temperature redshifted to r′ at infinity is
+4/10/26, 3:47 PM
+Hawking radiation - Wikipedia
+https://en.wikipedia.org/wiki/Hawking_radiation
+3/17

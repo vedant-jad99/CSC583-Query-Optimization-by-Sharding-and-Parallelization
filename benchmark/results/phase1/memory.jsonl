@@ -1,2 +1,1 @@
-{"phase": 1, "timestamp": "2026-04-17T01:30:12Z", "engine": "./run_engine", "index": "index.bin", "peak_rss_kb": 4448}
-{"phase": 1, "timestamp": "2026-04-18T21:15:11Z", "engine": "./run_engine", "index": "index.bin", "peak_rss_kb": 4592}
+{"phase": 1, "timestamp": "2026-05-01T18:56:00Z", "engine": "./run_engine", "index": "bench.bin", "peak_rss_kb": 79248}

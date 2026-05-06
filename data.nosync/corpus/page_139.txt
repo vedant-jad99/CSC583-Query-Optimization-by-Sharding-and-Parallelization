@@ -1,0 +1,45 @@
+Other versions of the theorem involving the weak or strong energy condition also exist.
+In modified gravity, the Einstein field equations do not hold and so these singularities do not
+necessarily arise. For example, in Infinite Derivative Gravity, it is possible for 
+ to be negative
+even if the Null Energy Condition holds.[8][9]
+1. "The Nobel Prize in Physics 2020" (https://www.nobelprize.org/prizes/physics/2020/summary/).
+NobelPrize.org. Retrieved 6 October 2020.
+2. Hawking, Stephen. "Properties of expanding universes" (https://cudl.lib.cam.ac.uk/view/MS-PHD-0
+5437/115). Cambridge Digital Library. Retrieved 24 October 2017.
+3. Starobinsky, Alexei A. (1980). "A new type of isotropic cosmological models without singularity".
+Physics Letters B. 91 (1): 99–102. Bibcode:1980PhLB...91...99S (https://ui.adsabs.harvard.edu/ab
+s/1980PhLB...91...99S). doi:10.1016/0370-2693(80)90670-X (https://doi.org/10.1016%2F0370-26
+93%2880%2990670-X).
+4. Borde, Arvind; Guth, Alan H.; Vilenkin, Alexander (15 April 2003). "Inflationary spacetimes are not
+past-complete". Physical Review Letters. 90 (15) 151301. arXiv:gr-qc/0110012 (https://arxiv.org/ab
+s/gr-qc/0110012). Bibcode:2003PhRvL..90o1301B (https://ui.adsabs.harvard.edu/abs/2003PhRv
+L..90o1301B). doi:10.1103/PhysRevLett.90.151301 (https://doi.org/10.1103%2FPhysRevLett.90.1
+51301). ISSN 0031-9007 (https://search.worldcat.org/issn/0031-9007). PMID 12732026 (https://pu
+bmed.ncbi.nlm.nih.gov/12732026). S2CID 46902994 (https://api.semanticscholar.org/CorpusID:46
+902994).
+5. Hawking, S. W. & Ellis, G. F. R. (1994). The Large Scale Structure of Space Time. Cambridge:
+Cambridge University Press. ISBN 0-521-09906-4.
+6. Hawking, Stephen & Penrose, Roger (1996). The Nature of Space and Time. Princeton: Princeton
+University Press. ISBN 0-691-03791-4.
+7. "Gravitational Lensing from a Spacetime Perspective" (https://web.archive.org/web/200703011639
+33/http://relativity.livingreviews.org/open?pubNo=lrr-2004-9&page=articlesu7.html). Archived from
+the original (http://relativity.livingreviews.org/open?pubNo=lrr-2004-9&page=articlesu7.html) on 1
+March 2007.
+8. Conroy, Aindriú; Koshelev, Alexey S; Mazumdar, Anupam (2016). "Defocusing of Null Rays in
+Infinite Derivative Gravity". Journal of Cosmology and Astroparticle Physics. 2017 (1): 017.
+arXiv:1605.02080 (https://arxiv.org/abs/1605.02080). Bibcode:2017JCAP...01..017C (https://ui.ads
+abs.harvard.edu/abs/2017JCAP...01..017C). doi:10.1088/1475-7516/2017/01/017 (https://doi.org/1
+0.1088%2F1475-7516%2F2017%2F01%2F017). S2CID 115136697 (https://api.semanticscholar.o
+rg/CorpusID:115136697).
+9. Conroy, Aindriú; Edholm, James (2017). "Newtonian Potential and Geodesic Completeness in
+Infinite Derivative Gravity". Physical Review D. 96 (4) 044012. arXiv:1705.02382 (https://arxiv.org/
+abs/1705.02382). Bibcode:2017PhRvD..96d4012E (https://ui.adsabs.harvard.edu/abs/2017PhRv
+D..96d4012E). doi:10.1103/PhysRevD.96.044012 (https://doi.org/10.1103%2FPhysRevD.96.0440
+12). S2CID 45816145 (https://api.semanticscholar.org/CorpusID:45816145).
+Modified gravity
+References
+4/10/26, 3:48 PM
+Penrose–Hawking singularity theorems - Wikipedia
+https://en.wikipedia.org/wiki/Penrose–Hawking_singularity_theorems
+6/7

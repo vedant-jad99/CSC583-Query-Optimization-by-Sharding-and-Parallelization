@@ -1,0 +1,48 @@
+99. Kramer 2004
+100. Penrose 2004, § 14.5, Misner, Thorne & Wheeler 1973, § 11.4
+101. Weinberg 1972, sec. 9.6, Ohanian & Ruffini 1994, sec. 7.8
+102. Bertotti, Ciufolini & Bender 1987, Nordtvedt 2003
+103. Kahn 2007
+104. A mission description can be found in Everitt et al. 2001; a first post-flight evaluation is given in
+Everitt, Parkinson & Kahn 2007; further updates will be available on the mission website Kahn
+1996–2012.
+105. Townsend 1997, sec. 4.2.1, Ohanian & Ruffini 1994, pp. 469–471
+106. Ohanian & Ruffini 1994, sec. 4.7, Weinberg 1972, sec. 9.7; for a more recent review, see Schäfer
+2004
+107. Ciufolini & Pavlis 2004, Ciufolini, Pavlis & Peron 2006, Iorio 2009
+108. Iorio 2006, Iorio 2010
+109. For overviews of gravitational lensing and its applications, see Ehlers, Falco & Schneider 1992
+and Wambsganss 1998
+110. For a simple derivation, see Schutz 2003, ch. 23; cf. Narayan & Bartelmann 1997, sec. 3
+111. Walsh, Carswell & Weymann 1979
+112. Images of all the known lenses can be found on the pages of the CASTLES project, Kochanek et
+al. 2007
+113. Roulet & Mollerach 1997
+114. Narayan & Bartelmann 1997, sec. 3.7
+115. Barish 2005, Bartusiak 2000, Blair & McNamara 1997
+116. Hough & Rowan 2000
+117. Hobbs, George; Archibald, A.; Arzoumanian, Z.; Backer, D.; Bailes, M.; Bhat, N. D. R.; Burgay, M.;
+Burke-Spolaor, S.; et al. (2010), "The international pulsar timing array project: using pulsars as a
+gravitational wave detector", Classical and Quantum Gravity, 27 (8) 084013, arXiv:0911.5206 (http
+s://arxiv.org/abs/0911.5206), Bibcode:2010CQGra..27h4013H (https://ui.adsabs.harvard.edu/abs/2
+010CQGra..27h4013H), doi:10.1088/0264-9381/27/8/084013 (https://doi.org/10.1088%2F0264-93
+81%2F27%2F8%2F084013), S2CID 56073764 (https://api.semanticscholar.org/CorpusID:560737
+64)
+118. Danzmann & Rüdiger 2003
+119. "LISA pathfinder overview" (https://www.esa.int/esaSC/120397_index_0_m.html). ESA. Retrieved
+23 April 2012.
+120. Thorne 1995
+121. Cutler & Thorne 2002
+122. Miller 2002, lectures 19 and 21
+123. Celotti, Miller & Sciama 1999, sec. 3
+124. Springel et al. 2005 and the accompanying summary Gnedin 2005
+125. Blandford 1987, sec. 8.2.4
+126. For the basic mechanism, see Carroll & Ostlie 1996, sec. 17.2; for more about the different types
+of astronomical objects associated with this, cf. Robson 1996
+127. For a review, see Begelman, Blandford & Rees 1984. To a distant observer, some of these jets
+even appear to move faster than light; this, however, can be explained as an optical illusion that
+does not violate the tenets of relativity, see Rees 1966
+4/10/26, 3:50 PM
+General relativity - Wikipedia
+https://en.wikipedia.org/wiki/General_relativity
+27/55

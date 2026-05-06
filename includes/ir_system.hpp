@@ -41,11 +41,13 @@ class QueryRunner {
 
     void parseQuery(const std::string &, std::vector<std::string> &);
 
+	std::vector<uint32_t> q_result;
+
 public:
     int initIRSystem(std::unordered_map<std::string, std::vector<uint32_t>>,
                      std::set<uint32_t>);
 
-    std::vector<uint32_t> runQuery(const std::vector<std::string> &normalized_terms);
+    const std::vector<uint32_t> &runQuery(const std::vector<std::string> &normalized_terms);
 };
 
 #endif /* IR_SYSTEM_HPP */

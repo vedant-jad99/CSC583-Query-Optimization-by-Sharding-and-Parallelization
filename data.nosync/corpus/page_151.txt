@@ -1,0 +1,41 @@
+Given a quantum state, the Born rule lets us compute expectation values for both 
+ and 
+, and
+moreover for powers of them. Defining the uncertainty for an observable by a standard deviation, we
+have
+and likewise for the momentum:
+The uncertainty principle states that
+Either standard deviation can in principle be made arbitrarily small, but not both simultaneously.[28]
+This inequality generalizes to arbitrary pairs of self-adjoint operators 
+ and 
+. The commutator of
+these two operators is
+and this provides the lower bound on the product of standard deviations:
+Another consequence of the canonical commutation relation is that the position and momentum
+operators are Fourier transforms of each other, so that a description of an object according to its
+momentum is the Fourier transform of its description according to its position. The fact that
+dependence in momentum is the Fourier transform of the dependence in position means that the
+momentum operator is equivalent (up to an 
+ factor) to taking the derivative according to the
+position, since in Fourier analysis differentiation corresponds to multiplication in the dual space. This
+is why in quantum equations in position space, the momentum 
+ is replaced by 
+, and in
+particular in the non-relativistic Schrödinger equation in position space the momentum-squared term
+is replaced with a Laplacian times 
+.[26]
+When two different quantum systems are considered together, the Hilbert space of the combined
+system is the tensor product of the Hilbert spaces of the two components. For example, let A and B be
+two quantum systems, with Hilbert spaces 
+ and 
+, respectively. The Hilbert space of the
+composite system is then
+If the state for the first system is the vector 
+ and the state for the second system is 
+, then the
+state of the composite system is
+Composite systems and entanglement
+4/10/26, 3:51 PM
+Quantum mechanics - Wikipedia
+https://en.wikipedia.org/wiki/Quantum_mechanics
+6/28

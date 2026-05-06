@@ -1,0 +1,51 @@
+14. For an alternative derivation and more detailed discussion of Hawking radiation as a form of Unruh
+radiation, see: de Witt, Bryce (1980). "Quantum gravity: the new synthesis". In Hawking, Stephen
+W.; Israel, Werner (eds.). General Relativity: An Einstein Centenary Survey (https://archive.org/det
+ails/generalrelativit00isra). Cambridge University Press. p. 696 (https://archive.org/details/generalr
+elativit00isra/page/n711). ISBN 0-521-29928-4.
+15. For an accessible discussion of the Unruh effect and Hawking radiation, see: Gubser, Steven S.;
+Pretorius, Frans (2017). The little book of Black Holes. Princeton, New Jersey: Princeton
+University Press. pp. 154–162. ISBN 978-0691163727.
+16. Preskill, J. (1992). Black holes and information: A crisis in quantum physics (https://www.preskill.ca
+ltech.edu/talks/blackholes.pdf). In Caltech Theory Seminar [1994].
+17. Page, Don N. (1976). "Particle emission rates from a black hole: Massless particles from an
+uncharged, nonrotating hole". Physical Review D. 13 (2): 198–206.
+Bibcode:1976PhRvD..13..198P (https://ui.adsabs.harvard.edu/abs/1976PhRvD..13..198P).
+doi:10.1103/PhysRevD.13.198 (https://doi.org/10.1103%2FPhysRevD.13.198).
+18. Wald, Robert M. (1994). Quantum Field Theory in Curved Spacetime and Black Hole
+Thermodynamics. University of Chicago Press. ISBN 9780226870250. OCLC 832158297 (https://
+search.worldcat.org/oclc/832158297).
+19. Lopresto, Michael (May 2003). "Some Simple Black Hole Thermodynamics" (https://web.stanford.
+edu/~oas/SI/SRGR/lib/BlackHoleThermoShort.pdf) (PDF). The Physics Teacher. 41 (5): 299–301.
+Bibcode:2003PhTea..41..299L (https://ui.adsabs.harvard.edu/abs/2003PhTea..41..299L).
+doi:10.1119/1.1571268 (https://doi.org/10.1119%2F1.1571268).
+20. Toth, Viktor T. "Viktor T. Toth - Hawking radiation calculator" (https://www.vttoth.com/CMS/physics-
+notes/311-hawking-radiation-calculator). www.vttoth.com.
+21. Kapusta, Joseph (1999). "The Last Eight Minutes of a Primordial Black Hole". arXiv:astro-
+ph/9911309 (https://arxiv.org/abs/astro-ph/9911309).
+22. Hawking, S. W. (1975). "Particle creation by black holes" (http://projecteuclid.org/euclid.cmp/11038
+99181). Communications in Mathematical Physics. 43 (3): 199–220.
+Bibcode:1975CMaPh..43..199H (https://ui.adsabs.harvard.edu/abs/1975CMaPh..43..199H).
+doi:10.1007/BF02345020 (https://doi.org/10.1007%2FBF02345020). S2CID 55539246 (https://api.
+semanticscholar.org/CorpusID:55539246).
+23. MacGibbon, Jane H.; Carr, B. J.; Page, Don N. (2008). "Do Evaporating Black Holes Form
+Photospheres?". Physical Review D. 78 (6) 064043. arXiv:0709.2380 (https://arxiv.org/abs/0709.2
+380). Bibcode:2008PhRvD..78f4043M (https://ui.adsabs.harvard.edu/abs/2008PhRvD..78f4043
+M). doi:10.1103/PhysRevD.78.064043 (https://doi.org/10.1103%2FPhysRevD.78.064043).
+S2CID 119230843 (https://api.semanticscholar.org/CorpusID:119230843).
+24. See page 596: table 1 and the "black hole decay" section and previous sentence on that page in
+Frautschi, Steven (1982). "Entropy in an Expanding Universe". Science. 217 (4560): 593–599.
+Bibcode:1982Sci...217..593F (https://ui.adsabs.harvard.edu/abs/1982Sci...217..593F).
+doi:10.1126/science.217.4560.593 (https://doi.org/10.1126%2Fscience.217.4560.593).
+PMID 17817517 (https://pubmed.ncbi.nlm.nih.gov/17817517). S2CID 27717447 (https://api.seman
+ticscholar.org/CorpusID:27717447). "Since we have assumed a maximum scale of gravitational
+binding – for instance, superclusters of galaxies – black hole formation eventually comes to an
+end in our model, with masses of up to 1014M☉ ... the timescale for black holes to radiate away all
+their energy ranges from to 1064 years for black holes of one solar mass ..."
+25. "Ask Ethan: How Do Black Holes Actually Evaporate?" (https://www.forbes.com/sites/startswithaba
+ng/2018/11/03/ask-ethan-how-do-black-holes-actually-evaporate/?sh=419e616024a1). Starts With
+a Bang. Ethan Siegel. 2018. Retrieved 21 June 2023.
+4/10/26, 3:47 PM
+Hawking radiation - Wikipedia
+https://en.wikipedia.org/wiki/Hawking_radiation
+11/17

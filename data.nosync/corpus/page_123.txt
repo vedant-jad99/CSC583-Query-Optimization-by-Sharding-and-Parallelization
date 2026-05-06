@@ -1,0 +1,39 @@
+The trans-Planckian problem is the issue that Hawking's original calculation includes quantum
+particles where the wavelength becomes shorter than the Planck length near the black hole's horizon.
+This is due to the peculiar behavior there, where time stops as measured from far away. A particle
+emitted from a black hole with a finite frequency, if traced back to the horizon, must have had an
+infinite frequency, and therefore a trans-Planckian wavelength.
+The Unruh effect and the Hawking effect both talk about field modes in the superficially stationary
+spacetime that change frequency relative to other coordinates that are regular across the horizon. This
+is necessarily so, since to stay outside a horizon requires acceleration that constantly Doppler shifts
+the modes.
+An outgoing photon of Hawking radiation, if the mode is traced back in time, has a frequency that
+diverges from that which it has at great distance, as it gets closer to the horizon, which requires the
+wavelength of the photon to "scrunch up" infinitely at the horizon of the black hole. In a maximally
+extended external Schwarzschild solution, that photon's frequency stays regular only if the mode is
+extended back into the past region where no observer can go, so Hawking used a different black hole
+solution without a past region, one that forms at a finite time in the past. In that case, the source of all
+the outgoing photons can be identified: a microscopic point right at the moment that the black hole
+first formed.
+The quantum fluctuations at that tiny point, in Hawking's original calculation, contain all the outgoing
+radiation. The modes that eventually contain the outgoing radiation at long times are redshifted by
+such a huge amount by their long sojourn next to the event horizon that they start off as modes with a
+wavelength much shorter than the Planck length. Since the laws of physics at such short distances are
+unknown, some find Hawking's original calculation unconvincing.[26][27][28][29]
+The trans-Planckian problem is nowadays mostly considered a mathematical artifact of horizon
+calculations. The same effect occurs for regular matter falling onto a white hole solution. Matter that
+falls on the white hole accumulates on it, but has no future region into which it can go. Tracing the
+future of this matter, it is compressed onto the final singular endpoint of the white hole evolution, into
+a trans-Planckian region. The reason for these types of divergences is that modes that end at the
+horizon from the point of view of outside coordinates are singular in frequency there. The only way to
+determine what happens classically is to extend in some other coordinates that cross the horizon.
+There exist alternative physical pictures that give the Hawking radiation in which the trans-Planckian
+problem is addressed. The key point is that similar trans-Planckian problems occur when the modes
+occupied with Unruh radiation are traced back in time.[14] In the Unruh effect, the magnitude of the
+temperature can be calculated from ordinary Minkowski field theory, and is not controversial.
+Problems and extensions
+Trans-Planckian problem
+4/10/26, 3:47 PM
+Hawking radiation - Wikipedia
+https://en.wikipedia.org/wiki/Hawking_radiation
+7/17

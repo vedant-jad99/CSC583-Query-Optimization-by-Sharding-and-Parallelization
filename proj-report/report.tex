@@ -447,6 +447,83 @@ for that document. The final index is produced by converting each set to a
 sorted list, satisfying the ascending-order requirement for delta encoding
 in \texttt{VBEncoder}.
 
+\subsection{C++ Query Normalization}
+
+The C++ query engine applies an identical normalization pipeline to the
+one used by the Python indexer at build time, ensuring that index keys
+and query terms always share the same canonical form. The entry point is
+\texttt{Preprocessor::process()} in \texttt{src/preprocessor.cpp}, which
+mirrors Python's \texttt{Normalizer.normalize()} in
+\texttt{scripts/pipeline/normalizer.py}.
+
+\begin{enumerate}[leftmargin=*, noitemsep]
+    \item \textbf{Tokenization and Operator Detection} --- the raw query
+    string is split on whitespace into chunks. Each chunk is checked
+    case-insensitively against the Boolean operator table before any
+    normalization occurs. Tokens matching
+    \texttt{\textbackslash and}, \texttt{\textbackslash or},
+    \texttt{\textbackslash not}, or their bare-word equivalents are
+    emitted directly and bypass all further stages. This guarantees that
+    Boolean operators are never consumed by the stop-word filter ---
+    critical because \texttt{and}, \texttt{or}, and \texttt{not} all
+    appear in the stop-word set. Remaining chunks are decomposed into
+    alphanumeric sub-tokens via an inner loop, producing the same result
+    as Python's \texttt{re.findall(r"[a-zA-Z0-9]+")}.
+
+    \item \textbf{Case Folding} --- each sub-token is lowercased via
+    \texttt{std::tolower} with an \texttt{unsigned char} cast. The cast
+    is necessary to avoid undefined behavior on platforms where
+    \texttt{char} is signed. Python's \texttt{str.lower()} is
+    Unicode-aware by contrast, but since both sides restrict input to
+    \texttt{[a-zA-Z0-9]} sequences, output is identical for the ASCII
+    corpus used in this system.
+
+    \item \textbf{Punctuation Removal} --- non-alphanumeric characters
+    are stripped and empty tokens discarded. In practice this stage is a
+    no-op --- the inner tokenizer already guarantees alphanumeric-only
+    output. It is retained explicitly to mirror the Python pipeline
+    structure and to remain correct if the tokenizer logic ever changes.
+
+    \item \textbf{Stop-Word Filtering} --- each token is checked against
+    a \texttt{static const std::unordered\_set\textless{}string\textgreater{}}
+    of 132 English stop words in \texttt{preprocessor.cpp}, matching the
+    set in \texttt{normalizer.py} exactly. Any divergence between the two
+    sets causes query terms to be silently absent from results. Lookup is
+    O(1) average via hash bucketing, faster than a sorted
+    \texttt{std::set} which costs O($\log n$).
+
+    \item \textbf{Porter Stemming} --- surviving tokens are passed to a
+    fully embedded NLTK-compatible Porter stemmer in
+    \texttt{preprocessor.cpp}. The implementation covers all five
+    canonical steps and must agree with NLTK's Python output on every
+    stem; disagreement produces empty query results with no error signal.
+    Step~2 includes the NLTK extension
+    (\texttt{logi}$\rightarrow$\texttt{log}) not present in Porter's
+    original 1980 paper --- the only point where the C++ implementation
+    intentionally diverges from the canonical algorithm in order to
+    preserve NLTK compatibility.
+\end{enumerate}
+
+The pipeline order mirrors Python exactly for the same reasons: stop-word
+filtering before stemming avoids the degenerate case where a stop word
+survives because its stemmed form differs from its dictionary form.
+
+One known behavioral gap exists between the two sides. Python's
+\texttt{Normalizer.normalize()} applies the stop-word filter a second
+time after stemming, catching stems that Porter reduces to a stop word
+(e.g., \textit{ans}$\rightarrow$\textit{an}). The C++ preprocessor
+currently filters only once, before stemming. The fix requires adding a
+single guard after stemming in \texttt{preprocessor.cpp} so that any
+stem matching a stop word is discarded before being pushed to the result
+vector.
+
+Thread safety is guaranteed by design. The \texttt{PorterStemmer} is
+stack-allocated as a local variable inside each call to
+\texttt{Preprocessor::process()}, and \texttt{STOP\_WORDS} is
+\texttt{static const} --- initialized once and read-only thereafter.
+Phase~3's concurrent worker threads therefore call \texttt{process()}
+without locks and without data races.
+
 % =============================================================================
 \section{LLM-Assisted Development}
 % =============================================================================

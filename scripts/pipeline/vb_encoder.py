@@ -30,7 +30,7 @@ Encodes a sorted posting list into a compact byte sequence using two stages:
       Two-byte range   (128–16383):  2 bytes
       For typical small gaps in a dense posting list, most values fit in 1–2 bytes.
 
-Author: Vedant Keshav Jadhav
+Author: Mahshad 
 Phase:  1
 """
 
